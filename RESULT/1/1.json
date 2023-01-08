@@ -1,0 +1,580 @@
+[
+    {
+        "Object_id": "5-0.34",
+        "Lower_left_corner": [
+            76,
+            806
+        ],
+        "Class_num": 1,
+        "Bbox_width": 259,
+        "Bbox_height": 95,
+        "Image_id": "e88b0134-a481-48f7-8365-49e849ddaeb6",
+        "Length_mm": 2137,
+        "Width_mm": 5827,
+        "Class_name": "large_pit",
+        "GPS_coordinates": [
+            "55,8951816666667",
+            "53,5009983333333"
+        ],
+        "Date_of_detection": "15.09.2016",
+        "Time_of_detection": "9:41:52"
+    },
+    {
+        "Object_id": "1-0.81",
+        "Lower_left_corner": [
+            1119,
+            369
+        ],
+        "Class_num": 4,
+        "Bbox_width": 84,
+        "Bbox_height": 143,
+        "Image_id": "ae1ab46e-9e4a-44be-a00f-8b5c41bb4f3d",
+        "Class_name": "bad_sign",
+        "GPS_coordinates": [
+            "55,8951816666667",
+            "53,5009983333333"
+        ],
+        "Date_of_detection": "15.09.2016",
+        "Time_of_detection": "9:41:53"
+    },
+    {
+        "Object_id": "6-0.61",
+        "Lower_left_corner": [
+            1684,
+            488
+        ],
+        "Class_num": 10,
+        "Bbox_width": 235,
+        "Bbox_height": 161,
+        "Image_id": "ae1ab46e-9e4a-44be-a00f-8b5c41bb4f3d",
+        "Class_name": "overflowing_bin",
+        "GPS_coordinates": [
+            "55,8951816666667",
+            "53,5009983333333"
+        ],
+        "Date_of_detection": "15.09.2016",
+        "Time_of_detection": "9:41:53"
+    },
+    {
+        "Object_id": "8-0.35",
+        "Lower_left_corner": [
+            186,
+            693
+        ],
+        "Class_num": 1,
+        "Bbox_width": 184,
+        "Bbox_height": 73,
+        "Image_id": "ae1ab46e-9e4a-44be-a00f-8b5c41bb4f3d",
+        "Length_mm": 1642,
+        "Width_mm": 4140,
+        "Class_name": "large_pit",
+        "GPS_coordinates": [
+            "55,8951816666667",
+            "53,5009983333333"
+        ],
+        "Date_of_detection": "15.09.2016",
+        "Time_of_detection": "9:41:53"
+    },
+    {
+        "Object_id": "6-0.57",
+        "Lower_left_corner": [
+            1687,
+            507
+        ],
+        "Class_num": 10,
+        "Bbox_width": 232,
+        "Bbox_height": 182,
+        "Image_id": "9311b5ff-1392-425c-8242-d9093812c0e1",
+        "Class_name": "overflowing_bin",
+        "GPS_coordinates": [
+            "55,8951816666667",
+            "53,5009983333333"
+        ],
+        "Date_of_detection": "15.09.2016",
+        "Time_of_detection": "9:41:53"
+    },
+    {
+        "Object_id": "8-0.48",
+        "Lower_left_corner": [
+            0,
+            762
+        ],
+        "Class_num": 1,
+        "Bbox_width": 142,
+        "Bbox_height": 101,
+        "Image_id": "9311b5ff-1392-425c-8242-d9093812c0e1",
+        "Length_mm": 2272,
+        "Width_mm": 3195,
+        "Class_name": "large_pit",
+        "GPS_coordinates": [
+            "55,8951816666667",
+            "53,5009983333333"
+        ],
+        "Date_of_detection": "15.09.2016",
+        "Time_of_detection": "9:41:53"
+    },
+    {
+        "Object_id": "11-0.39",
+        "Lower_left_corner": [
+            977,
+            828
+        ],
+        "Class_num": 3,
+        "Bbox_width": 138,
+        "Bbox_height": 81,
+        "Image_id": "9311b5ff-1392-425c-8242-d9093812c0e1",
+        "Length_mm": 1822,
+        "Width_mm": 3105,
+        "Class_name": "small_pit",
+        "GPS_coordinates": [
+            "55,8951816666667",
+            "53,5009983333333"
+        ],
+        "Date_of_detection": "15.09.2016",
+        "Time_of_detection": "9:41:53"
+    },
+    {
+        "Object_id": "2-0.42",
+        "Lower_left_corner": [
+            246,
+            704
+        ],
+        "Class_num": 1,
+        "Bbox_width": 217,
+        "Bbox_height": 63,
+        "Image_id": "1fcdc7f7-a6ec-497c-af1b-8f1e376d782c",
+        "Length_mm": 1417,
+        "Width_mm": 4882,
+        "Class_name": "large_pit",
+        "GPS_coordinates": [
+            "55,8951816666667",
+            "53,5009983333333"
+        ],
+        "Date_of_detection": "15.09.2016",
+        "Time_of_detection": "9:41:53"
+    },
+    {
+        "Object_id": "6-0.39",
+        "Lower_left_corner": [
+            1718,
+            495
+        ],
+        "Class_num": 10,
+        "Bbox_width": 201,
+        "Bbox_height": 203,
+        "Image_id": "1fcdc7f7-a6ec-497c-af1b-8f1e376d782c",
+        "Class_name": "overflowing_bin",
+        "GPS_coordinates": [
+            "55,8951816666667",
+            "53,5009983333333"
+        ],
+        "Date_of_detection": "15.09.2016",
+        "Time_of_detection": "9:41:53"
+    },
+    {
+        "Object_id": "2-0.42",
+        "Lower_left_corner": [
+            51,
+            793
+        ],
+        "Class_num": 1,
+        "Bbox_width": 246,
+        "Bbox_height": 71,
+        "Image_id": "5265a4e2-ee64-430b-806e-5a267d2d81f5",
+        "Length_mm": 1597,
+        "Width_mm": 5535,
+        "Class_name": "large_pit",
+        "GPS_coordinates": [
+            "55,8951816666667",
+            "53,5009983333333"
+        ],
+        "Date_of_detection": "15.09.2016",
+        "Time_of_detection": "9:41:53"
+    },
+    {
+        "Object_id": "6-0.34",
+        "Lower_left_corner": [
+            1754,
+            517
+        ],
+        "Class_num": 10,
+        "Bbox_width": 165,
+        "Bbox_height": 217,
+        "Image_id": "5265a4e2-ee64-430b-806e-5a267d2d81f5",
+        "Class_name": "overflowing_bin",
+        "GPS_coordinates": [
+            "55,8951816666667",
+            "53,5009983333333"
+        ],
+        "Date_of_detection": "15.09.2016",
+        "Time_of_detection": "9:41:53"
+    },
+    {
+        "Object_id": "11-0.66",
+        "Lower_left_corner": [
+            22,
+            796
+        ],
+        "Class_num": 1,
+        "Bbox_width": 592,
+        "Bbox_height": 177,
+        "Image_id": "de5d5a8d-366a-4cfe-8771-7ba8c1f6bdb0",
+        "Length_mm": 3982,
+        "Width_mm": 13320,
+        "Class_name": "large_pit",
+        "GPS_coordinates": [
+            "55,8951816666667",
+            "53,5009983333333"
+        ],
+        "Date_of_detection": "15.09.2016",
+        "Time_of_detection": "9:41:54"
+    },
+    {
+        "Object_id": "1-0.81",
+        "Lower_left_corner": [
+            1104,
+            213
+        ],
+        "Class_num": 4,
+        "Bbox_width": 55,
+        "Bbox_height": 238,
+        "Image_id": "94846b80-21bc-4035-a59c-0ff20185c699",
+        "Class_name": "bad_sign",
+        "GPS_coordinates": [
+            "55,89518",
+            "53,5009983333333"
+        ],
+        "Date_of_detection": "15.09.2016",
+        "Time_of_detection": "9:41:54"
+    },
+    {
+        "Object_id": "6-0.71",
+        "Lower_left_corner": [
+            664,
+            630
+        ],
+        "Class_num": 1,
+        "Bbox_width": 151,
+        "Bbox_height": 75,
+        "Image_id": "720662c0-b4e0-4eda-91bc-608f58d0e1ed",
+        "Length_mm": 1687,
+        "Width_mm": 3397,
+        "Class_name": "large_pit",
+        "GPS_coordinates": [
+            "55,89518",
+            "53,5009983333333"
+        ],
+        "Date_of_detection": "15.09.2016",
+        "Time_of_detection": "9:41:55"
+    },
+    {
+        "Object_id": "16-0.69",
+        "Lower_left_corner": [
+            649,
+            632
+        ],
+        "Class_num": 1,
+        "Bbox_width": 160,
+        "Bbox_height": 79,
+        "Image_id": "720662c0-b4e0-4eda-91bc-608f58d0e1ed",
+        "Length_mm": 1777,
+        "Width_mm": 3600,
+        "Class_name": "large_pit",
+        "GPS_coordinates": [
+            "55,89518",
+            "53,5009983333333"
+        ],
+        "Date_of_detection": "15.09.2016",
+        "Time_of_detection": "9:41:55"
+    },
+    {
+        "Object_id": "1-0.81",
+        "Lower_left_corner": [
+            1131,
+            191
+        ],
+        "Class_num": 4,
+        "Bbox_width": 58,
+        "Bbox_height": 280,
+        "Image_id": "a00f0c3c-1efb-4839-9bf7-313995be584e",
+        "Class_name": "bad_sign",
+        "GPS_coordinates": [
+            "55,89518",
+            "53,5009983333333"
+        ],
+        "Date_of_detection": "15.09.2016",
+        "Time_of_detection": "9:41:55"
+    },
+    {
+        "Object_id": "6-0.77",
+        "Lower_left_corner": [
+            984,
+            935
+        ],
+        "Class_num": 3,
+        "Bbox_width": 153,
+        "Bbox_height": 82,
+        "Image_id": "a00f0c3c-1efb-4839-9bf7-313995be584e",
+        "Length_mm": 1845,
+        "Width_mm": 3442,
+        "Class_name": "small_pit",
+        "GPS_coordinates": [
+            "55,89518",
+            "53,5009983333333"
+        ],
+        "Date_of_detection": "15.09.2016",
+        "Time_of_detection": "9:41:55"
+    },
+    {
+        "Object_id": "23-0.71",
+        "Lower_left_corner": [
+            1471,
+            534
+        ],
+        "Class_num": 10,
+        "Bbox_width": 435,
+        "Bbox_height": 109,
+        "Image_id": "c3c88f0c-e5dd-4417-8e6f-9045ea528919",
+        "Class_name": "overflowing_bin",
+        "GPS_coordinates": [
+            "55,8951816666667",
+            "53,5010033333333"
+        ],
+        "Date_of_detection": "15.09.2016",
+        "Time_of_detection": "9:41:56"
+    },
+    {
+        "Object_id": "24-0.61",
+        "Lower_left_corner": [
+            1598,
+            936
+        ],
+        "Class_num": 3,
+        "Bbox_width": 179,
+        "Bbox_height": 100,
+        "Image_id": "c3c88f0c-e5dd-4417-8e6f-9045ea528919",
+        "Length_mm": 2250,
+        "Width_mm": 4027,
+        "Class_name": "small_pit",
+        "GPS_coordinates": [
+            "55,8951816666667",
+            "53,5010033333333"
+        ],
+        "Date_of_detection": "15.09.2016",
+        "Time_of_detection": "9:41:56"
+    },
+    {
+        "Object_id": "23-0.78",
+        "Lower_left_corner": [
+            1587,
+            557
+        ],
+        "Class_num": 10,
+        "Bbox_width": 332,
+        "Bbox_height": 110,
+        "Image_id": "ed21b9a0-863d-4bdd-9eb1-1fce521c34e7",
+        "Class_name": "overflowing_bin",
+        "GPS_coordinates": [
+            "55,8951816666667",
+            "53,5010066666667"
+        ],
+        "Date_of_detection": "15.09.2016",
+        "Time_of_detection": "9:41:56"
+    },
+    {
+        "Object_id": "22-0.55",
+        "Lower_left_corner": [
+            224,
+            675
+        ],
+        "Class_num": 1,
+        "Bbox_width": 249,
+        "Bbox_height": 107,
+        "Image_id": "fd1964df-0145-4103-99fc-86e3e1163785",
+        "Length_mm": 2407,
+        "Width_mm": 5602,
+        "Class_name": "large_pit",
+        "GPS_coordinates": [
+            "55,8951816666667",
+            "53,50101"
+        ],
+        "Date_of_detection": "15.09.2016",
+        "Time_of_detection": "9:41:56"
+    },
+    {
+        "Object_id": "23-0.46",
+        "Lower_left_corner": [
+            1738,
+            552
+        ],
+        "Class_num": 10,
+        "Bbox_width": 180,
+        "Bbox_height": 174,
+        "Image_id": "fd1964df-0145-4103-99fc-86e3e1163785",
+        "Class_name": "overflowing_bin",
+        "GPS_coordinates": [
+            "55,8951816666667",
+            "53,50101"
+        ],
+        "Date_of_detection": "15.09.2016",
+        "Time_of_detection": "9:41:56"
+    },
+    {
+        "Object_id": "27-0.39",
+        "Lower_left_corner": [
+            558,
+            695
+        ],
+        "Class_num": 3,
+        "Bbox_width": 185,
+        "Bbox_height": 84,
+        "Image_id": "fd1964df-0145-4103-99fc-86e3e1163785",
+        "Length_mm": 1890,
+        "Width_mm": 4162,
+        "Class_name": "small_pit",
+        "GPS_coordinates": [
+            "55,8951816666667",
+            "53,50101"
+        ],
+        "Date_of_detection": "15.09.2016",
+        "Time_of_detection": "9:41:56"
+    },
+    {
+        "Object_id": "33-0.72",
+        "Lower_left_corner": [
+            238,
+            829
+        ],
+        "Class_num": 1,
+        "Bbox_width": 355,
+        "Bbox_height": 218,
+        "Image_id": "7b50c80f-ee03-4e71-aa6b-fd68dc2a9c36",
+        "Length_mm": 4905,
+        "Width_mm": 7987,
+        "Class_name": "large_pit",
+        "GPS_coordinates": [
+            "55,8951833333333",
+            "53,501015"
+        ],
+        "Date_of_detection": "15.09.2016",
+        "Time_of_detection": "9:41:56"
+    },
+    {
+        "Object_id": "27-0.33",
+        "Lower_left_corner": [
+            258,
+            705
+        ],
+        "Class_num": 1,
+        "Bbox_width": 374,
+        "Bbox_height": 121,
+        "Image_id": "6a908e4f-ec50-4324-b581-02f0defece09",
+        "Length_mm": 2722,
+        "Width_mm": 8415,
+        "Class_name": "large_pit",
+        "GPS_coordinates": [
+            "55,8951833333333",
+            "53,5010216666667"
+        ],
+        "Date_of_detection": "15.09.2016",
+        "Time_of_detection": "9:41:57"
+    },
+    {
+        "Object_id": "33-0.58",
+        "Lower_left_corner": [
+            0,
+            825
+        ],
+        "Class_num": 1,
+        "Bbox_width": 494,
+        "Bbox_height": 241,
+        "Image_id": "028763ac-12db-46c5-a50b-ddb8dfc39af6",
+        "Length_mm": 5422,
+        "Width_mm": 11115,
+        "Class_name": "large_pit",
+        "GPS_coordinates": [
+            "55,895185",
+            "53,5010283333333"
+        ],
+        "Date_of_detection": "15.09.2016",
+        "Time_of_detection": "9:41:57"
+    },
+    {
+        "Object_id": "37-0.81",
+        "Lower_left_corner": [
+            1583,
+            744
+        ],
+        "Class_num": 10,
+        "Bbox_width": 225,
+        "Bbox_height": 156,
+        "Image_id": "16ab4ecd-150d-4154-83a6-79c732fdb680",
+        "Class_name": "overflowing_bin",
+        "GPS_coordinates": [
+            "55,8951866666667",
+            "53,5010366666667"
+        ],
+        "Date_of_detection": "15.09.2016",
+        "Time_of_detection": "9:41:57"
+    },
+    {
+        "Object_id": "27-0.40",
+        "Lower_left_corner": [
+            509,
+            701
+        ],
+        "Class_num": 1,
+        "Bbox_width": 150,
+        "Bbox_height": 38,
+        "Image_id": "1545d1be-bdf1-4002-9bd4-28de124d3f31",
+        "Length_mm": 855,
+        "Width_mm": 3375,
+        "Class_name": "large_pit",
+        "GPS_coordinates": [
+            "55,8951883333333",
+            "53,501045"
+        ],
+        "Date_of_detection": "15.09.2016",
+        "Time_of_detection": "9:41:57"
+    },
+    {
+        "Object_id": "22-0.69",
+        "Lower_left_corner": [
+            392,
+            812
+        ],
+        "Class_num": 1,
+        "Bbox_width": 144,
+        "Bbox_height": 44,
+        "Image_id": "bb094eb0-455f-4427-a6db-ef06e01d8066",
+        "Length_mm": 990,
+        "Width_mm": 3240,
+        "Class_name": "large_pit",
+        "GPS_coordinates": [
+            "55,89519",
+            "53,5010566666667"
+        ],
+        "Date_of_detection": "15.09.2016",
+        "Time_of_detection": "9:41:57"
+    },
+    {
+        "Object_id": "27-0.52",
+        "Lower_left_corner": [
+            467,
+            908
+        ],
+        "Class_num": 1,
+        "Bbox_width": 107,
+        "Bbox_height": 49,
+        "Image_id": "bb094eb0-455f-4427-a6db-ef06e01d8066",
+        "Length_mm": 1102,
+        "Width_mm": 2407,
+        "Class_name": "large_pit",
+        "GPS_coordinates": [
+            "55,89519",
+            "53,5010566666667"
+        ],
+        "Date_of_detection": "15.09.2016",
+        "Time_of_detection": "9:41:57"
+    }
+]

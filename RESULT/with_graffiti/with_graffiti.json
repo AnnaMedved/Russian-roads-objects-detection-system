@@ -1,0 +1,374 @@
+[
+    {
+        "Object_id": "2-0.50",
+        "Lower_left_corner": [
+            221,
+            187
+        ],
+        "Class_num": 5,
+        "Bbox_width": 142,
+        "Bbox_height": 60,
+        "Image_id": "5507cb21-a376-44b0-bd99-6fd0df000487",
+        "Class_name": "graffiti"
+    },
+    {
+        "Object_id": "2-0.42",
+        "Lower_left_corner": [
+            219,
+            187
+        ],
+        "Class_num": 5,
+        "Bbox_width": 144,
+        "Bbox_height": 60,
+        "Image_id": "08d95a14-f5a8-4d85-8195-7dc9d2489f2e",
+        "Class_name": "graffiti"
+    },
+    {
+        "Object_id": "2-0.39",
+        "Lower_left_corner": [
+            219,
+            188
+        ],
+        "Class_num": 5,
+        "Bbox_width": 145,
+        "Bbox_height": 60,
+        "Image_id": "424a08a6-08a3-4e2f-97da-4257d574bbcb",
+        "Class_name": "graffiti"
+    },
+    {
+        "Object_id": "2-0.48",
+        "Lower_left_corner": [
+            224,
+            188
+        ],
+        "Class_num": 5,
+        "Bbox_width": 138,
+        "Bbox_height": 59,
+        "Image_id": "ecdd6e7a-36c6-499b-85c0-6075ad3043f7",
+        "Class_name": "graffiti"
+    },
+    {
+        "Object_id": "2-0.50",
+        "Lower_left_corner": [
+            225,
+            188
+        ],
+        "Class_num": 5,
+        "Bbox_width": 137,
+        "Bbox_height": 59,
+        "Image_id": "b3b55d07-63a8-4de3-8522-eef2a99bfead",
+        "Class_name": "graffiti"
+    },
+    {
+        "Object_id": "2-0.44",
+        "Lower_left_corner": [
+            232,
+            188
+        ],
+        "Class_num": 5,
+        "Bbox_width": 128,
+        "Bbox_height": 58,
+        "Image_id": "4f184b35-d3e4-4918-8b90-80fe5ecefbd8",
+        "Class_name": "graffiti"
+    },
+    {
+        "Object_id": "2-0.43",
+        "Lower_left_corner": [
+            238,
+            190
+        ],
+        "Class_num": 5,
+        "Bbox_width": 119,
+        "Bbox_height": 55,
+        "Image_id": "6f4617d9-d236-4e0d-a245-853d31a4218e",
+        "Class_name": "graffiti"
+    },
+    {
+        "Object_id": "2-0.52",
+        "Lower_left_corner": [
+            244,
+            191
+        ],
+        "Class_num": 5,
+        "Bbox_width": 108,
+        "Bbox_height": 54,
+        "Image_id": "940ac360-86e9-4fb0-8098-fec1afa5084e",
+        "Class_name": "graffiti"
+    },
+    {
+        "Object_id": "2-0.68",
+        "Lower_left_corner": [
+            241,
+            186
+        ],
+        "Class_num": 5,
+        "Bbox_width": 107,
+        "Bbox_height": 57,
+        "Image_id": "d5a6b2ba-cd94-458c-97d1-19b187c0258a",
+        "Class_name": "graffiti"
+    },
+    {
+        "Object_id": "2-0.68",
+        "Lower_left_corner": [
+            240,
+            185
+        ],
+        "Class_num": 5,
+        "Bbox_width": 108,
+        "Bbox_height": 59,
+        "Image_id": "3684e5cd-b668-4b1e-8099-dab1d79d4a11",
+        "Class_name": "graffiti"
+    },
+    {
+        "Object_id": "2-0.44",
+        "Lower_left_corner": [
+            215,
+            184
+        ],
+        "Class_num": 5,
+        "Bbox_width": 127,
+        "Bbox_height": 58,
+        "Image_id": "afef1c17-8531-4e9a-88cd-17f1f9e24578",
+        "Class_name": "graffiti"
+    },
+    {
+        "Object_id": "2-0.44",
+        "Lower_left_corner": [
+            216,
+            184
+        ],
+        "Class_num": 5,
+        "Bbox_width": 126,
+        "Bbox_height": 58,
+        "Image_id": "4e4fe143-f0de-4160-a8c9-23acf4e19015",
+        "Class_name": "graffiti"
+    },
+    {
+        "Object_id": "2-0.50",
+        "Lower_left_corner": [
+            214,
+            188
+        ],
+        "Class_num": 5,
+        "Bbox_width": 129,
+        "Bbox_height": 55,
+        "Image_id": "a327b170-9525-45ba-b1d6-0f8c60093365",
+        "Class_name": "graffiti"
+    },
+    {
+        "Object_id": "2-0.37",
+        "Lower_left_corner": [
+            223,
+            189
+        ],
+        "Class_num": 5,
+        "Bbox_width": 118,
+        "Bbox_height": 55,
+        "Image_id": "fd281c24-3c4c-4d76-b9e4-1e0c47246acd",
+        "Class_name": "graffiti"
+    },
+    {
+        "Object_id": "2-0.37",
+        "Lower_left_corner": [
+            225,
+            187
+        ],
+        "Class_num": 5,
+        "Bbox_width": 115,
+        "Bbox_height": 56,
+        "Image_id": "5ebe46ba-3c15-4c06-afb8-bcf77445f6bf",
+        "Class_name": "graffiti"
+    },
+    {
+        "Object_id": "2-0.54",
+        "Lower_left_corner": [
+            195,
+            182
+        ],
+        "Class_num": 5,
+        "Bbox_width": 128,
+        "Bbox_height": 63,
+        "Image_id": "dcfdf815-29f7-4486-92b9-7c6045f06ea1",
+        "Class_name": "graffiti"
+    },
+    {
+        "Object_id": "2-0.63",
+        "Lower_left_corner": [
+            203,
+            181
+        ],
+        "Class_num": 5,
+        "Bbox_width": 117,
+        "Bbox_height": 62,
+        "Image_id": "648b473b-366b-44a3-8355-cae9cf7d15ff",
+        "Class_name": "graffiti"
+    },
+    {
+        "Object_id": "2-0.63",
+        "Lower_left_corner": [
+            203,
+            181
+        ],
+        "Class_num": 5,
+        "Bbox_width": 117,
+        "Bbox_height": 62,
+        "Image_id": "539432c4-7e4a-4d5e-afb8-dcd3bd2e28e1",
+        "Class_name": "graffiti"
+    },
+    {
+        "Object_id": "2-0.68",
+        "Lower_left_corner": [
+            193,
+            182
+        ],
+        "Class_num": 5,
+        "Bbox_width": 123,
+        "Bbox_height": 60,
+        "Image_id": "c1399e46-59ac-4845-8a2d-f1bb88c12f70",
+        "Class_name": "graffiti"
+    },
+    {
+        "Object_id": "2-0.67",
+        "Lower_left_corner": [
+            192,
+            181
+        ],
+        "Class_num": 5,
+        "Bbox_width": 120,
+        "Bbox_height": 57,
+        "Image_id": "857d7c7a-f52d-4842-bf1f-ab2d7a72104f",
+        "Class_name": "graffiti"
+    },
+    {
+        "Object_id": "2-0.65",
+        "Lower_left_corner": [
+            176,
+            180
+        ],
+        "Class_num": 5,
+        "Bbox_width": 126,
+        "Bbox_height": 58,
+        "Image_id": "bf7416c7-033b-4cca-a2d6-3e7da7fbaafd",
+        "Class_name": "graffiti"
+    },
+    {
+        "Object_id": "2-0.71",
+        "Lower_left_corner": [
+            183,
+            180
+        ],
+        "Class_num": 5,
+        "Bbox_width": 116,
+        "Bbox_height": 56,
+        "Image_id": "78af3cb6-95f2-4e35-8d38-d28072d1c680",
+        "Class_name": "graffiti"
+    },
+    {
+        "Object_id": "2-0.67",
+        "Lower_left_corner": [
+            179,
+            178
+        ],
+        "Class_num": 5,
+        "Bbox_width": 115,
+        "Bbox_height": 56,
+        "Image_id": "3b09b8e4-e28b-4b2c-ad74-1ba89b144261",
+        "Class_name": "graffiti"
+    },
+    {
+        "Object_id": "2-0.57",
+        "Lower_left_corner": [
+            175,
+            178
+        ],
+        "Class_num": 5,
+        "Bbox_width": 114,
+        "Bbox_height": 58,
+        "Image_id": "bcca2ea7-eea2-4b71-9c83-4f574b00d73b",
+        "Class_name": "graffiti"
+    },
+    {
+        "Object_id": "2-0.54",
+        "Lower_left_corner": [
+            156,
+            176
+        ],
+        "Class_num": 5,
+        "Bbox_width": 129,
+        "Bbox_height": 59,
+        "Image_id": "aee5a2b5-51d6-4584-9d6f-7abbeabc5664",
+        "Class_name": "graffiti"
+    },
+    {
+        "Object_id": "2-0.54",
+        "Lower_left_corner": [
+            155,
+            175
+        ],
+        "Class_num": 5,
+        "Bbox_width": 128,
+        "Bbox_height": 60,
+        "Image_id": "c07c3ece-5681-4601-8ebc-08a8f062374b",
+        "Class_name": "graffiti"
+    },
+    {
+        "Object_id": "2-0.50",
+        "Lower_left_corner": [
+            163,
+            174
+        ],
+        "Class_num": 5,
+        "Bbox_width": 114,
+        "Bbox_height": 57,
+        "Image_id": "84b0347a-d2d3-4297-b8ce-1e56528d89fe",
+        "Class_name": "graffiti"
+    },
+    {
+        "Object_id": "2-0.58",
+        "Lower_left_corner": [
+            155,
+            173
+        ],
+        "Class_num": 5,
+        "Bbox_width": 116,
+        "Bbox_height": 58,
+        "Image_id": "787f2976-ddd2-4002-8ab6-fafaf11340e6",
+        "Class_name": "graffiti"
+    },
+    {
+        "Object_id": "2-0.46",
+        "Lower_left_corner": [
+            152,
+            171
+        ],
+        "Class_num": 5,
+        "Bbox_width": 114,
+        "Bbox_height": 62,
+        "Image_id": "24d8dbad-f45c-47a1-aca2-eedfe4ec9133",
+        "Class_name": "graffiti"
+    },
+    {
+        "Object_id": "2-0.47",
+        "Lower_left_corner": [
+            152,
+            170
+        ],
+        "Class_num": 5,
+        "Bbox_width": 113,
+        "Bbox_height": 63,
+        "Image_id": "ac54b9e6-c39b-4b09-9734-7d3802cd8a48",
+        "Class_name": "graffiti"
+    },
+    {
+        "Object_id": "2-0.39",
+        "Lower_left_corner": [
+            140,
+            167
+        ],
+        "Class_num": 5,
+        "Bbox_width": 116,
+        "Bbox_height": 65,
+        "Image_id": "5f2f3ba2-dd6d-4366-bb24-4bdbfe8c8031",
+        "Class_name": "graffiti"
+    }
+]

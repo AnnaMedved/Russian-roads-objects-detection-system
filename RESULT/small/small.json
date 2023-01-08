@@ -1,0 +1,7786 @@
+[
+    {
+        "Object_id": "1-0.86",
+        "Lower_left_corner": [
+            439,
+            575
+        ],
+        "Class_num": 2,
+        "Bbox_width": 128,
+        "Bbox_height": 120,
+        "Image_id": "4d6441f0-d318-48ac-8aac-2b13197b6386",
+        "Length_mm": 2700,
+        "Width_mm": 2880,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "3-0.83",
+        "Lower_left_corner": [
+            538,
+            433
+        ],
+        "Class_num": 2,
+        "Bbox_width": 66,
+        "Bbox_height": 39,
+        "Image_id": "4d6441f0-d318-48ac-8aac-2b13197b6386",
+        "Length_mm": 877,
+        "Width_mm": 1485,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "1-0.86",
+        "Lower_left_corner": [
+            438,
+            574
+        ],
+        "Class_num": 2,
+        "Bbox_width": 130,
+        "Bbox_height": 122,
+        "Image_id": "b6b61229-3cbe-4c2d-a042-dd2e33dcd947",
+        "Length_mm": 2745,
+        "Width_mm": 2925,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "3-0.83",
+        "Lower_left_corner": [
+            537,
+            432
+        ],
+        "Class_num": 2,
+        "Bbox_width": 68,
+        "Bbox_height": 41,
+        "Image_id": "b6b61229-3cbe-4c2d-a042-dd2e33dcd947",
+        "Length_mm": 922,
+        "Width_mm": 1530,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "4-0.81",
+        "Lower_left_corner": [
+            507,
+            488
+        ],
+        "Class_num": 2,
+        "Bbox_width": 106,
+        "Bbox_height": 43,
+        "Image_id": "b6b61229-3cbe-4c2d-a042-dd2e33dcd947",
+        "Length_mm": 967,
+        "Width_mm": 2385,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "1-0.85",
+        "Lower_left_corner": [
+            410,
+            612
+        ],
+        "Class_num": 2,
+        "Bbox_width": 151,
+        "Bbox_height": 107,
+        "Image_id": "f9b8da9d-04fa-42e2-8cc4-02d6c787a1cd",
+        "Length_mm": 2407,
+        "Width_mm": 3397,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "3-0.83",
+        "Lower_left_corner": [
+            530,
+            444
+        ],
+        "Class_num": 2,
+        "Bbox_width": 71,
+        "Bbox_height": 43,
+        "Image_id": "f9b8da9d-04fa-42e2-8cc4-02d6c787a1cd",
+        "Length_mm": 967,
+        "Width_mm": 1597,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "4-0.72",
+        "Lower_left_corner": [
+            498,
+            508
+        ],
+        "Class_num": 2,
+        "Bbox_width": 102,
+        "Bbox_height": 44,
+        "Image_id": "f9b8da9d-04fa-42e2-8cc4-02d6c787a1cd",
+        "Length_mm": 990,
+        "Width_mm": 2295,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "1-0.84",
+        "Lower_left_corner": [
+            411,
+            662
+        ],
+        "Class_num": 2,
+        "Bbox_width": 136,
+        "Bbox_height": 57,
+        "Image_id": "e5003da0-ec18-4480-9e54-b7f073683fcc",
+        "Length_mm": 1282,
+        "Width_mm": 3060,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "3-0.84",
+        "Lower_left_corner": [
+            517,
+            454
+        ],
+        "Class_num": 2,
+        "Bbox_width": 79,
+        "Bbox_height": 50,
+        "Image_id": "e5003da0-ec18-4480-9e54-b7f073683fcc",
+        "Length_mm": 1125,
+        "Width_mm": 1777,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "4-0.58",
+        "Lower_left_corner": [
+            477,
+            530
+        ],
+        "Class_num": 2,
+        "Bbox_width": 115,
+        "Bbox_height": 53,
+        "Image_id": "e5003da0-ec18-4480-9e54-b7f073683fcc",
+        "Length_mm": 1192,
+        "Width_mm": 2587,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "1-0.82",
+        "Lower_left_corner": [
+            404,
+            685
+        ],
+        "Class_num": 2,
+        "Bbox_width": 130,
+        "Bbox_height": 34,
+        "Image_id": "90f45247-c97d-4537-8923-0f160d2cf864",
+        "Length_mm": 765,
+        "Width_mm": 2925,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "3-0.77",
+        "Lower_left_corner": [
+            505,
+            465
+        ],
+        "Class_num": 2,
+        "Bbox_width": 84,
+        "Bbox_height": 56,
+        "Image_id": "90f45247-c97d-4537-8923-0f160d2cf864",
+        "Length_mm": 1260,
+        "Width_mm": 1890,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "4-0.56",
+        "Lower_left_corner": [
+            457,
+            552
+        ],
+        "Class_num": 2,
+        "Bbox_width": 132,
+        "Bbox_height": 66,
+        "Image_id": "90f45247-c97d-4537-8923-0f160d2cf864",
+        "Length_mm": 1485,
+        "Width_mm": 2970,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "3-0.86",
+        "Lower_left_corner": [
+            485,
+            479
+        ],
+        "Class_num": 2,
+        "Bbox_width": 95,
+        "Bbox_height": 66,
+        "Image_id": "77fd4060-009d-41eb-982e-a4f69e7bb3b6",
+        "Length_mm": 1485,
+        "Width_mm": 2137,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "4-0.77",
+        "Lower_left_corner": [
+            430,
+            578
+        ],
+        "Class_num": 2,
+        "Bbox_width": 150,
+        "Bbox_height": 87,
+        "Image_id": "77fd4060-009d-41eb-982e-a4f69e7bb3b6",
+        "Length_mm": 1957,
+        "Width_mm": 3375,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "5-0.68",
+        "Lower_left_corner": [
+            556,
+            435
+        ],
+        "Class_num": 2,
+        "Bbox_width": 53,
+        "Bbox_height": 24,
+        "Image_id": "77fd4060-009d-41eb-982e-a4f69e7bb3b6",
+        "Length_mm": 540,
+        "Width_mm": 1192,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "3-0.84",
+        "Lower_left_corner": [
+            476,
+            496
+        ],
+        "Class_num": 2,
+        "Bbox_width": 104,
+        "Bbox_height": 74,
+        "Image_id": "78c4bc30-5a79-41c1-85a0-93683663704b",
+        "Length_mm": 1665,
+        "Width_mm": 2340,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "4-0.64",
+        "Lower_left_corner": [
+            396,
+            615
+        ],
+        "Class_num": 2,
+        "Bbox_width": 171,
+        "Bbox_height": 103,
+        "Image_id": "78c4bc30-5a79-41c1-85a0-93683663704b",
+        "Length_mm": 2317,
+        "Width_mm": 3847,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "5-0.57",
+        "Lower_left_corner": [
+            548,
+            446
+        ],
+        "Class_num": 2,
+        "Bbox_width": 59,
+        "Bbox_height": 26,
+        "Image_id": "78c4bc30-5a79-41c1-85a0-93683663704b",
+        "Length_mm": 585,
+        "Width_mm": 1327,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "3-0.84",
+        "Lower_left_corner": [
+            475,
+            495
+        ],
+        "Class_num": 2,
+        "Bbox_width": 106,
+        "Bbox_height": 76,
+        "Image_id": "fa932f77-0850-4546-bef9-47005fe8d5e4",
+        "Length_mm": 1710,
+        "Width_mm": 2385,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "4-0.64",
+        "Lower_left_corner": [
+            394,
+            614
+        ],
+        "Class_num": 2,
+        "Bbox_width": 176,
+        "Bbox_height": 105,
+        "Image_id": "fa932f77-0850-4546-bef9-47005fe8d5e4",
+        "Length_mm": 2362,
+        "Width_mm": 3960,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "5-0.57",
+        "Lower_left_corner": [
+            548,
+            446
+        ],
+        "Class_num": 2,
+        "Bbox_width": 59,
+        "Bbox_height": 26,
+        "Image_id": "fa932f77-0850-4546-bef9-47005fe8d5e4",
+        "Length_mm": 585,
+        "Width_mm": 1327,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "3-0.84",
+        "Lower_left_corner": [
+            450,
+            517
+        ],
+        "Class_num": 2,
+        "Bbox_width": 120,
+        "Bbox_height": 90,
+        "Image_id": "216fc251-b1c5-4db0-8e0b-3a079ce64a2a",
+        "Length_mm": 2025,
+        "Width_mm": 2700,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "4-0.74",
+        "Lower_left_corner": [
+            380,
+            631
+        ],
+        "Class_num": 2,
+        "Bbox_width": 183,
+        "Bbox_height": 88,
+        "Image_id": "216fc251-b1c5-4db0-8e0b-3a079ce64a2a",
+        "Length_mm": 1980,
+        "Width_mm": 4117,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "5-0.36",
+        "Lower_left_corner": [
+            540,
+            459
+        ],
+        "Class_num": 2,
+        "Bbox_width": 62,
+        "Bbox_height": 27,
+        "Image_id": "216fc251-b1c5-4db0-8e0b-3a079ce64a2a",
+        "Length_mm": 607,
+        "Width_mm": 1395,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "1-0.83",
+        "Lower_left_corner": [
+            544,
+            578
+        ],
+        "Class_num": 0,
+        "Bbox_width": 97,
+        "Bbox_height": 38,
+        "Image_id": "37f39f3c-6011-4aa4-9727-e6934c61332e",
+        "Length_mm": 2343,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "3-0.68",
+        "Lower_left_corner": [
+            430,
+            540
+        ],
+        "Class_num": 2,
+        "Bbox_width": 129,
+        "Bbox_height": 105,
+        "Image_id": "37f39f3c-6011-4aa4-9727-e6934c61332e",
+        "Length_mm": 2362,
+        "Width_mm": 2902,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "5-0.49",
+        "Lower_left_corner": [
+            530,
+            467
+        ],
+        "Class_num": 2,
+        "Bbox_width": 67,
+        "Bbox_height": 32,
+        "Image_id": "37f39f3c-6011-4aa4-9727-e6934c61332e",
+        "Length_mm": 720,
+        "Width_mm": 1507,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "6-0.45",
+        "Lower_left_corner": [
+            546,
+            428
+        ],
+        "Class_num": 2,
+        "Bbox_width": 49,
+        "Bbox_height": 19,
+        "Image_id": "37f39f3c-6011-4aa4-9727-e6934c61332e",
+        "Length_mm": 427,
+        "Width_mm": 1102,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "1-0.78",
+        "Lower_left_corner": [
+            559,
+            580
+        ],
+        "Class_num": 0,
+        "Bbox_width": 88,
+        "Bbox_height": 33,
+        "Image_id": "b8c19587-a26a-430e-8199-94298a8e64c8",
+        "Length_mm": 2114,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "3-0.61",
+        "Lower_left_corner": [
+            419,
+            551
+        ],
+        "Class_num": 2,
+        "Bbox_width": 134,
+        "Bbox_height": 112,
+        "Image_id": "b8c19587-a26a-430e-8199-94298a8e64c8",
+        "Length_mm": 2520,
+        "Width_mm": 3015,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "4-0.55",
+        "Lower_left_corner": [
+            393,
+            567
+        ],
+        "Class_num": 2,
+        "Bbox_width": 154,
+        "Bbox_height": 133,
+        "Image_id": "b8c19587-a26a-430e-8199-94298a8e64c8",
+        "Length_mm": 2992,
+        "Width_mm": 3465,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "5-0.50",
+        "Lower_left_corner": [
+            518,
+            486
+        ],
+        "Class_num": 2,
+        "Bbox_width": 74,
+        "Bbox_height": 35,
+        "Image_id": "b8c19587-a26a-430e-8199-94298a8e64c8",
+        "Length_mm": 787,
+        "Width_mm": 1665,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "3-0.75",
+        "Lower_left_corner": [
+            354,
+            598
+        ],
+        "Class_num": 2,
+        "Bbox_width": 183,
+        "Bbox_height": 117,
+        "Image_id": "fb609c27-8e8d-499e-b617-994674381de2",
+        "Length_mm": 2632,
+        "Width_mm": 4117,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "4-0.64",
+        "Lower_left_corner": [
+            386,
+            574
+        ],
+        "Class_num": 2,
+        "Bbox_width": 152,
+        "Bbox_height": 141,
+        "Image_id": "fb609c27-8e8d-499e-b617-994674381de2",
+        "Length_mm": 3172,
+        "Width_mm": 3420,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "5-0.62",
+        "Lower_left_corner": [
+            506,
+            504
+        ],
+        "Class_num": 2,
+        "Bbox_width": 74,
+        "Bbox_height": 41,
+        "Image_id": "fb609c27-8e8d-499e-b617-994674381de2",
+        "Length_mm": 922,
+        "Width_mm": 1665,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "6-0.43",
+        "Lower_left_corner": [
+            529,
+            451
+        ],
+        "Class_num": 2,
+        "Bbox_width": 54,
+        "Bbox_height": 21,
+        "Image_id": "fb609c27-8e8d-499e-b617-994674381de2",
+        "Length_mm": 472,
+        "Width_mm": 1215,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "3-0.77",
+        "Lower_left_corner": [
+            376,
+            638
+        ],
+        "Class_num": 2,
+        "Bbox_width": 149,
+        "Bbox_height": 81,
+        "Image_id": "7684cfac-7676-4096-a070-1b103c31cc48",
+        "Length_mm": 1822,
+        "Width_mm": 3352,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "5-0.58",
+        "Lower_left_corner": [
+            489,
+            523
+        ],
+        "Class_num": 2,
+        "Bbox_width": 83,
+        "Bbox_height": 48,
+        "Image_id": "7684cfac-7676-4096-a070-1b103c31cc48",
+        "Length_mm": 1080,
+        "Width_mm": 1867,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "6-0.55",
+        "Lower_left_corner": [
+            522,
+            462
+        ],
+        "Class_num": 2,
+        "Bbox_width": 56,
+        "Bbox_height": 22,
+        "Image_id": "7684cfac-7676-4096-a070-1b103c31cc48",
+        "Length_mm": 495,
+        "Width_mm": 1260,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "3-0.77",
+        "Lower_left_corner": [
+            381,
+            640
+        ],
+        "Class_num": 2,
+        "Bbox_width": 141,
+        "Bbox_height": 79,
+        "Image_id": "08baf7d9-3d10-4ed3-abb4-bcd2ded9075d",
+        "Length_mm": 1777,
+        "Width_mm": 3172,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "5-0.58",
+        "Lower_left_corner": [
+            488,
+            522
+        ],
+        "Class_num": 2,
+        "Bbox_width": 85,
+        "Bbox_height": 50,
+        "Image_id": "08baf7d9-3d10-4ed3-abb4-bcd2ded9075d",
+        "Length_mm": 1125,
+        "Width_mm": 1912,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "6-0.55",
+        "Lower_left_corner": [
+            521,
+            461
+        ],
+        "Class_num": 2,
+        "Bbox_width": 58,
+        "Bbox_height": 24,
+        "Image_id": "08baf7d9-3d10-4ed3-abb4-bcd2ded9075d",
+        "Length_mm": 540,
+        "Width_mm": 1305,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "3-0.79",
+        "Lower_left_corner": [
+            369,
+            656
+        ],
+        "Class_num": 2,
+        "Bbox_width": 148,
+        "Bbox_height": 63,
+        "Image_id": "d3717262-cae1-4235-88f5-0933a53049ba",
+        "Length_mm": 1417,
+        "Width_mm": 3330,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "5-0.65",
+        "Lower_left_corner": [
+            470,
+            544
+        ],
+        "Class_num": 2,
+        "Bbox_width": 97,
+        "Bbox_height": 60,
+        "Image_id": "d3717262-cae1-4235-88f5-0933a53049ba",
+        "Length_mm": 1350,
+        "Width_mm": 2182,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "6-0.49",
+        "Lower_left_corner": [
+            509,
+            472
+        ],
+        "Class_num": 2,
+        "Bbox_width": 63,
+        "Bbox_height": 26,
+        "Image_id": "d3717262-cae1-4235-88f5-0933a53049ba",
+        "Length_mm": 585,
+        "Width_mm": 1417,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "10-0.37",
+        "Lower_left_corner": [
+            598,
+            415
+        ],
+        "Class_num": 0,
+        "Bbox_width": 61,
+        "Bbox_height": 90,
+        "Image_id": "d3717262-cae1-4235-88f5-0933a53049ba",
+        "Length_mm": 2446,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "5-0.82",
+        "Lower_left_corner": [
+            449,
+            568
+        ],
+        "Class_num": 2,
+        "Bbox_width": 106,
+        "Bbox_height": 69,
+        "Image_id": "752ebbbc-af72-4ddf-9a16-157ea019efa4",
+        "Length_mm": 1552,
+        "Width_mm": 2385,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "6-0.70",
+        "Lower_left_corner": [
+            498,
+            481
+        ],
+        "Class_num": 2,
+        "Bbox_width": 66,
+        "Bbox_height": 31,
+        "Image_id": "752ebbbc-af72-4ddf-9a16-157ea019efa4",
+        "Length_mm": 697,
+        "Width_mm": 1485,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "10-0.32",
+        "Lower_left_corner": [
+            593,
+            417
+        ],
+        "Class_num": 0,
+        "Bbox_width": 55,
+        "Bbox_height": 92,
+        "Image_id": "752ebbbc-af72-4ddf-9a16-157ea019efa4",
+        "Length_mm": 2411,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "3-0.79",
+        "Lower_left_corner": [
+            419,
+            605
+        ],
+        "Class_num": 2,
+        "Bbox_width": 126,
+        "Bbox_height": 85,
+        "Image_id": "e81f2c0e-b9ff-4b64-b2f4-f44c969f8298",
+        "Length_mm": 1912,
+        "Width_mm": 2835,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "5-0.67",
+        "Lower_left_corner": [
+            439,
+            581
+        ],
+        "Class_num": 2,
+        "Bbox_width": 109,
+        "Bbox_height": 73,
+        "Image_id": "e81f2c0e-b9ff-4b64-b2f4-f44c969f8298",
+        "Length_mm": 1642,
+        "Width_mm": 2452,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "3-0.81",
+        "Lower_left_corner": [
+            416,
+            614
+        ],
+        "Class_num": 2,
+        "Bbox_width": 128,
+        "Bbox_height": 86,
+        "Image_id": "b29bd760-7d95-4a4e-b0cc-f28586b45a64",
+        "Length_mm": 1935,
+        "Width_mm": 2880,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "5-0.76",
+        "Lower_left_corner": [
+            386,
+            652
+        ],
+        "Class_num": 2,
+        "Bbox_width": 137,
+        "Bbox_height": 67,
+        "Image_id": "b29bd760-7d95-4a4e-b0cc-f28586b45a64",
+        "Length_mm": 1507,
+        "Width_mm": 3082,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "5-0.76",
+        "Lower_left_corner": [
+            370,
+            671
+        ],
+        "Class_num": 2,
+        "Bbox_width": 144,
+        "Bbox_height": 48,
+        "Image_id": "86c1ecba-6135-45ce-99c3-04931e76e564",
+        "Length_mm": 1080,
+        "Width_mm": 3240,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "6-0.34",
+        "Lower_left_corner": [
+            446,
+            541
+        ],
+        "Class_num": 2,
+        "Bbox_width": 86,
+        "Bbox_height": 43,
+        "Image_id": "86c1ecba-6135-45ce-99c3-04931e76e564",
+        "Length_mm": 967,
+        "Width_mm": 1935,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "6-0.76",
+        "Lower_left_corner": [
+            445,
+            540
+        ],
+        "Class_num": 2,
+        "Bbox_width": 88,
+        "Bbox_height": 45,
+        "Image_id": "d4930aad-70ee-4495-8a9f-100e6160ed55",
+        "Length_mm": 1012,
+        "Width_mm": 1980,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "10-0.34",
+        "Lower_left_corner": [
+            570,
+            451
+        ],
+        "Class_num": 0,
+        "Bbox_width": 86,
+        "Bbox_height": 127,
+        "Image_id": "d4930aad-70ee-4495-8a9f-100e6160ed55",
+        "Length_mm": 3451,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "6-0.85",
+        "Lower_left_corner": [
+            424,
+            574
+        ],
+        "Class_num": 2,
+        "Bbox_width": 94,
+        "Bbox_height": 51,
+        "Image_id": "c183ee7d-0bd6-422e-9787-87bf23b13f30",
+        "Length_mm": 1147,
+        "Width_mm": 2115,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "1-0.76",
+        "Lower_left_corner": [
+            721,
+            484
+        ],
+        "Class_num": 0,
+        "Bbox_width": 109,
+        "Bbox_height": 18,
+        "Image_id": "3e273501-7bbe-4c9e-991f-50bb68231820",
+        "Length_mm": 2485,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "3-0.35",
+        "Lower_left_corner": [
+            393,
+            612
+        ],
+        "Class_num": 2,
+        "Bbox_width": 107,
+        "Bbox_height": 63,
+        "Image_id": "3e273501-7bbe-4c9e-991f-50bb68231820",
+        "Length_mm": 1417,
+        "Width_mm": 2407,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "1-0.71",
+        "Lower_left_corner": [
+            738,
+            477
+        ],
+        "Class_num": 0,
+        "Bbox_width": 103,
+        "Bbox_height": 17,
+        "Image_id": "35185de7-4fef-401a-9def-ab5d2292d8a8",
+        "Length_mm": 2348,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "3-0.66",
+        "Lower_left_corner": [
+            354,
+            655
+        ],
+        "Class_num": 2,
+        "Bbox_width": 126,
+        "Bbox_height": 63,
+        "Image_id": "35185de7-4fef-401a-9def-ab5d2292d8a8",
+        "Length_mm": 1417,
+        "Width_mm": 2835,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "4-0.31",
+        "Lower_left_corner": [
+            544,
+            500
+        ],
+        "Class_num": 0,
+        "Bbox_width": 102,
+        "Bbox_height": 217,
+        "Image_id": "35185de7-4fef-401a-9def-ab5d2292d8a8",
+        "Length_mm": 5394,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "3-0.83",
+        "Lower_left_corner": [
+            345,
+            664
+        ],
+        "Class_num": 2,
+        "Bbox_width": 129,
+        "Bbox_height": 55,
+        "Image_id": "a72ce680-c7f0-4d97-9147-ddba42a86077",
+        "Length_mm": 1237,
+        "Width_mm": 2902,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "4-0.41",
+        "Lower_left_corner": [
+            532,
+            519
+        ],
+        "Class_num": 0,
+        "Bbox_width": 123,
+        "Bbox_height": 200,
+        "Image_id": "a72ce680-c7f0-4d97-9147-ddba42a86077",
+        "Length_mm": 5282,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "4-0.79",
+        "Lower_left_corner": [
+            513,
+            542
+        ],
+        "Class_num": 0,
+        "Bbox_width": 147,
+        "Bbox_height": 177,
+        "Image_id": "df14aa92-7cf0-4089-a107-a5b6877d8670",
+        "Length_mm": 5176,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "4-0.79",
+        "Lower_left_corner": [
+            513,
+            542
+        ],
+        "Class_num": 0,
+        "Bbox_width": 147,
+        "Bbox_height": 177,
+        "Image_id": "a80e824d-9e9c-4685-a7a8-fb7d9c59c8aa",
+        "Length_mm": 5176,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "4-0.60",
+        "Lower_left_corner": [
+            527,
+            575
+        ],
+        "Class_num": 0,
+        "Bbox_width": 131,
+        "Bbox_height": 144,
+        "Image_id": "1c69d0c7-cf57-4278-9f8b-e356f5d69fe4",
+        "Length_mm": 4380,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "4-0.71",
+        "Lower_left_corner": [
+            524,
+            607
+        ],
+        "Class_num": 0,
+        "Bbox_width": 135,
+        "Bbox_height": 112,
+        "Image_id": "02d97186-e58c-46cf-870b-a4ce4ebae4d8",
+        "Length_mm": 3946,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "4-0.70",
+        "Lower_left_corner": [
+            532,
+            617
+        ],
+        "Class_num": 0,
+        "Bbox_width": 129,
+        "Bbox_height": 102,
+        "Image_id": "7c47e57f-e501-4a86-99d9-2f3a21083973",
+        "Length_mm": 3700,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "5-0.52",
+        "Lower_left_corner": [
+            160,
+            491
+        ],
+        "Class_num": 0,
+        "Bbox_width": 147,
+        "Bbox_height": 111,
+        "Image_id": "7c47e57f-e501-4a86-99d9-2f3a21083973",
+        "Length_mm": 4144,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "6-0.49",
+        "Lower_left_corner": [
+            516,
+            650
+        ],
+        "Class_num": 0,
+        "Bbox_width": 160,
+        "Bbox_height": 66,
+        "Image_id": "7c47e57f-e501-4a86-99d9-2f3a21083973",
+        "Length_mm": 3894,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "5-0.61",
+        "Lower_left_corner": [
+            117,
+            509
+        ],
+        "Class_num": 0,
+        "Bbox_width": 157,
+        "Bbox_height": 125,
+        "Image_id": "6d4ee5bb-43fb-4a3b-b370-6c9dcabcc9ea",
+        "Length_mm": 4515,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "6-0.54",
+        "Lower_left_corner": [
+            521,
+            661
+        ],
+        "Class_num": 0,
+        "Bbox_width": 167,
+        "Bbox_height": 58,
+        "Image_id": "6d4ee5bb-43fb-4a3b-b370-6c9dcabcc9ea",
+        "Length_mm": 3977,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "5-0.62",
+        "Lower_left_corner": [
+            68,
+            522
+        ],
+        "Class_num": 0,
+        "Bbox_width": 181,
+        "Bbox_height": 131,
+        "Image_id": "c55b4251-391e-4948-b79d-5b3c13241573",
+        "Length_mm": 5027,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "24-0.54",
+        "Lower_left_corner": [
+            519,
+            476
+        ],
+        "Class_num": 2,
+        "Bbox_width": 76,
+        "Bbox_height": 32,
+        "Image_id": "c55b4251-391e-4948-b79d-5b3c13241573",
+        "Length_mm": 720,
+        "Width_mm": 1710,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "5-0.64",
+        "Lower_left_corner": [
+            66,
+            521
+        ],
+        "Class_num": 0,
+        "Bbox_width": 180,
+        "Bbox_height": 133,
+        "Image_id": "7609352a-e15d-480a-b040-7a2e0db35bf4",
+        "Length_mm": 5035,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "24-0.54",
+        "Lower_left_corner": [
+            519,
+            476
+        ],
+        "Class_num": 2,
+        "Bbox_width": 76,
+        "Bbox_height": 32,
+        "Image_id": "7609352a-e15d-480a-b040-7a2e0db35bf4",
+        "Length_mm": 720,
+        "Width_mm": 1710,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "5-0.73",
+        "Lower_left_corner": [
+            19,
+            550
+        ],
+        "Class_num": 0,
+        "Bbox_width": 192,
+        "Bbox_height": 135,
+        "Image_id": "95ff245a-ce1a-4dc9-87f8-e6cb4ed2bc0b",
+        "Length_mm": 5280,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "24-0.47",
+        "Lower_left_corner": [
+            508,
+            501
+        ],
+        "Class_num": 2,
+        "Bbox_width": 80,
+        "Bbox_height": 32,
+        "Image_id": "95ff245a-ce1a-4dc9-87f8-e6cb4ed2bc0b",
+        "Length_mm": 720,
+        "Width_mm": 1800,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "3-0.82",
+        "Lower_left_corner": [
+            494,
+            516
+        ],
+        "Class_num": 2,
+        "Bbox_width": 90,
+        "Bbox_height": 39,
+        "Image_id": "7139870e-32aa-4d70-b9e8-03457fca1cf6",
+        "Length_mm": 877,
+        "Width_mm": 2025,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "4-0.51",
+        "Lower_left_corner": [
+            628,
+            385
+        ],
+        "Class_num": 0,
+        "Bbox_width": 63,
+        "Bbox_height": 61,
+        "Image_id": "7139870e-32aa-4d70-b9e8-03457fca1cf6",
+        "Length_mm": 1973,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "5-0.41",
+        "Lower_left_corner": [
+            0,
+            557
+        ],
+        "Class_num": 0,
+        "Bbox_width": 188,
+        "Bbox_height": 139,
+        "Image_id": "7139870e-32aa-4d70-b9e8-03457fca1cf6",
+        "Length_mm": 5260,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "10-0.37",
+        "Lower_left_corner": [
+            570,
+            583
+        ],
+        "Class_num": 2,
+        "Bbox_width": 117,
+        "Bbox_height": 136,
+        "Image_id": "7139870e-32aa-4d70-b9e8-03457fca1cf6",
+        "Length_mm": 3060,
+        "Width_mm": 2632,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "3-0.80",
+        "Lower_left_corner": [
+            504,
+            510
+        ],
+        "Class_num": 2,
+        "Bbox_width": 86,
+        "Bbox_height": 36,
+        "Image_id": "58a95232-c107-401e-a364-aa72a4f24f58",
+        "Length_mm": 810,
+        "Width_mm": 1935,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "4-0.58",
+        "Lower_left_corner": [
+            640,
+            370
+        ],
+        "Class_num": 0,
+        "Bbox_width": 55,
+        "Bbox_height": 53,
+        "Image_id": "58a95232-c107-401e-a364-aa72a4f24f58",
+        "Length_mm": 1718,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "6-0.50",
+        "Lower_left_corner": [
+            626,
+            386
+        ],
+        "Class_num": 0,
+        "Bbox_width": 66,
+        "Bbox_height": 71,
+        "Image_id": "58a95232-c107-401e-a364-aa72a4f24f58",
+        "Length_mm": 2181,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "6-0.80",
+        "Lower_left_corner": [
+            637,
+            370
+        ],
+        "Class_num": 0,
+        "Bbox_width": 62,
+        "Bbox_height": 72,
+        "Image_id": "1bd5caa2-5aa6-452e-adad-298ae257106b",
+        "Length_mm": 2137,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "10-0.66",
+        "Lower_left_corner": [
+            429,
+            599
+        ],
+        "Class_num": 2,
+        "Bbox_width": 116,
+        "Bbox_height": 70,
+        "Image_id": "275bb736-54c9-4298-92fc-94c5ed226fb7",
+        "Length_mm": 1575,
+        "Width_mm": 2610,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "10-0.76",
+        "Lower_left_corner": [
+            420,
+            608
+        ],
+        "Class_num": 2,
+        "Bbox_width": 106,
+        "Bbox_height": 61,
+        "Image_id": "7c9e0aa8-0a9c-4734-965a-e966960e35e4",
+        "Length_mm": 1372,
+        "Width_mm": 2385,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "30-0.41",
+        "Lower_left_corner": [
+            576,
+            570
+        ],
+        "Class_num": 1,
+        "Bbox_width": 174,
+        "Bbox_height": 149,
+        "Image_id": "7d2becbe-aa33-4160-a1f7-c0d51d1a5bfc",
+        "Length_mm": 3352,
+        "Width_mm": 3915,
+        "Class_name": "large_pit"
+    },
+    {
+        "Object_id": "30-0.41",
+        "Lower_left_corner": [
+            583,
+            577
+        ],
+        "Class_num": 1,
+        "Bbox_width": 159,
+        "Bbox_height": 142,
+        "Image_id": "9c0ebe21-5762-4546-b8b1-f6f3a53e53de",
+        "Length_mm": 3195,
+        "Width_mm": 3577,
+        "Class_name": "large_pit"
+    },
+    {
+        "Object_id": "3-0.62",
+        "Lower_left_corner": [
+            561,
+            437
+        ],
+        "Class_num": 2,
+        "Bbox_width": 48,
+        "Bbox_height": 18,
+        "Image_id": "15720148-38e3-49ce-b0df-7ed469db50e7",
+        "Length_mm": 405,
+        "Width_mm": 1080,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "30-0.41",
+        "Lower_left_corner": [
+            657,
+            601
+        ],
+        "Class_num": 0,
+        "Bbox_width": 97,
+        "Bbox_height": 118,
+        "Image_id": "15720148-38e3-49ce-b0df-7ed469db50e7",
+        "Length_mm": 3436,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "3-0.51",
+        "Lower_left_corner": [
+            569,
+            429
+        ],
+        "Class_num": 2,
+        "Bbox_width": 43,
+        "Bbox_height": 16,
+        "Image_id": "15747c7d-4f6b-4e7b-a536-e7ffa7e68001",
+        "Length_mm": 360,
+        "Width_mm": 967,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "24-0.42",
+        "Lower_left_corner": [
+            554,
+            446
+        ],
+        "Class_num": 2,
+        "Bbox_width": 54,
+        "Bbox_height": 21,
+        "Image_id": "15747c7d-4f6b-4e7b-a536-e7ffa7e68001",
+        "Length_mm": 472,
+        "Width_mm": 1215,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "10-0.64",
+        "Lower_left_corner": [
+            370,
+            398
+        ],
+        "Class_num": 2,
+        "Bbox_width": 76,
+        "Bbox_height": 24,
+        "Image_id": "79b45dc0-5e35-4222-893c-d2b7b909f93a",
+        "Length_mm": 540,
+        "Width_mm": 1710,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "24-0.58",
+        "Lower_left_corner": [
+            547,
+            456
+        ],
+        "Class_num": 2,
+        "Bbox_width": 52,
+        "Bbox_height": 21,
+        "Image_id": "79b45dc0-5e35-4222-893c-d2b7b909f93a",
+        "Length_mm": 472,
+        "Width_mm": 1170,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "10-0.74",
+        "Lower_left_corner": [
+            367,
+            384
+        ],
+        "Class_num": 2,
+        "Bbox_width": 61,
+        "Bbox_height": 19,
+        "Image_id": "0eec6d89-b883-4675-b99c-1adb2a1b16ca",
+        "Length_mm": 427,
+        "Width_mm": 1372,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "24-0.73",
+        "Lower_left_corner": [
+            540,
+            467
+        ],
+        "Class_num": 2,
+        "Bbox_width": 56,
+        "Bbox_height": 25,
+        "Image_id": "0eec6d89-b883-4675-b99c-1adb2a1b16ca",
+        "Length_mm": 562,
+        "Width_mm": 1260,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "31-0.72",
+        "Lower_left_corner": [
+            585,
+            476
+        ],
+        "Class_num": 0,
+        "Bbox_width": 86,
+        "Bbox_height": 239,
+        "Image_id": "0eec6d89-b883-4675-b99c-1adb2a1b16ca",
+        "Length_mm": 5715,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "6-0.78",
+        "Lower_left_corner": [
+            342,
+            403
+        ],
+        "Class_num": 2,
+        "Bbox_width": 88,
+        "Bbox_height": 35,
+        "Image_id": "ec9a054c-589a-42fb-a389-198da59ebe7f",
+        "Length_mm": 787,
+        "Width_mm": 1980,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "24-0.68",
+        "Lower_left_corner": [
+            527,
+            481
+        ],
+        "Class_num": 2,
+        "Bbox_width": 66,
+        "Bbox_height": 26,
+        "Image_id": "ec9a054c-589a-42fb-a389-198da59ebe7f",
+        "Length_mm": 585,
+        "Width_mm": 1485,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "31-0.56",
+        "Lower_left_corner": [
+            582,
+            498
+        ],
+        "Class_num": 0,
+        "Bbox_width": 84,
+        "Bbox_height": 217,
+        "Image_id": "ec9a054c-589a-42fb-a389-198da59ebe7f",
+        "Length_mm": 5235,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "6-0.78",
+        "Lower_left_corner": [
+            343,
+            404
+        ],
+        "Class_num": 2,
+        "Bbox_width": 86,
+        "Bbox_height": 33,
+        "Image_id": "e99f4d4e-6bc7-472b-a77e-385acc955192",
+        "Length_mm": 742,
+        "Width_mm": 1935,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "24-0.68",
+        "Lower_left_corner": [
+            526,
+            480
+        ],
+        "Class_num": 2,
+        "Bbox_width": 68,
+        "Bbox_height": 28,
+        "Image_id": "e99f4d4e-6bc7-472b-a77e-385acc955192",
+        "Length_mm": 630,
+        "Width_mm": 1530,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "31-0.56",
+        "Lower_left_corner": [
+            583,
+            497
+        ],
+        "Class_num": 0,
+        "Bbox_width": 81,
+        "Bbox_height": 218,
+        "Image_id": "e99f4d4e-6bc7-472b-a77e-385acc955192",
+        "Length_mm": 5232,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "6-0.79",
+        "Lower_left_corner": [
+            327,
+            411
+        ],
+        "Class_num": 2,
+        "Bbox_width": 89,
+        "Bbox_height": 33,
+        "Image_id": "5cb29856-3a55-4214-8f27-ecae6511ca30",
+        "Length_mm": 742,
+        "Width_mm": 2002,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "24-0.76",
+        "Lower_left_corner": [
+            518,
+            496
+        ],
+        "Class_num": 2,
+        "Bbox_width": 70,
+        "Bbox_height": 30,
+        "Image_id": "5cb29856-3a55-4214-8f27-ecae6511ca30",
+        "Length_mm": 675,
+        "Width_mm": 1575,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "31-0.73",
+        "Lower_left_corner": [
+            578,
+            516
+        ],
+        "Class_num": 0,
+        "Bbox_width": 90,
+        "Bbox_height": 194,
+        "Image_id": "5cb29856-3a55-4214-8f27-ecae6511ca30",
+        "Length_mm": 4811,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "6-0.81",
+        "Lower_left_corner": [
+            306,
+            417
+        ],
+        "Class_num": 2,
+        "Bbox_width": 98,
+        "Bbox_height": 37,
+        "Image_id": "19c2a9be-a6b2-4c5c-a899-87687c2afb7a",
+        "Length_mm": 832,
+        "Width_mm": 2205,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "24-0.79",
+        "Lower_left_corner": [
+            505,
+            514
+        ],
+        "Class_num": 2,
+        "Bbox_width": 74,
+        "Bbox_height": 36,
+        "Image_id": "19c2a9be-a6b2-4c5c-a899-87687c2afb7a",
+        "Length_mm": 810,
+        "Width_mm": 1665,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "31-0.63",
+        "Lower_left_corner": [
+            578,
+            541
+        ],
+        "Class_num": 0,
+        "Bbox_width": 86,
+        "Bbox_height": 178,
+        "Image_id": "19c2a9be-a6b2-4c5c-a899-87687c2afb7a",
+        "Length_mm": 4447,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "6-0.83",
+        "Lower_left_corner": [
+            291,
+            426
+        ],
+        "Class_num": 2,
+        "Bbox_width": 102,
+        "Bbox_height": 41,
+        "Image_id": "b792b9c6-8f9d-4fea-b597-4e8e0546bbea",
+        "Length_mm": 922,
+        "Width_mm": 2295,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "24-0.81",
+        "Lower_left_corner": [
+            490,
+            537
+        ],
+        "Class_num": 2,
+        "Bbox_width": 80,
+        "Bbox_height": 44,
+        "Image_id": "b792b9c6-8f9d-4fea-b597-4e8e0546bbea",
+        "Length_mm": 990,
+        "Width_mm": 1800,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "31-0.60",
+        "Lower_left_corner": [
+            586,
+            589
+        ],
+        "Class_num": 0,
+        "Bbox_width": 69,
+        "Bbox_height": 130,
+        "Image_id": "b792b9c6-8f9d-4fea-b597-4e8e0546bbea",
+        "Length_mm": 3311,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "6-0.81",
+        "Lower_left_corner": [
+            262,
+            434
+        ],
+        "Class_num": 2,
+        "Bbox_width": 119,
+        "Bbox_height": 46,
+        "Image_id": "b8b26313-761d-4809-bab2-079b2e285113",
+        "Length_mm": 1035,
+        "Width_mm": 2677,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "24-0.76",
+        "Lower_left_corner": [
+            467,
+            565
+        ],
+        "Class_num": 2,
+        "Bbox_width": 89,
+        "Bbox_height": 53,
+        "Image_id": "b8b26313-761d-4809-bab2-079b2e285113",
+        "Length_mm": 1192,
+        "Width_mm": 2002,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "31-0.42",
+        "Lower_left_corner": [
+            573,
+            617
+        ],
+        "Class_num": 0,
+        "Bbox_width": 75,
+        "Bbox_height": 102,
+        "Image_id": "b8b26313-761d-4809-bab2-079b2e285113",
+        "Length_mm": 2848,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "6-0.81",
+        "Lower_left_corner": [
+            240,
+            445
+        ],
+        "Class_num": 2,
+        "Bbox_width": 123,
+        "Bbox_height": 51,
+        "Image_id": "8d3eb87f-c4d5-4eda-9464-f714cc78ce49",
+        "Length_mm": 1147,
+        "Width_mm": 2767,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "24-0.73",
+        "Lower_left_corner": [
+            445,
+            599
+        ],
+        "Class_num": 2,
+        "Bbox_width": 105,
+        "Bbox_height": 62,
+        "Image_id": "8d3eb87f-c4d5-4eda-9464-f714cc78ce49",
+        "Length_mm": 1395,
+        "Width_mm": 2362,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "31-0.49",
+        "Lower_left_corner": [
+            577,
+            639
+        ],
+        "Class_num": 0,
+        "Bbox_width": 59,
+        "Bbox_height": 80,
+        "Image_id": "8d3eb87f-c4d5-4eda-9464-f714cc78ce49",
+        "Length_mm": 2236,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "6-0.81",
+        "Lower_left_corner": [
+            239,
+            444
+        ],
+        "Class_num": 2,
+        "Bbox_width": 125,
+        "Bbox_height": 53,
+        "Image_id": "dd32baab-f53d-47b4-986e-5ae5f7141d1a",
+        "Length_mm": 1192,
+        "Width_mm": 2812,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "24-0.74",
+        "Lower_left_corner": [
+            444,
+            598
+        ],
+        "Class_num": 2,
+        "Bbox_width": 107,
+        "Bbox_height": 65,
+        "Image_id": "dd32baab-f53d-47b4-986e-5ae5f7141d1a",
+        "Length_mm": 1462,
+        "Width_mm": 2407,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "33-0.52",
+        "Lower_left_corner": [
+            0,
+            553
+        ],
+        "Class_num": 0,
+        "Bbox_width": 279,
+        "Bbox_height": 71,
+        "Image_id": "dd32baab-f53d-47b4-986e-5ae5f7141d1a",
+        "Length_mm": 6477,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "6-0.80",
+        "Lower_left_corner": [
+            216,
+            454
+        ],
+        "Class_num": 2,
+        "Bbox_width": 136,
+        "Bbox_height": 57,
+        "Image_id": "b0315d92-3255-4c35-8c6a-bfe85a3ddbd8",
+        "Length_mm": 1282,
+        "Width_mm": 3060,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "24-0.62",
+        "Lower_left_corner": [
+            414,
+            639
+        ],
+        "Class_num": 2,
+        "Bbox_width": 111,
+        "Bbox_height": 77,
+        "Image_id": "b0315d92-3255-4c35-8c6a-bfe85a3ddbd8",
+        "Length_mm": 1732,
+        "Width_mm": 2497,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "33-0.57",
+        "Lower_left_corner": [
+            0,
+            587
+        ],
+        "Class_num": 0,
+        "Bbox_width": 247,
+        "Bbox_height": 66,
+        "Image_id": "b0315d92-3255-4c35-8c6a-bfe85a3ddbd8",
+        "Length_mm": 5752,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "6-0.79",
+        "Lower_left_corner": [
+            184,
+            464
+        ],
+        "Class_num": 2,
+        "Bbox_width": 148,
+        "Bbox_height": 68,
+        "Image_id": "06239498-493f-4a9f-855a-6f5fd8075c97",
+        "Length_mm": 1530,
+        "Width_mm": 3330,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "24-0.60",
+        "Lower_left_corner": [
+            405,
+            653
+        ],
+        "Class_num": 2,
+        "Bbox_width": 110,
+        "Bbox_height": 66,
+        "Image_id": "06239498-493f-4a9f-855a-6f5fd8075c97",
+        "Length_mm": 1485,
+        "Width_mm": 2475,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "33-0.58",
+        "Lower_left_corner": [
+            0,
+            614
+        ],
+        "Class_num": 0,
+        "Bbox_width": 212,
+        "Bbox_height": 57,
+        "Image_id": "06239498-493f-4a9f-855a-6f5fd8075c97",
+        "Length_mm": 4939,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "6-0.76",
+        "Lower_left_corner": [
+            151,
+            476
+        ],
+        "Class_num": 2,
+        "Bbox_width": 165,
+        "Bbox_height": 78,
+        "Image_id": "2d8603f0-f29b-4b89-9275-aed5bdfadd5c",
+        "Length_mm": 1755,
+        "Width_mm": 3712,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "33-0.41",
+        "Lower_left_corner": [
+            5,
+            648
+        ],
+        "Class_num": 2,
+        "Bbox_width": 142,
+        "Bbox_height": 57,
+        "Image_id": "2d8603f0-f29b-4b89-9275-aed5bdfadd5c",
+        "Length_mm": 1282,
+        "Width_mm": 3195,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "6-0.76",
+        "Lower_left_corner": [
+            118,
+            494
+        ],
+        "Class_num": 2,
+        "Bbox_width": 177,
+        "Bbox_height": 83,
+        "Image_id": "d4702d6f-3186-49bf-b4b2-4e3936ae073e",
+        "Length_mm": 1867,
+        "Width_mm": 3982,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "33-0.37",
+        "Lower_left_corner": [
+            0,
+            669
+        ],
+        "Class_num": 2,
+        "Bbox_width": 124,
+        "Bbox_height": 50,
+        "Image_id": "d4702d6f-3186-49bf-b4b2-4e3936ae073e",
+        "Length_mm": 1125,
+        "Width_mm": 2790,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "6-0.47",
+        "Lower_left_corner": [
+            93,
+            499
+        ],
+        "Class_num": 2,
+        "Bbox_width": 189,
+        "Bbox_height": 88,
+        "Image_id": "ad1ad244-492e-4012-b737-62f3c3512fa5",
+        "Length_mm": 1980,
+        "Width_mm": 4252,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "37-0.44",
+        "Lower_left_corner": [
+            503,
+            441
+        ],
+        "Class_num": 2,
+        "Bbox_width": 140,
+        "Bbox_height": 137,
+        "Image_id": "ad1ad244-492e-4012-b737-62f3c3512fa5",
+        "Length_mm": 3082,
+        "Width_mm": 3150,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "37-0.46",
+        "Lower_left_corner": [
+            502,
+            440
+        ],
+        "Class_num": 2,
+        "Bbox_width": 141,
+        "Bbox_height": 139,
+        "Image_id": "3dc82fa1-2ee5-4294-9a31-516b1cf34ae0",
+        "Length_mm": 3127,
+        "Width_mm": 3172,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "38-0.44",
+        "Lower_left_corner": [
+            568,
+            410
+        ],
+        "Class_num": 2,
+        "Bbox_width": 58,
+        "Bbox_height": 28,
+        "Image_id": "3dc82fa1-2ee5-4294-9a31-516b1cf34ae0",
+        "Length_mm": 630,
+        "Width_mm": 1305,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "37-0.56",
+        "Lower_left_corner": [
+            484,
+            432
+        ],
+        "Class_num": 2,
+        "Bbox_width": 165,
+        "Bbox_height": 179,
+        "Image_id": "6b3a7e31-a9b0-47ba-ba3c-cbee2f889c66",
+        "Length_mm": 4027,
+        "Width_mm": 3712,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "38-0.37",
+        "Lower_left_corner": [
+            565,
+            418
+        ],
+        "Class_num": 2,
+        "Bbox_width": 57,
+        "Bbox_height": 26,
+        "Image_id": "6b3a7e31-a9b0-47ba-ba3c-cbee2f889c66",
+        "Length_mm": 585,
+        "Width_mm": 1282,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "37-0.47",
+        "Lower_left_corner": [
+            464,
+            447
+        ],
+        "Class_num": 2,
+        "Bbox_width": 185,
+        "Bbox_height": 204,
+        "Image_id": "a85897b3-0660-4745-9c50-380dcf80704c",
+        "Length_mm": 4590,
+        "Width_mm": 4162,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "38-0.34",
+        "Lower_left_corner": [
+            555,
+            430
+        ],
+        "Class_num": 2,
+        "Bbox_width": 63,
+        "Bbox_height": 29,
+        "Image_id": "a85897b3-0660-4745-9c50-380dcf80704c",
+        "Length_mm": 652,
+        "Width_mm": 1417,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "24-0.81",
+        "Lower_left_corner": [
+            439,
+            620
+        ],
+        "Class_num": 2,
+        "Bbox_width": 115,
+        "Bbox_height": 78,
+        "Image_id": "9987d258-69c0-42d8-9b22-7058a1562442",
+        "Length_mm": 1755,
+        "Width_mm": 2587,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "37-0.67",
+        "Lower_left_corner": [
+            548,
+            469
+        ],
+        "Class_num": 2,
+        "Bbox_width": 91,
+        "Bbox_height": 216,
+        "Image_id": "9987d258-69c0-42d8-9b22-7058a1562442",
+        "Length_mm": 4860,
+        "Width_mm": 2047,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "38-0.37",
+        "Lower_left_corner": [
+            553,
+            439
+        ],
+        "Class_num": 2,
+        "Bbox_width": 59,
+        "Bbox_height": 33,
+        "Image_id": "9987d258-69c0-42d8-9b22-7058a1562442",
+        "Length_mm": 742,
+        "Width_mm": 1327,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "6-0.73",
+        "Lower_left_corner": [
+            0,
+            587
+        ],
+        "Class_num": 2,
+        "Bbox_width": 110,
+        "Bbox_height": 123,
+        "Image_id": "ff204865-f303-45c3-b30c-3ab68a0b2082",
+        "Length_mm": 2767,
+        "Width_mm": 2475,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "24-0.63",
+        "Lower_left_corner": [
+            438,
+            625
+        ],
+        "Class_num": 2,
+        "Bbox_width": 116,
+        "Bbox_height": 79,
+        "Image_id": "ff204865-f303-45c3-b30c-3ab68a0b2082",
+        "Length_mm": 1777,
+        "Width_mm": 2610,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "37-0.58",
+        "Lower_left_corner": [
+            528,
+            477
+        ],
+        "Class_num": 2,
+        "Bbox_width": 112,
+        "Bbox_height": 242,
+        "Image_id": "ff204865-f303-45c3-b30c-3ab68a0b2082",
+        "Length_mm": 5445,
+        "Width_mm": 2520,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "38-0.47",
+        "Lower_left_corner": [
+            546,
+            450
+        ],
+        "Class_num": 2,
+        "Bbox_width": 62,
+        "Bbox_height": 35,
+        "Image_id": "ff204865-f303-45c3-b30c-3ab68a0b2082",
+        "Length_mm": 787,
+        "Width_mm": 1395,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "6-0.78",
+        "Lower_left_corner": [
+            0,
+            607
+        ],
+        "Class_num": 2,
+        "Bbox_width": 64,
+        "Bbox_height": 100,
+        "Image_id": "a36a387a-229b-43a6-ab7e-66c78478fb72",
+        "Length_mm": 2250,
+        "Width_mm": 1440,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "37-0.71",
+        "Lower_left_corner": [
+            512,
+            493
+        ],
+        "Class_num": 0,
+        "Bbox_width": 127,
+        "Bbox_height": 226,
+        "Image_id": "a36a387a-229b-43a6-ab7e-66c78478fb72",
+        "Length_mm": 5832,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "38-0.42",
+        "Lower_left_corner": [
+            535,
+            462
+        ],
+        "Class_num": 2,
+        "Bbox_width": 70,
+        "Bbox_height": 40,
+        "Image_id": "a36a387a-229b-43a6-ab7e-66c78478fb72",
+        "Length_mm": 900,
+        "Width_mm": 1575,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "6-0.78",
+        "Lower_left_corner": [
+            0,
+            611
+        ],
+        "Class_num": 2,
+        "Bbox_width": 55,
+        "Bbox_height": 93,
+        "Image_id": "6aba4d93-a282-46dc-b84e-392cce717b1b",
+        "Length_mm": 2092,
+        "Width_mm": 1237,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "37-0.71",
+        "Lower_left_corner": [
+            512,
+            495
+        ],
+        "Class_num": 0,
+        "Bbox_width": 125,
+        "Bbox_height": 224,
+        "Image_id": "6aba4d93-a282-46dc-b84e-392cce717b1b",
+        "Length_mm": 5771,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "38-0.43",
+        "Lower_left_corner": [
+            534,
+            462
+        ],
+        "Class_num": 2,
+        "Bbox_width": 72,
+        "Bbox_height": 41,
+        "Image_id": "6aba4d93-a282-46dc-b84e-392cce717b1b",
+        "Length_mm": 922,
+        "Width_mm": 1620,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "6-0.85",
+        "Lower_left_corner": [
+            0,
+            621
+        ],
+        "Class_num": 2,
+        "Bbox_width": 36,
+        "Bbox_height": 95,
+        "Image_id": "07b7d6a7-69f2-4fab-a523-c8ceee711a10",
+        "Length_mm": 2137,
+        "Width_mm": 810,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "37-0.78",
+        "Lower_left_corner": [
+            504,
+            520
+        ],
+        "Class_num": 0,
+        "Bbox_width": 125,
+        "Bbox_height": 199,
+        "Image_id": "07b7d6a7-69f2-4fab-a523-c8ceee711a10",
+        "Length_mm": 5287,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "38-0.35",
+        "Lower_left_corner": [
+            526,
+            477
+        ],
+        "Class_num": 2,
+        "Bbox_width": 75,
+        "Bbox_height": 42,
+        "Image_id": "07b7d6a7-69f2-4fab-a523-c8ceee711a10",
+        "Length_mm": 945,
+        "Width_mm": 1687,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "37-0.85",
+        "Lower_left_corner": [
+            498,
+            530
+        ],
+        "Class_num": 0,
+        "Bbox_width": 133,
+        "Bbox_height": 189,
+        "Image_id": "23069794-a8b7-458a-a03f-76577012322d",
+        "Length_mm": 5199,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "38-0.77",
+        "Lower_left_corner": [
+            514,
+            491
+        ],
+        "Class_num": 2,
+        "Bbox_width": 80,
+        "Bbox_height": 50,
+        "Image_id": "23069794-a8b7-458a-a03f-76577012322d",
+        "Length_mm": 1125,
+        "Width_mm": 1800,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "24-0.82",
+        "Lower_left_corner": [
+            499,
+            505
+        ],
+        "Class_num": 2,
+        "Bbox_width": 91,
+        "Bbox_height": 62,
+        "Image_id": "9daa6ea9-9f87-47bd-bf54-c3f345cfa7d1",
+        "Length_mm": 1395,
+        "Width_mm": 2047,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "38-0.78",
+        "Lower_left_corner": [
+            508,
+            499
+        ],
+        "Class_num": 2,
+        "Bbox_width": 83,
+        "Bbox_height": 53,
+        "Image_id": "9daa6ea9-9f87-47bd-bf54-c3f345cfa7d1",
+        "Length_mm": 1192,
+        "Width_mm": 1867,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "24-0.82",
+        "Lower_left_corner": [
+            489,
+            528
+        ],
+        "Class_num": 2,
+        "Bbox_width": 92,
+        "Bbox_height": 66,
+        "Image_id": "6aa59be8-9a8e-47a3-8c3d-6e17ef0231d8",
+        "Length_mm": 1485,
+        "Width_mm": 2070,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "24-0.81",
+        "Lower_left_corner": [
+            491,
+            524
+        ],
+        "Class_num": 2,
+        "Bbox_width": 93,
+        "Bbox_height": 68,
+        "Image_id": "d57881da-82e3-4459-8ea7-467b90a53506",
+        "Length_mm": 1530,
+        "Width_mm": 2092,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "24-0.80",
+        "Lower_left_corner": [
+            470,
+            553
+        ],
+        "Class_num": 2,
+        "Bbox_width": 105,
+        "Bbox_height": 82,
+        "Image_id": "f451eccc-afc9-4485-baf5-18afd85a1801",
+        "Length_mm": 1845,
+        "Width_mm": 2362,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "24-0.82",
+        "Lower_left_corner": [
+            443,
+            580
+        ],
+        "Class_num": 2,
+        "Bbox_width": 116,
+        "Bbox_height": 100,
+        "Image_id": "317d20b4-7965-484c-b219-f95b54c6841e",
+        "Length_mm": 2250,
+        "Width_mm": 2610,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "38-0.70",
+        "Lower_left_corner": [
+            279,
+            533
+        ],
+        "Class_num": 0,
+        "Bbox_width": 164,
+        "Bbox_height": 61,
+        "Image_id": "317d20b4-7965-484c-b219-f95b54c6841e",
+        "Length_mm": 3936,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "24-0.43",
+        "Lower_left_corner": [
+            440,
+            584
+        ],
+        "Class_num": 2,
+        "Bbox_width": 118,
+        "Bbox_height": 105,
+        "Image_id": "22dae8d3-7837-4036-a657-f471fddeaa82",
+        "Length_mm": 2362,
+        "Width_mm": 2655,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "38-0.38",
+        "Lower_left_corner": [
+            251,
+            542
+        ],
+        "Class_num": 0,
+        "Bbox_width": 175,
+        "Bbox_height": 62,
+        "Image_id": "22dae8d3-7837-4036-a657-f471fddeaa82",
+        "Length_mm": 4177,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "50-0.34",
+        "Lower_left_corner": [
+            572,
+            376
+        ],
+        "Class_num": 0,
+        "Bbox_width": 84,
+        "Bbox_height": 123,
+        "Image_id": "56bd1ed7-21f3-4407-b8d7-76e3d9e7a6a0",
+        "Length_mm": 3351,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "50-0.52",
+        "Lower_left_corner": [
+            567,
+            377
+        ],
+        "Class_num": 0,
+        "Bbox_width": 89,
+        "Bbox_height": 131,
+        "Image_id": "dd4a431d-5f6e-4510-8874-b99eb1cd7f35",
+        "Length_mm": 3563,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "37-0.48",
+        "Lower_left_corner": [
+            36,
+            502
+        ],
+        "Class_num": 0,
+        "Bbox_width": 317,
+        "Bbox_height": 188,
+        "Image_id": "7b82931e-f86c-43a6-a494-7d210c65b6b9",
+        "Length_mm": 8292,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "37-0.48",
+        "Lower_left_corner": [
+            34,
+            502
+        ],
+        "Class_num": 0,
+        "Bbox_width": 314,
+        "Bbox_height": 189,
+        "Image_id": "9a81859d-d646-486e-a0aa-13112f907b12",
+        "Length_mm": 8246,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "55-0.44",
+        "Lower_left_corner": [
+            600,
+            350
+        ],
+        "Class_num": 2,
+        "Bbox_width": 59,
+        "Bbox_height": 44,
+        "Image_id": "9a81859d-d646-486e-a0aa-13112f907b12",
+        "Length_mm": 990,
+        "Width_mm": 1327,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "37-0.62",
+        "Lower_left_corner": [
+            15,
+            517
+        ],
+        "Class_num": 0,
+        "Bbox_width": 313,
+        "Bbox_height": 166,
+        "Image_id": "f8d04429-544c-49a1-bff6-97ee6c9178c2",
+        "Length_mm": 7971,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "55-0.40",
+        "Lower_left_corner": [
+            602,
+            352
+        ],
+        "Class_num": 2,
+        "Bbox_width": 56,
+        "Bbox_height": 44,
+        "Image_id": "f8d04429-544c-49a1-bff6-97ee6c9178c2",
+        "Length_mm": 990,
+        "Width_mm": 1260,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "37-0.67",
+        "Lower_left_corner": [
+            6,
+            555
+        ],
+        "Class_num": 0,
+        "Bbox_width": 271,
+        "Bbox_height": 138,
+        "Image_id": "780818de-4e0e-49af-91bf-7e04b7de1ee9",
+        "Length_mm": 6842,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "55-0.63",
+        "Lower_left_corner": [
+            598,
+            357
+        ],
+        "Class_num": 2,
+        "Bbox_width": 59,
+        "Bbox_height": 46,
+        "Image_id": "780818de-4e0e-49af-91bf-7e04b7de1ee9",
+        "Length_mm": 1035,
+        "Width_mm": 1327,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "37-0.73",
+        "Lower_left_corner": [
+            0,
+            580
+        ],
+        "Class_num": 0,
+        "Bbox_width": 275,
+        "Bbox_height": 126,
+        "Image_id": "70699ad3-36a3-4bd1-afef-224e4dd953e3",
+        "Length_mm": 6806,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "55-0.50",
+        "Lower_left_corner": [
+            597,
+            360
+        ],
+        "Class_num": 2,
+        "Bbox_width": 60,
+        "Bbox_height": 49,
+        "Image_id": "70699ad3-36a3-4bd1-afef-224e4dd953e3",
+        "Length_mm": 1102,
+        "Width_mm": 1350,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "37-0.68",
+        "Lower_left_corner": [
+            0,
+            591
+        ],
+        "Class_num": 0,
+        "Bbox_width": 254,
+        "Bbox_height": 118,
+        "Image_id": "f16a19d7-2bd0-4e35-88f2-ddd9e54a83e5",
+        "Length_mm": 6301,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "50-0.62",
+        "Lower_left_corner": [
+            31,
+            510
+        ],
+        "Class_num": 0,
+        "Bbox_width": 239,
+        "Bbox_height": 192,
+        "Image_id": "fc32d0d5-664d-4d8f-86fa-70ce6dfb048f",
+        "Length_mm": 6897,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "55-0.33",
+        "Lower_left_corner": [
+            593,
+            365
+        ],
+        "Class_num": 2,
+        "Bbox_width": 64,
+        "Bbox_height": 56,
+        "Image_id": "fc32d0d5-664d-4d8f-86fa-70ce6dfb048f",
+        "Length_mm": 1260,
+        "Width_mm": 1440,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "24-0.62",
+        "Lower_left_corner": [
+            32,
+            512
+        ],
+        "Class_num": 0,
+        "Bbox_width": 236,
+        "Bbox_height": 190,
+        "Image_id": "b2e11ce3-b080-4443-9873-aea8862a1489",
+        "Length_mm": 6817,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "50-0.33",
+        "Lower_left_corner": [
+            0,
+            525
+        ],
+        "Class_num": 0,
+        "Bbox_width": 228,
+        "Bbox_height": 194,
+        "Image_id": "b2e11ce3-b080-4443-9873-aea8862a1489",
+        "Length_mm": 6735,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "24-0.51",
+        "Lower_left_corner": [
+            2,
+            509
+        ],
+        "Class_num": 0,
+        "Bbox_width": 245,
+        "Bbox_height": 196,
+        "Image_id": "f4be92a0-9328-4fa1-8433-2893e61054c7",
+        "Length_mm": 7059,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "24-0.62",
+        "Lower_left_corner": [
+            44,
+            532
+        ],
+        "Class_num": 0,
+        "Bbox_width": 131,
+        "Bbox_height": 168,
+        "Image_id": "d07b1e7b-1cdb-4ded-9383-ae1d268f251e",
+        "Length_mm": 4793,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "55-0.45",
+        "Lower_left_corner": [
+            585,
+            368
+        ],
+        "Class_num": 2,
+        "Bbox_width": 70,
+        "Bbox_height": 71,
+        "Image_id": "d07b1e7b-1cdb-4ded-9383-ae1d268f251e",
+        "Length_mm": 1597,
+        "Width_mm": 1575,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "24-0.60",
+        "Lower_left_corner": [
+            21,
+            554
+        ],
+        "Class_num": 0,
+        "Bbox_width": 113,
+        "Bbox_height": 162,
+        "Image_id": "d97545d2-c1f9-4fe1-8dda-95416edb920b",
+        "Length_mm": 4444,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "55-0.46",
+        "Lower_left_corner": [
+            572,
+            373
+        ],
+        "Class_num": 2,
+        "Bbox_width": 84,
+        "Bbox_height": 78,
+        "Image_id": "d97545d2-c1f9-4fe1-8dda-95416edb920b",
+        "Length_mm": 1755,
+        "Width_mm": 1890,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "24-0.71",
+        "Lower_left_corner": [
+            0,
+            556
+        ],
+        "Class_num": 0,
+        "Bbox_width": 107,
+        "Bbox_height": 163,
+        "Image_id": "08f2f9a3-bb44-4d79-91b4-774166cf8467",
+        "Length_mm": 4387,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "55-0.74",
+        "Lower_left_corner": [
+            560,
+            381
+        ],
+        "Class_num": 2,
+        "Bbox_width": 96,
+        "Bbox_height": 91,
+        "Image_id": "cd76e672-d3c4-4f29-a783-ab808530d64f",
+        "Length_mm": 2047,
+        "Width_mm": 2160,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "55-0.74",
+        "Lower_left_corner": [
+            560,
+            381
+        ],
+        "Class_num": 2,
+        "Bbox_width": 96,
+        "Bbox_height": 92,
+        "Image_id": "ccbd5191-c8dc-4807-a2e7-0deb78ab83ff",
+        "Length_mm": 2070,
+        "Width_mm": 2160,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "55-0.81",
+        "Lower_left_corner": [
+            560,
+            384
+        ],
+        "Class_num": 2,
+        "Bbox_width": 94,
+        "Bbox_height": 101,
+        "Image_id": "df0c11e8-8821-438f-bbc6-877effebca9d",
+        "Length_mm": 2272,
+        "Width_mm": 2115,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "55-0.75",
+        "Lower_left_corner": [
+            559,
+            388
+        ],
+        "Class_num": 2,
+        "Bbox_width": 92,
+        "Bbox_height": 113,
+        "Image_id": "67eacd20-88f9-431a-8c3e-9808ea3db605",
+        "Length_mm": 2542,
+        "Width_mm": 2070,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "55-0.77",
+        "Lower_left_corner": [
+            544,
+            388
+        ],
+        "Class_num": 2,
+        "Bbox_width": 107,
+        "Bbox_height": 128,
+        "Image_id": "40e6105f-ed89-4895-93ae-1f71ea8dbbad",
+        "Length_mm": 2880,
+        "Width_mm": 2407,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "55-0.82",
+        "Lower_left_corner": [
+            528,
+            396
+        ],
+        "Class_num": 2,
+        "Bbox_width": 123,
+        "Bbox_height": 144,
+        "Image_id": "8b4c5307-7d3c-4d9b-9ab1-770bb3d3a969",
+        "Length_mm": 3240,
+        "Width_mm": 2767,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "55-0.79",
+        "Lower_left_corner": [
+            515,
+            400
+        ],
+        "Class_num": 2,
+        "Bbox_width": 136,
+        "Bbox_height": 167,
+        "Image_id": "3b5d8153-79b6-4148-a54c-9d5127893e38",
+        "Length_mm": 3757,
+        "Width_mm": 3060,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "55-0.80",
+        "Lower_left_corner": [
+            514,
+            399
+        ],
+        "Class_num": 2,
+        "Bbox_width": 138,
+        "Bbox_height": 169,
+        "Image_id": "e78e1be9-af5f-493e-b746-809aa26a84ce",
+        "Length_mm": 3802,
+        "Width_mm": 3105,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "55-0.77",
+        "Lower_left_corner": [
+            500,
+            406
+        ],
+        "Class_num": 2,
+        "Bbox_width": 148,
+        "Bbox_height": 193,
+        "Image_id": "c3a9ae96-e5be-4234-a1c0-4702779a90f6",
+        "Length_mm": 4342,
+        "Width_mm": 3330,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "55-0.80",
+        "Lower_left_corner": [
+            491,
+            411
+        ],
+        "Class_num": 2,
+        "Bbox_width": 157,
+        "Bbox_height": 231,
+        "Image_id": "3bb981f1-e274-430a-bdfc-ca1f0d00e905",
+        "Length_mm": 5197,
+        "Width_mm": 3532,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "55-0.81",
+        "Lower_left_corner": [
+            454,
+            419
+        ],
+        "Class_num": 2,
+        "Bbox_width": 193,
+        "Bbox_height": 276,
+        "Image_id": "71f981db-70f2-4954-a4f9-930ff0807f44",
+        "Length_mm": 6210,
+        "Width_mm": 4342,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "38-0.69",
+        "Lower_left_corner": [
+            5,
+            596
+        ],
+        "Class_num": 0,
+        "Bbox_width": 328,
+        "Bbox_height": 75,
+        "Image_id": "881b45cd-4da9-426b-a299-fa044fd67297",
+        "Length_mm": 7570,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "55-0.37",
+        "Lower_left_corner": [
+            490,
+            420
+        ],
+        "Class_num": 2,
+        "Bbox_width": 156,
+        "Bbox_height": 295,
+        "Image_id": "881b45cd-4da9-426b-a299-fa044fd67297",
+        "Length_mm": 6637,
+        "Width_mm": 3510,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "38-0.85",
+        "Lower_left_corner": [
+            0,
+            598
+        ],
+        "Class_num": 0,
+        "Bbox_width": 329,
+        "Bbox_height": 74,
+        "Image_id": "57d18de0-fc26-451c-ae23-66ccaecf68d6",
+        "Length_mm": 7587,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "55-0.44",
+        "Lower_left_corner": [
+            462,
+            430
+        ],
+        "Class_num": 2,
+        "Bbox_width": 184,
+        "Bbox_height": 289,
+        "Image_id": "57d18de0-fc26-451c-ae23-66ccaecf68d6",
+        "Length_mm": 6502,
+        "Width_mm": 4140,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "38-0.85",
+        "Lower_left_corner": [
+            79,
+            638
+        ],
+        "Class_num": 0,
+        "Bbox_width": 204,
+        "Bbox_height": 56,
+        "Image_id": "3dec9d0c-92e2-4c41-a6bb-32ca4404b26b",
+        "Length_mm": 4759,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "55-0.44",
+        "Lower_left_corner": [
+            462,
+            430
+        ],
+        "Class_num": 2,
+        "Bbox_width": 184,
+        "Bbox_height": 289,
+        "Image_id": "3dec9d0c-92e2-4c41-a6bb-32ca4404b26b",
+        "Length_mm": 6502,
+        "Width_mm": 4140,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "38-0.85",
+        "Lower_left_corner": [
+            81,
+            646
+        ],
+        "Class_num": 0,
+        "Bbox_width": 192,
+        "Bbox_height": 53,
+        "Image_id": "58cbe8ef-bb91-41f8-aa9c-9c03327aaeeb",
+        "Length_mm": 4481,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "55-0.39",
+        "Lower_left_corner": [
+            480,
+            440
+        ],
+        "Class_num": 2,
+        "Bbox_width": 162,
+        "Bbox_height": 276,
+        "Image_id": "58cbe8ef-bb91-41f8-aa9c-9c03327aaeeb",
+        "Length_mm": 6210,
+        "Width_mm": 3645,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "55-0.86",
+        "Lower_left_corner": [
+            452,
+            448
+        ],
+        "Class_num": 2,
+        "Bbox_width": 189,
+        "Bbox_height": 271,
+        "Image_id": "5bf39385-e099-4133-8790-09479d484daf",
+        "Length_mm": 6097,
+        "Width_mm": 4252,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "55-0.83",
+        "Lower_left_corner": [
+            487,
+            461
+        ],
+        "Class_num": 2,
+        "Bbox_width": 154,
+        "Bbox_height": 258,
+        "Image_id": "cc5b1ffe-55f3-4611-a841-030ad2412efa",
+        "Length_mm": 5805,
+        "Width_mm": 3465,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "59-0.63",
+        "Lower_left_corner": [
+            137,
+            479
+        ],
+        "Class_num": 0,
+        "Bbox_width": 259,
+        "Bbox_height": 70,
+        "Image_id": "cc5b1ffe-55f3-4611-a841-030ad2412efa",
+        "Length_mm": 6036,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "55-0.87",
+        "Lower_left_corner": [
+            482,
+            471
+        ],
+        "Class_num": 2,
+        "Bbox_width": 156,
+        "Bbox_height": 248,
+        "Image_id": "b4c28232-9ca8-42f6-8b26-4e5a86173978",
+        "Length_mm": 5580,
+        "Width_mm": 3510,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "59-0.69",
+        "Lower_left_corner": [
+            98,
+            492
+        ],
+        "Class_num": 0,
+        "Bbox_width": 264,
+        "Bbox_height": 75,
+        "Image_id": "b4c28232-9ca8-42f6-8b26-4e5a86173978",
+        "Length_mm": 6175,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "55-0.87",
+        "Lower_left_corner": [
+            469,
+            486
+        ],
+        "Class_num": 2,
+        "Bbox_width": 170,
+        "Bbox_height": 233,
+        "Image_id": "b8ad0798-bf6c-43d9-bb40-16a3ae81475e",
+        "Length_mm": 5242,
+        "Width_mm": 3825,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "59-0.66",
+        "Lower_left_corner": [
+            59,
+            508
+        ],
+        "Class_num": 0,
+        "Bbox_width": 295,
+        "Bbox_height": 79,
+        "Image_id": "b8ad0798-bf6c-43d9-bb40-16a3ae81475e",
+        "Length_mm": 6871,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "60-0.51",
+        "Lower_left_corner": [
+            479,
+            434
+        ],
+        "Class_num": 2,
+        "Bbox_width": 182,
+        "Bbox_height": 51,
+        "Image_id": "b8ad0798-bf6c-43d9-bb40-16a3ae81475e",
+        "Length_mm": 1147,
+        "Width_mm": 4095,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "55-0.87",
+        "Lower_left_corner": [
+            469,
+            487
+        ],
+        "Class_num": 2,
+        "Bbox_width": 171,
+        "Bbox_height": 232,
+        "Image_id": "3822d931-cd73-4a69-b31e-be5f218f37c9",
+        "Length_mm": 5220,
+        "Width_mm": 3847,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "59-0.66",
+        "Lower_left_corner": [
+            57,
+            507
+        ],
+        "Class_num": 0,
+        "Bbox_width": 297,
+        "Bbox_height": 80,
+        "Image_id": "3822d931-cd73-4a69-b31e-be5f218f37c9",
+        "Length_mm": 6920,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "60-0.50",
+        "Lower_left_corner": [
+            478,
+            433
+        ],
+        "Class_num": 2,
+        "Bbox_width": 184,
+        "Bbox_height": 53,
+        "Image_id": "3822d931-cd73-4a69-b31e-be5f218f37c9",
+        "Length_mm": 1192,
+        "Width_mm": 4140,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "55-0.84",
+        "Lower_left_corner": [
+            461,
+            507
+        ],
+        "Class_num": 2,
+        "Bbox_width": 175,
+        "Bbox_height": 212,
+        "Image_id": "851172f9-042e-4e11-b624-77733eeb8135",
+        "Length_mm": 4770,
+        "Width_mm": 3937,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "59-0.76",
+        "Lower_left_corner": [
+            9,
+            528
+        ],
+        "Class_num": 0,
+        "Bbox_width": 305,
+        "Bbox_height": 88,
+        "Image_id": "851172f9-042e-4e11-b624-77733eeb8135",
+        "Length_mm": 7142,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "60-0.71",
+        "Lower_left_corner": [
+            469,
+            444
+        ],
+        "Class_num": 2,
+        "Bbox_width": 196,
+        "Bbox_height": 61,
+        "Image_id": "851172f9-042e-4e11-b624-77733eeb8135",
+        "Length_mm": 1372,
+        "Width_mm": 4410,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "55-0.78",
+        "Lower_left_corner": [
+            459,
+            530
+        ],
+        "Class_num": 2,
+        "Bbox_width": 174,
+        "Bbox_height": 189,
+        "Image_id": "d27e24ad-342f-4fc6-95c1-f26d7f75197c",
+        "Length_mm": 4252,
+        "Width_mm": 3915,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "59-0.66",
+        "Lower_left_corner": [
+            9,
+            548
+        ],
+        "Class_num": 0,
+        "Bbox_width": 280,
+        "Bbox_height": 104,
+        "Image_id": "d27e24ad-342f-4fc6-95c1-f26d7f75197c",
+        "Length_mm": 6720,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "60-0.60",
+        "Lower_left_corner": [
+            499,
+            456
+        ],
+        "Class_num": 2,
+        "Bbox_width": 166,
+        "Bbox_height": 65,
+        "Image_id": "d27e24ad-342f-4fc6-95c1-f26d7f75197c",
+        "Length_mm": 1462,
+        "Width_mm": 3735,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "55-0.81",
+        "Lower_left_corner": [
+            458,
+            545
+        ],
+        "Class_num": 2,
+        "Bbox_width": 172,
+        "Bbox_height": 173,
+        "Image_id": "1a869ef3-bcaa-4946-a245-decdeefa9859",
+        "Length_mm": 3892,
+        "Width_mm": 3870,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "59-0.78",
+        "Lower_left_corner": [
+            3,
+            569
+        ],
+        "Class_num": 0,
+        "Bbox_width": 276,
+        "Bbox_height": 119,
+        "Image_id": "1a869ef3-bcaa-4946-a245-decdeefa9859",
+        "Length_mm": 6762,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "60-0.69",
+        "Lower_left_corner": [
+            486,
+            465
+        ],
+        "Class_num": 2,
+        "Bbox_width": 177,
+        "Bbox_height": 70,
+        "Image_id": "1a869ef3-bcaa-4946-a245-decdeefa9859",
+        "Length_mm": 1575,
+        "Width_mm": 3982,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "38-0.80",
+        "Lower_left_corner": [
+            170,
+            503
+        ],
+        "Class_num": 2,
+        "Bbox_width": 70,
+        "Bbox_height": 28,
+        "Image_id": "d0ddb352-7d72-49e6-9c26-9458ba121ccf",
+        "Length_mm": 630,
+        "Width_mm": 1575,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "55-0.71",
+        "Lower_left_corner": [
+            449,
+            572
+        ],
+        "Class_num": 2,
+        "Bbox_width": 181,
+        "Bbox_height": 146,
+        "Image_id": "d0ddb352-7d72-49e6-9c26-9458ba121ccf",
+        "Length_mm": 3285,
+        "Width_mm": 4072,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "59-0.48",
+        "Lower_left_corner": [
+            0,
+            583
+        ],
+        "Class_num": 0,
+        "Bbox_width": 263,
+        "Bbox_height": 125,
+        "Image_id": "d0ddb352-7d72-49e6-9c26-9458ba121ccf",
+        "Length_mm": 6551,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "60-0.42",
+        "Lower_left_corner": [
+            457,
+            477
+        ],
+        "Class_num": 2,
+        "Bbox_width": 209,
+        "Bbox_height": 85,
+        "Image_id": "d0ddb352-7d72-49e6-9c26-9458ba121ccf",
+        "Length_mm": 1912,
+        "Width_mm": 4702,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "38-0.80",
+        "Lower_left_corner": [
+            176,
+            494
+        ],
+        "Class_num": 2,
+        "Bbox_width": 61,
+        "Bbox_height": 25,
+        "Image_id": "752f5222-655b-406e-aca4-3f3c6429d515",
+        "Length_mm": 562,
+        "Width_mm": 1372,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "55-0.64",
+        "Lower_left_corner": [
+            440,
+            603
+        ],
+        "Class_num": 2,
+        "Bbox_width": 184,
+        "Bbox_height": 116,
+        "Image_id": "752f5222-655b-406e-aca4-3f3c6429d515",
+        "Length_mm": 2610,
+        "Width_mm": 4140,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "60-0.50",
+        "Lower_left_corner": [
+            471,
+            494
+        ],
+        "Class_num": 2,
+        "Bbox_width": 195,
+        "Bbox_height": 100,
+        "Image_id": "752f5222-655b-406e-aca4-3f3c6429d515",
+        "Length_mm": 2250,
+        "Width_mm": 4387,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "55-0.80",
+        "Lower_left_corner": [
+            442,
+            604
+        ],
+        "Class_num": 2,
+        "Bbox_width": 180,
+        "Bbox_height": 115,
+        "Image_id": "400b6a09-c2f8-42c8-92db-de94a5505fda",
+        "Length_mm": 2587,
+        "Width_mm": 4050,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "60-0.64",
+        "Lower_left_corner": [
+            470,
+            493
+        ],
+        "Class_num": 2,
+        "Bbox_width": 197,
+        "Bbox_height": 102,
+        "Image_id": "400b6a09-c2f8-42c8-92db-de94a5505fda",
+        "Length_mm": 2295,
+        "Width_mm": 4432,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "38-0.83",
+        "Lower_left_corner": [
+            200,
+            488
+        ],
+        "Class_num": 2,
+        "Bbox_width": 93,
+        "Bbox_height": 27,
+        "Image_id": "0c9b7090-477a-43fb-9dbd-caad115c736a",
+        "Length_mm": 607,
+        "Width_mm": 2092,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "55-0.68",
+        "Lower_left_corner": [
+            475,
+            648
+        ],
+        "Class_num": 2,
+        "Bbox_width": 138,
+        "Bbox_height": 71,
+        "Image_id": "0c9b7090-477a-43fb-9dbd-caad115c736a",
+        "Length_mm": 1597,
+        "Width_mm": 3105,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "60-0.66",
+        "Lower_left_corner": [
+            454,
+            513
+        ],
+        "Class_num": 2,
+        "Bbox_width": 214,
+        "Bbox_height": 114,
+        "Image_id": "0c9b7090-477a-43fb-9dbd-caad115c736a",
+        "Length_mm": 2565,
+        "Width_mm": 4815,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "38-0.84",
+        "Lower_left_corner": [
+            205,
+            481
+        ],
+        "Class_num": 2,
+        "Bbox_width": 91,
+        "Bbox_height": 26,
+        "Image_id": "5b296387-3976-44b4-87e4-ffabb21eb179",
+        "Length_mm": 585,
+        "Width_mm": 2047,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "55-0.71",
+        "Lower_left_corner": [
+            490,
+            667
+        ],
+        "Class_num": 2,
+        "Bbox_width": 106,
+        "Bbox_height": 52,
+        "Image_id": "5b296387-3976-44b4-87e4-ffabb21eb179",
+        "Length_mm": 1170,
+        "Width_mm": 2385,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "60-0.68",
+        "Lower_left_corner": [
+            444,
+            533
+        ],
+        "Class_num": 2,
+        "Bbox_width": 222,
+        "Bbox_height": 129,
+        "Image_id": "5b296387-3976-44b4-87e4-ffabb21eb179",
+        "Length_mm": 2902,
+        "Width_mm": 4995,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "60-0.83",
+        "Lower_left_corner": [
+            424,
+            554
+        ],
+        "Class_num": 2,
+        "Bbox_width": 238,
+        "Bbox_height": 155,
+        "Image_id": "062c2935-a5b8-4980-823d-65ba85100521",
+        "Length_mm": 3487,
+        "Width_mm": 5355,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "60-0.79",
+        "Lower_left_corner": [
+            385,
+            585
+        ],
+        "Class_num": 2,
+        "Bbox_width": 239,
+        "Bbox_height": 134,
+        "Image_id": "9fd6e6d9-0092-4ab8-b6f1-244256bdbb9f",
+        "Length_mm": 3015,
+        "Width_mm": 5377,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "60-0.79",
+        "Lower_left_corner": [
+            361,
+            622
+        ],
+        "Class_num": 2,
+        "Bbox_width": 197,
+        "Bbox_height": 97,
+        "Image_id": "b7fa3005-ece2-4658-b27b-d2d3c6b45e21",
+        "Length_mm": 2182,
+        "Width_mm": 4432,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "73-0.77",
+        "Lower_left_corner": [
+            567,
+            422
+        ],
+        "Class_num": 2,
+        "Bbox_width": 79,
+        "Bbox_height": 26,
+        "Image_id": "b7fa3005-ece2-4658-b27b-d2d3c6b45e21",
+        "Length_mm": 585,
+        "Width_mm": 1777,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "60-0.79",
+        "Lower_left_corner": [
+            362,
+            623
+        ],
+        "Class_num": 2,
+        "Bbox_width": 195,
+        "Bbox_height": 96,
+        "Image_id": "2bc1eca4-00a1-45f1-bb2f-d8eb68c7a47e",
+        "Length_mm": 2160,
+        "Width_mm": 4387,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "73-0.77",
+        "Lower_left_corner": [
+            566,
+            421
+        ],
+        "Class_num": 2,
+        "Bbox_width": 81,
+        "Bbox_height": 28,
+        "Image_id": "2bc1eca4-00a1-45f1-bb2f-d8eb68c7a47e",
+        "Length_mm": 630,
+        "Width_mm": 1822,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "60-0.73",
+        "Lower_left_corner": [
+            349,
+            638
+        ],
+        "Class_num": 2,
+        "Bbox_width": 198,
+        "Bbox_height": 81,
+        "Image_id": "1e4f9eb3-4fc3-4d03-84fa-5eebf9047f8c",
+        "Length_mm": 1822,
+        "Width_mm": 4455,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "73-0.73",
+        "Lower_left_corner": [
+            560,
+            419
+        ],
+        "Class_num": 2,
+        "Bbox_width": 96,
+        "Bbox_height": 39,
+        "Image_id": "1e4f9eb3-4fc3-4d03-84fa-5eebf9047f8c",
+        "Length_mm": 877,
+        "Width_mm": 2160,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "73-0.66",
+        "Lower_left_corner": [
+            556,
+            420
+        ],
+        "Class_num": 2,
+        "Bbox_width": 105,
+        "Bbox_height": 43,
+        "Image_id": "851492e2-abb2-4085-a292-f402faf9ea00",
+        "Length_mm": 967,
+        "Width_mm": 2362,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "83-0.73",
+        "Lower_left_corner": [
+            538,
+            461
+        ],
+        "Class_num": 2,
+        "Bbox_width": 77,
+        "Bbox_height": 34,
+        "Image_id": "8802a603-46df-4dfa-866b-21c7c30d922e",
+        "Length_mm": 765,
+        "Width_mm": 1732,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "83-0.81",
+        "Lower_left_corner": [
+            528,
+            472
+        ],
+        "Class_num": 2,
+        "Bbox_width": 78,
+        "Bbox_height": 39,
+        "Image_id": "f36e6ff3-b387-4e9e-b912-ddcbf54e6418",
+        "Length_mm": 877,
+        "Width_mm": 1755,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "83-0.80",
+        "Lower_left_corner": [
+            527,
+            471
+        ],
+        "Class_num": 2,
+        "Bbox_width": 80,
+        "Bbox_height": 41,
+        "Image_id": "5444d7df-67f9-4a5f-95eb-1c5cc5c4c402",
+        "Length_mm": 922,
+        "Width_mm": 1800,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "87-0.73",
+        "Lower_left_corner": [
+            76,
+            522
+        ],
+        "Class_num": 0,
+        "Bbox_width": 229,
+        "Bbox_height": 147,
+        "Image_id": "5444d7df-67f9-4a5f-95eb-1c5cc5c4c402",
+        "Length_mm": 6122,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "83-0.83",
+        "Lower_left_corner": [
+            516,
+            487
+        ],
+        "Class_num": 2,
+        "Bbox_width": 78,
+        "Bbox_height": 43,
+        "Image_id": "ffc44ed2-d7b5-468b-90a6-9dc4ef36d867",
+        "Length_mm": 967,
+        "Width_mm": 1755,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "87-0.66",
+        "Lower_left_corner": [
+            43,
+            547
+        ],
+        "Class_num": 0,
+        "Bbox_width": 230,
+        "Bbox_height": 142,
+        "Image_id": "ffc44ed2-d7b5-468b-90a6-9dc4ef36d867",
+        "Length_mm": 6081,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "83-0.84",
+        "Lower_left_corner": [
+            503,
+            502
+        ],
+        "Class_num": 2,
+        "Bbox_width": 86,
+        "Bbox_height": 51,
+        "Image_id": "1fa44579-e32c-4db6-9058-62c714593c7a",
+        "Length_mm": 1147,
+        "Width_mm": 1935,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "87-0.67",
+        "Lower_left_corner": [
+            94,
+            561
+        ],
+        "Class_num": 0,
+        "Bbox_width": 143,
+        "Bbox_height": 126,
+        "Image_id": "1fa44579-e32c-4db6-9058-62c714593c7a",
+        "Length_mm": 4288,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "73-0.83",
+        "Lower_left_corner": [
+            492,
+            517
+        ],
+        "Class_num": 2,
+        "Bbox_width": 91,
+        "Bbox_height": 63,
+        "Image_id": "1025472e-c1a1-4852-83ed-d908883f5ef3",
+        "Length_mm": 1417,
+        "Width_mm": 2047,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "83-0.65",
+        "Lower_left_corner": [
+            494,
+            511
+        ],
+        "Class_num": 2,
+        "Bbox_width": 91,
+        "Bbox_height": 55,
+        "Image_id": "1025472e-c1a1-4852-83ed-d908883f5ef3",
+        "Length_mm": 1237,
+        "Width_mm": 2047,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "60-0.81",
+        "Lower_left_corner": [
+            37,
+            593
+        ],
+        "Class_num": 0,
+        "Bbox_width": 171,
+        "Bbox_height": 92,
+        "Image_id": "49e6564c-9090-428f-9494-909fe79bc83d",
+        "Length_mm": 4368,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "73-0.33",
+        "Lower_left_corner": [
+            469,
+            540
+        ],
+        "Class_num": 2,
+        "Bbox_width": 108,
+        "Bbox_height": 70,
+        "Image_id": "49e6564c-9090-428f-9494-909fe79bc83d",
+        "Length_mm": 1575,
+        "Width_mm": 2430,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "60-0.82",
+        "Lower_left_corner": [
+            2,
+            610
+        ],
+        "Class_num": 0,
+        "Bbox_width": 148,
+        "Bbox_height": 103,
+        "Image_id": "cb07857e-7f2e-4a1a-bc33-0ab00421bb3b",
+        "Length_mm": 4057,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "73-0.43",
+        "Lower_left_corner": [
+            456,
+            565
+        ],
+        "Class_num": 2,
+        "Bbox_width": 104,
+        "Bbox_height": 86,
+        "Image_id": "cb07857e-7f2e-4a1a-bc33-0ab00421bb3b",
+        "Length_mm": 1935,
+        "Width_mm": 2340,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "60-0.82",
+        "Lower_left_corner": [
+            0,
+            615
+        ],
+        "Class_num": 0,
+        "Bbox_width": 110,
+        "Bbox_height": 104,
+        "Image_id": "3490f4f6-71cb-44ae-88a2-d3e164d1e22c",
+        "Length_mm": 3406,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "73-0.42",
+        "Lower_left_corner": [
+            455,
+            564
+        ],
+        "Class_num": 2,
+        "Bbox_width": 106,
+        "Bbox_height": 87,
+        "Image_id": "3490f4f6-71cb-44ae-88a2-d3e164d1e22c",
+        "Length_mm": 1957,
+        "Width_mm": 2385,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "87-0.41",
+        "Lower_left_corner": [
+            0,
+            609
+        ],
+        "Class_num": 0,
+        "Bbox_width": 153,
+        "Bbox_height": 105,
+        "Image_id": "3490f4f6-71cb-44ae-88a2-d3e164d1e22c",
+        "Length_mm": 4175,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "73-0.80",
+        "Lower_left_corner": [
+            412,
+            595
+        ],
+        "Class_num": 2,
+        "Bbox_width": 156,
+        "Bbox_height": 109,
+        "Image_id": "c47f07c9-fc94-4470-8e72-746efa84c581",
+        "Length_mm": 2452,
+        "Width_mm": 3510,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "87-0.47",
+        "Lower_left_corner": [
+            0,
+            634
+        ],
+        "Class_num": 0,
+        "Bbox_width": 105,
+        "Bbox_height": 85,
+        "Image_id": "c47f07c9-fc94-4470-8e72-746efa84c581",
+        "Length_mm": 3039,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "73-0.65",
+        "Lower_left_corner": [
+            377,
+            611
+        ],
+        "Class_num": 2,
+        "Bbox_width": 281,
+        "Bbox_height": 108,
+        "Image_id": "59dd3ff9-937d-4318-b820-3c6201286787",
+        "Length_mm": 2430,
+        "Width_mm": 6322,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "87-0.42",
+        "Lower_left_corner": [
+            0,
+            648
+        ],
+        "Class_num": 0,
+        "Bbox_width": 80,
+        "Bbox_height": 71,
+        "Image_id": "59dd3ff9-937d-4318-b820-3c6201286787",
+        "Length_mm": 2406,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "73-0.55",
+        "Lower_left_corner": [
+            358,
+            624
+        ],
+        "Class_num": 2,
+        "Bbox_width": 311,
+        "Bbox_height": 95,
+        "Image_id": "c0ff131d-2205-4782-9d1e-ac0db8949125",
+        "Length_mm": 2137,
+        "Width_mm": 6997,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "38-0.40",
+        "Lower_left_corner": [
+            174,
+            500
+        ],
+        "Class_num": 2,
+        "Bbox_width": 75,
+        "Bbox_height": 22,
+        "Image_id": "d50f5fdc-d7cc-4033-9809-0663fee714c4",
+        "Length_mm": 495,
+        "Width_mm": 1687,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "91-0.35",
+        "Lower_left_corner": [
+            606,
+            452
+        ],
+        "Class_num": 2,
+        "Bbox_width": 60,
+        "Bbox_height": 31,
+        "Image_id": "d50f5fdc-d7cc-4033-9809-0663fee714c4",
+        "Length_mm": 697,
+        "Width_mm": 1350,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "38-0.65",
+        "Lower_left_corner": [
+            173,
+            500
+        ],
+        "Class_num": 2,
+        "Bbox_width": 73,
+        "Bbox_height": 23,
+        "Image_id": "e3295b5e-affa-4ab2-ab9b-6c9cb8f0e546",
+        "Length_mm": 517,
+        "Width_mm": 1642,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "91-0.53",
+        "Lower_left_corner": [
+            601,
+            467
+        ],
+        "Class_num": 2,
+        "Bbox_width": 64,
+        "Bbox_height": 32,
+        "Image_id": "e3295b5e-affa-4ab2-ab9b-6c9cb8f0e546",
+        "Length_mm": 720,
+        "Width_mm": 1440,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "38-0.66",
+        "Lower_left_corner": [
+            143,
+            515
+        ],
+        "Class_num": 2,
+        "Bbox_width": 71,
+        "Bbox_height": 25,
+        "Image_id": "add41688-9588-40bd-b18d-01da7d9082cb",
+        "Length_mm": 562,
+        "Width_mm": 1597,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "91-0.53",
+        "Lower_left_corner": [
+            600,
+            466
+        ],
+        "Class_num": 2,
+        "Bbox_width": 66,
+        "Bbox_height": 34,
+        "Image_id": "add41688-9588-40bd-b18d-01da7d9082cb",
+        "Length_mm": 765,
+        "Width_mm": 1485,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "38-0.56",
+        "Lower_left_corner": [
+            110,
+            531
+        ],
+        "Class_num": 2,
+        "Bbox_width": 72,
+        "Bbox_height": 27,
+        "Image_id": "d27d26e5-f6fc-4b50-ae8b-497952cd60d4",
+        "Length_mm": 607,
+        "Width_mm": 1620,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "91-0.51",
+        "Lower_left_corner": [
+            598,
+            474
+        ],
+        "Class_num": 2,
+        "Bbox_width": 67,
+        "Bbox_height": 34,
+        "Image_id": "d27d26e5-f6fc-4b50-ae8b-497952cd60d4",
+        "Length_mm": 765,
+        "Width_mm": 1507,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "93-0.34",
+        "Lower_left_corner": [
+            1,
+            539
+        ],
+        "Class_num": 0,
+        "Bbox_width": 269,
+        "Bbox_height": 152,
+        "Image_id": "d27d26e5-f6fc-4b50-ae8b-497952cd60d4",
+        "Length_mm": 6951,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "38-0.71",
+        "Lower_left_corner": [
+            70,
+            552
+        ],
+        "Class_num": 2,
+        "Bbox_width": 73,
+        "Bbox_height": 27,
+        "Image_id": "68720c1e-30e3-42c2-b877-d6fefc2e1de7",
+        "Length_mm": 607,
+        "Width_mm": 1642,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "73-0.65",
+        "Lower_left_corner": [
+            324,
+            553
+        ],
+        "Class_num": 0,
+        "Bbox_width": 124,
+        "Bbox_height": 164,
+        "Image_id": "68720c1e-30e3-42c2-b877-d6fefc2e1de7",
+        "Length_mm": 4626,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "83-0.36",
+        "Lower_left_corner": [
+            0,
+            565
+        ],
+        "Class_num": 0,
+        "Bbox_width": 200,
+        "Bbox_height": 139,
+        "Image_id": "68720c1e-30e3-42c2-b877-d6fefc2e1de7",
+        "Length_mm": 5480,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "93-0.35",
+        "Lower_left_corner": [
+            0,
+            539
+        ],
+        "Class_num": 0,
+        "Bbox_width": 281,
+        "Bbox_height": 165,
+        "Image_id": "68720c1e-30e3-42c2-b877-d6fefc2e1de7",
+        "Length_mm": 7331,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "38-0.71",
+        "Lower_left_corner": [
+            50,
+            557
+        ],
+        "Class_num": 2,
+        "Bbox_width": 71,
+        "Bbox_height": 28,
+        "Image_id": "4d9f8a00-2c5a-4956-9a7c-fc175c26e640",
+        "Length_mm": 630,
+        "Width_mm": 1597,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "73-0.60",
+        "Lower_left_corner": [
+            281,
+            580
+        ],
+        "Class_num": 0,
+        "Bbox_width": 124,
+        "Bbox_height": 139,
+        "Image_id": "4d9f8a00-2c5a-4956-9a7c-fc175c26e640",
+        "Length_mm": 4191,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "83-0.38",
+        "Lower_left_corner": [
+            0,
+            571
+        ],
+        "Class_num": 0,
+        "Bbox_width": 170,
+        "Bbox_height": 146,
+        "Image_id": "4d9f8a00-2c5a-4956-9a7c-fc175c26e640",
+        "Length_mm": 5042,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "73-0.68",
+        "Lower_left_corner": [
+            254,
+            585
+        ],
+        "Class_num": 0,
+        "Bbox_width": 140,
+        "Bbox_height": 134,
+        "Image_id": "0a4b4e94-b12a-4ee4-91ad-88217d7c4e84",
+        "Length_mm": 4360,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "93-0.58",
+        "Lower_left_corner": [
+            7,
+            555
+        ],
+        "Class_num": 0,
+        "Bbox_width": 290,
+        "Bbox_height": 154,
+        "Image_id": "0a4b4e94-b12a-4ee4-91ad-88217d7c4e84",
+        "Length_mm": 7387,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "93-0.72",
+        "Lower_left_corner": [
+            0,
+            616
+        ],
+        "Class_num": 0,
+        "Bbox_width": 327,
+        "Bbox_height": 75,
+        "Image_id": "6cdba2f1-faca-4a4e-9ae4-14e1215f3971",
+        "Length_mm": 7548,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "93-0.72",
+        "Lower_left_corner": [
+            10,
+            619
+        ],
+        "Class_num": 0,
+        "Bbox_width": 306,
+        "Bbox_height": 69,
+        "Image_id": "1ed6ea71-eba8-4aca-84bf-ec031a984219",
+        "Length_mm": 7057,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "93-0.53",
+        "Lower_left_corner": [
+            27,
+            630
+        ],
+        "Class_num": 0,
+        "Bbox_width": 282,
+        "Bbox_height": 62,
+        "Image_id": "562125b2-c00d-46a4-9d64-1e0db3a0de4b",
+        "Length_mm": 6496,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "91-0.53",
+        "Lower_left_corner": [
+            747,
+            574
+        ],
+        "Class_num": 0,
+        "Bbox_width": 164,
+        "Bbox_height": 41,
+        "Image_id": "0355bf67-86f6-450c-be88-bdd5cabc9716",
+        "Length_mm": 3803,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "91-0.49",
+        "Lower_left_corner": [
+            761,
+            585
+        ],
+        "Class_num": 0,
+        "Bbox_width": 171,
+        "Bbox_height": 41,
+        "Image_id": "e6cf78aa-0881-4a09-9628-3cba145e423b",
+        "Length_mm": 3956,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "100-0.37",
+        "Lower_left_corner": [
+            551,
+            378
+        ],
+        "Class_num": 0,
+        "Bbox_width": 233,
+        "Bbox_height": 235,
+        "Image_id": "e6cf78aa-0881-4a09-9628-3cba145e423b",
+        "Length_mm": 7445,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "91-0.45",
+        "Lower_left_corner": [
+            755,
+            642
+        ],
+        "Class_num": 0,
+        "Bbox_width": 203,
+        "Bbox_height": 52,
+        "Image_id": "7c61b243-e31a-4489-8295-329cd38386ae",
+        "Length_mm": 4714,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "100-0.45",
+        "Lower_left_corner": [
+            535,
+            386
+        ],
+        "Class_num": 0,
+        "Bbox_width": 248,
+        "Bbox_height": 299,
+        "Image_id": "7c61b243-e31a-4489-8295-329cd38386ae",
+        "Length_mm": 8740,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "91-0.45",
+        "Lower_left_corner": [
+            753,
+            641
+        ],
+        "Class_num": 0,
+        "Bbox_width": 208,
+        "Bbox_height": 54,
+        "Image_id": "6e2433fb-d8d4-4475-93f3-2cbfe580707a",
+        "Length_mm": 4835,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "100-0.45",
+        "Lower_left_corner": [
+            532,
+            385
+        ],
+        "Class_num": 0,
+        "Bbox_width": 254,
+        "Bbox_height": 305,
+        "Image_id": "6e2433fb-d8d4-4475-93f3-2cbfe580707a",
+        "Length_mm": 8930,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "91-0.40",
+        "Lower_left_corner": [
+            762,
+            655
+        ],
+        "Class_num": 0,
+        "Bbox_width": 220,
+        "Bbox_height": 55,
+        "Image_id": "f8a42d00-c9ea-4863-b5f1-1dcb0b83643a",
+        "Length_mm": 5102,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "100-0.58",
+        "Lower_left_corner": [
+            528,
+            393
+        ],
+        "Class_num": 0,
+        "Bbox_width": 261,
+        "Bbox_height": 283,
+        "Image_id": "27ffa908-5cbe-4981-b419-16ff1bc9671a",
+        "Length_mm": 8662,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "100-0.69",
+        "Lower_left_corner": [
+            506,
+            385
+        ],
+        "Class_num": 0,
+        "Bbox_width": 301,
+        "Bbox_height": 324,
+        "Image_id": "7f007117-68b3-417f-b22b-7e4aa88e7474",
+        "Length_mm": 9950,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "100-0.68",
+        "Lower_left_corner": [
+            502,
+            396
+        ],
+        "Class_num": 0,
+        "Bbox_width": 294,
+        "Bbox_height": 320,
+        "Image_id": "efdf3c0b-0e98-420c-a02c-a82b36c2a8e6",
+        "Length_mm": 9777,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "100-0.79",
+        "Lower_left_corner": [
+            524,
+            400
+        ],
+        "Class_num": 0,
+        "Bbox_width": 268,
+        "Bbox_height": 316,
+        "Image_id": "1ec3d6ec-525a-4499-9cd0-d500fb84497c",
+        "Length_mm": 9322,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "100-0.79",
+        "Lower_left_corner": [
+            524,
+            400
+        ],
+        "Class_num": 0,
+        "Bbox_width": 268,
+        "Bbox_height": 316,
+        "Image_id": "e4406141-b713-4d7b-a3c9-7b19c869a867",
+        "Length_mm": 9322,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "100-0.83",
+        "Lower_left_corner": [
+            511,
+            413
+        ],
+        "Class_num": 0,
+        "Bbox_width": 292,
+        "Bbox_height": 306,
+        "Image_id": "533dfada-13e7-4ec5-818c-9cc1ec1b4d7f",
+        "Length_mm": 9516,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "100-0.84",
+        "Lower_left_corner": [
+            507,
+            418
+        ],
+        "Class_num": 0,
+        "Bbox_width": 300,
+        "Bbox_height": 301,
+        "Image_id": "64cdc615-ecf4-4e78-b88f-bb2f349cfdc0",
+        "Length_mm": 9561,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "100-0.81",
+        "Lower_left_corner": [
+            500,
+            418
+        ],
+        "Class_num": 0,
+        "Bbox_width": 306,
+        "Bbox_height": 300,
+        "Image_id": "41e89dd7-9e03-4c4b-aa4a-65ef8911c5e5",
+        "Length_mm": 9641,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "100-0.74",
+        "Lower_left_corner": [
+            510,
+            419
+        ],
+        "Class_num": 0,
+        "Bbox_width": 305,
+        "Bbox_height": 298,
+        "Image_id": "d87ccfc2-7317-4556-a5d0-2b9a07ed12b3",
+        "Length_mm": 9594,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "100-0.74",
+        "Lower_left_corner": [
+            547,
+            425
+        ],
+        "Class_num": 0,
+        "Bbox_width": 275,
+        "Bbox_height": 292,
+        "Image_id": "be3ab2f8-d8a3-4498-bd38-78be61ea750f",
+        "Length_mm": 9024,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "100-0.74",
+        "Lower_left_corner": [
+            547,
+            426
+        ],
+        "Class_num": 0,
+        "Bbox_width": 277,
+        "Bbox_height": 291,
+        "Image_id": "2706d1fb-13ca-41b9-8fd5-01f39dfa239a",
+        "Length_mm": 9039,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "100-0.77",
+        "Lower_left_corner": [
+            478,
+            430
+        ],
+        "Class_num": 0,
+        "Bbox_width": 355,
+        "Bbox_height": 287,
+        "Image_id": "3bc7d0f6-347d-43b3-a35d-a801268caa93",
+        "Length_mm": 10271,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "91-0.41",
+        "Lower_left_corner": [
+            705,
+            410
+        ],
+        "Class_num": 2,
+        "Bbox_width": 74,
+        "Bbox_height": 36,
+        "Image_id": "324bdca7-2a3c-4f93-9df4-99a2851bf891",
+        "Length_mm": 810,
+        "Width_mm": 1665,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "100-0.38",
+        "Lower_left_corner": [
+            480,
+            436
+        ],
+        "Class_num": 0,
+        "Bbox_width": 358,
+        "Bbox_height": 278,
+        "Image_id": "324bdca7-2a3c-4f93-9df4-99a2851bf891",
+        "Length_mm": 10198,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "91-0.42",
+        "Lower_left_corner": [
+            708,
+            421
+        ],
+        "Class_num": 2,
+        "Bbox_width": 77,
+        "Bbox_height": 37,
+        "Image_id": "1636a723-6480-4ab6-ba52-be6560b99d88",
+        "Length_mm": 832,
+        "Width_mm": 1732,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "100-0.36",
+        "Lower_left_corner": [
+            449,
+            441
+        ],
+        "Class_num": 0,
+        "Bbox_width": 399,
+        "Bbox_height": 271,
+        "Image_id": "1636a723-6480-4ab6-ba52-be6560b99d88",
+        "Length_mm": 10852,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "91-0.51",
+        "Lower_left_corner": [
+            707,
+            424
+        ],
+        "Class_num": 2,
+        "Bbox_width": 89,
+        "Bbox_height": 44,
+        "Image_id": "8cd97927-5ce3-4e77-8d7e-6f18fd36b2f2",
+        "Length_mm": 990,
+        "Width_mm": 2002,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "93-0.39",
+        "Lower_left_corner": [
+            198,
+            502
+        ],
+        "Class_num": 2,
+        "Bbox_width": 91,
+        "Bbox_height": 26,
+        "Image_id": "8cd97927-5ce3-4e77-8d7e-6f18fd36b2f2",
+        "Length_mm": 585,
+        "Width_mm": 2047,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "100-0.35",
+        "Lower_left_corner": [
+            437,
+            447
+        ],
+        "Class_num": 0,
+        "Bbox_width": 394,
+        "Bbox_height": 261,
+        "Image_id": "8cd97927-5ce3-4e77-8d7e-6f18fd36b2f2",
+        "Length_mm": 10633,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "91-0.66",
+        "Lower_left_corner": [
+            710,
+            421
+        ],
+        "Class_num": 2,
+        "Bbox_width": 89,
+        "Bbox_height": 58,
+        "Image_id": "54d20185-25aa-4784-ad67-d8a3ac88855b",
+        "Length_mm": 1305,
+        "Width_mm": 2002,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "93-0.61",
+        "Lower_left_corner": [
+            172,
+            514
+        ],
+        "Class_num": 2,
+        "Bbox_width": 91,
+        "Bbox_height": 27,
+        "Image_id": "54d20185-25aa-4784-ad67-d8a3ac88855b",
+        "Length_mm": 607,
+        "Width_mm": 2047,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "100-0.46",
+        "Lower_left_corner": [
+            460,
+            473
+        ],
+        "Class_num": 0,
+        "Bbox_width": 292,
+        "Bbox_height": 240,
+        "Image_id": "54d20185-25aa-4784-ad67-d8a3ac88855b",
+        "Length_mm": 8504,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "91-0.65",
+        "Lower_left_corner": [
+            709,
+            419
+        ],
+        "Class_num": 2,
+        "Bbox_width": 91,
+        "Bbox_height": 61,
+        "Image_id": "9be711e5-94d2-486c-89e7-ccbbc9a7682c",
+        "Length_mm": 1372,
+        "Width_mm": 2047,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "93-0.61",
+        "Lower_left_corner": [
+            172,
+            514
+        ],
+        "Class_num": 2,
+        "Bbox_width": 91,
+        "Bbox_height": 27,
+        "Image_id": "9be711e5-94d2-486c-89e7-ccbbc9a7682c",
+        "Length_mm": 607,
+        "Width_mm": 2047,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "100-0.47",
+        "Lower_left_corner": [
+            461,
+            475
+        ],
+        "Class_num": 0,
+        "Bbox_width": 287,
+        "Bbox_height": 237,
+        "Image_id": "9be711e5-94d2-486c-89e7-ccbbc9a7682c",
+        "Length_mm": 8374,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "73-0.78",
+        "Lower_left_corner": [
+            138,
+            530
+        ],
+        "Class_num": 2,
+        "Bbox_width": 93,
+        "Bbox_height": 32,
+        "Image_id": "e2e5182d-aea7-476d-a098-8b3e366e4807",
+        "Length_mm": 720,
+        "Width_mm": 2092,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "91-0.53",
+        "Lower_left_corner": [
+            709,
+            438
+        ],
+        "Class_num": 2,
+        "Bbox_width": 106,
+        "Bbox_height": 53,
+        "Image_id": "e2e5182d-aea7-476d-a098-8b3e366e4807",
+        "Length_mm": 1192,
+        "Width_mm": 2385,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "93-0.44",
+        "Lower_left_corner": [
+            174,
+            513
+        ],
+        "Class_num": 2,
+        "Bbox_width": 87,
+        "Bbox_height": 27,
+        "Image_id": "e2e5182d-aea7-476d-a098-8b3e366e4807",
+        "Length_mm": 607,
+        "Width_mm": 1957,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "100-0.38",
+        "Lower_left_corner": [
+            456,
+            476
+        ],
+        "Class_num": 0,
+        "Bbox_width": 308,
+        "Bbox_height": 242,
+        "Image_id": "e2e5182d-aea7-476d-a098-8b3e366e4807",
+        "Length_mm": 8813,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "73-0.76",
+        "Lower_left_corner": [
+            140,
+            528
+        ],
+        "Class_num": 2,
+        "Bbox_width": 78,
+        "Bbox_height": 26,
+        "Image_id": "ad13f9d4-40ad-4d23-a6fe-de5319ea9538",
+        "Length_mm": 585,
+        "Width_mm": 1755,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "91-0.51",
+        "Lower_left_corner": [
+            712,
+            452
+        ],
+        "Class_num": 2,
+        "Bbox_width": 107,
+        "Bbox_height": 53,
+        "Image_id": "ad13f9d4-40ad-4d23-a6fe-de5319ea9538",
+        "Length_mm": 1192,
+        "Width_mm": 2407,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "100-0.34",
+        "Lower_left_corner": [
+            420,
+            525
+        ],
+        "Class_num": 0,
+        "Bbox_width": 312,
+        "Bbox_height": 194,
+        "Image_id": "ad13f9d4-40ad-4d23-a6fe-de5319ea9538",
+        "Length_mm": 8266,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "91-0.79",
+        "Lower_left_corner": [
+            722,
+            461
+        ],
+        "Class_num": 2,
+        "Bbox_width": 124,
+        "Bbox_height": 70,
+        "Image_id": "62c704cf-4a94-44c7-975b-0dbbd6a3844c",
+        "Length_mm": 1575,
+        "Width_mm": 2790,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "100-0.52",
+        "Lower_left_corner": [
+            414,
+            535
+        ],
+        "Class_num": 0,
+        "Bbox_width": 307,
+        "Bbox_height": 184,
+        "Image_id": "62c704cf-4a94-44c7-975b-0dbbd6a3844c",
+        "Length_mm": 8053,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "91-0.85",
+        "Lower_left_corner": [
+            716,
+            479
+        ],
+        "Class_num": 2,
+        "Bbox_width": 134,
+        "Bbox_height": 73,
+        "Image_id": "99ab7e57-e0a8-4e33-a6ab-7c7a90ef2be8",
+        "Length_mm": 1642,
+        "Width_mm": 3015,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "93-0.45",
+        "Lower_left_corner": [
+            162,
+            622
+        ],
+        "Class_num": 0,
+        "Bbox_width": 149,
+        "Bbox_height": 31,
+        "Image_id": "99ab7e57-e0a8-4e33-a6ab-7c7a90ef2be8",
+        "Length_mm": 3424,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "73-0.86",
+        "Lower_left_corner": [
+            81,
+            657
+        ],
+        "Class_num": 0,
+        "Bbox_width": 182,
+        "Bbox_height": 36,
+        "Image_id": "7a88333c-d1de-4165-b66e-8275129462fb",
+        "Length_mm": 4174,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "91-0.49",
+        "Lower_left_corner": [
+            716,
+            503
+        ],
+        "Class_num": 2,
+        "Bbox_width": 165,
+        "Bbox_height": 83,
+        "Image_id": "7a88333c-d1de-4165-b66e-8275129462fb",
+        "Length_mm": 1867,
+        "Width_mm": 3712,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "93-0.48",
+        "Lower_left_corner": [
+            161,
+            635
+        ],
+        "Class_num": 0,
+        "Bbox_width": 156,
+        "Bbox_height": 32,
+        "Image_id": "7a88333c-d1de-4165-b66e-8275129462fb",
+        "Length_mm": 3583,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "73-0.86",
+        "Lower_left_corner": [
+            80,
+            656
+        ],
+        "Class_num": 0,
+        "Bbox_width": 184,
+        "Bbox_height": 38,
+        "Image_id": "9547d815-2cfe-451a-9fa9-aec24f47d661",
+        "Length_mm": 4227,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "91-0.49",
+        "Lower_left_corner": [
+            714,
+            502
+        ],
+        "Class_num": 2,
+        "Bbox_width": 169,
+        "Bbox_height": 84,
+        "Image_id": "9547d815-2cfe-451a-9fa9-aec24f47d661",
+        "Length_mm": 1890,
+        "Width_mm": 3802,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "73-0.56",
+        "Lower_left_corner": [
+            70,
+            673
+        ],
+        "Class_num": 0,
+        "Bbox_width": 196,
+        "Bbox_height": 38,
+        "Image_id": "1a88845f-49e5-4f42-bab8-2555241c0fef",
+        "Length_mm": 4492,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "91-0.50",
+        "Lower_left_corner": [
+            715,
+            521
+        ],
+        "Class_num": 2,
+        "Bbox_width": 191,
+        "Bbox_height": 101,
+        "Image_id": "1a88845f-49e5-4f42-bab8-2555241c0fef",
+        "Length_mm": 2272,
+        "Width_mm": 4297,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "91-0.42",
+        "Lower_left_corner": [
+            715,
+            530
+        ],
+        "Class_num": 2,
+        "Bbox_width": 201,
+        "Bbox_height": 106,
+        "Image_id": "a8b28d55-bf39-4a03-9354-baecaf29ffb1",
+        "Length_mm": 2385,
+        "Width_mm": 4522,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "100-0.30",
+        "Lower_left_corner": [
+            601,
+            445
+        ],
+        "Class_num": 0,
+        "Bbox_width": 220,
+        "Bbox_height": 111,
+        "Image_id": "a8b28d55-bf39-4a03-9354-baecaf29ffb1",
+        "Length_mm": 5544,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "100-0.55",
+        "Lower_left_corner": [
+            620,
+            444
+        ],
+        "Class_num": 0,
+        "Bbox_width": 200,
+        "Bbox_height": 98,
+        "Image_id": "daa88ae6-aae9-42ea-bfd8-3a5a8ca3c35f",
+        "Length_mm": 5011,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "91-0.70",
+        "Lower_left_corner": [
+            739,
+            597
+        ],
+        "Class_num": 2,
+        "Bbox_width": 173,
+        "Bbox_height": 119,
+        "Image_id": "772318e5-0f96-493b-9d4c-dc1752116206",
+        "Length_mm": 2677,
+        "Width_mm": 3892,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "113-0.42",
+        "Lower_left_corner": [
+            706,
+            397
+        ],
+        "Class_num": 2,
+        "Bbox_width": 49,
+        "Bbox_height": 28,
+        "Image_id": "772318e5-0f96-493b-9d4c-dc1752116206",
+        "Length_mm": 630,
+        "Width_mm": 1102,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "91-0.70",
+        "Lower_left_corner": [
+            742,
+            610
+        ],
+        "Class_num": 2,
+        "Bbox_width": 177,
+        "Bbox_height": 109,
+        "Image_id": "11440cdc-c569-437e-b3f0-1f221a7f627e",
+        "Length_mm": 2452,
+        "Width_mm": 3982,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "113-0.44",
+        "Lower_left_corner": [
+            703,
+            398
+        ],
+        "Class_num": 2,
+        "Bbox_width": 53,
+        "Bbox_height": 32,
+        "Image_id": "11440cdc-c569-437e-b3f0-1f221a7f627e",
+        "Length_mm": 720,
+        "Width_mm": 1192,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "113-0.70",
+        "Lower_left_corner": [
+            702,
+            397
+        ],
+        "Class_num": 2,
+        "Bbox_width": 55,
+        "Bbox_height": 34,
+        "Image_id": "90930666-58a3-4ab5-b5bc-3dbbfb0a0bce",
+        "Length_mm": 765,
+        "Width_mm": 1237,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "113-0.73",
+        "Lower_left_corner": [
+            707,
+            402
+        ],
+        "Class_num": 2,
+        "Bbox_width": 53,
+        "Bbox_height": 33,
+        "Image_id": "3c7fc202-f989-4003-a0e4-a9c72552e7e6",
+        "Length_mm": 742,
+        "Width_mm": 1192,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "91-0.72",
+        "Lower_left_corner": [
+            606,
+            566
+        ],
+        "Class_num": 0,
+        "Bbox_width": 207,
+        "Bbox_height": 150,
+        "Image_id": "77b7b2c3-925c-49c9-b60c-ca555c23e6b7",
+        "Length_mm": 5751,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "100-0.44",
+        "Lower_left_corner": [
+            538,
+            489
+        ],
+        "Class_num": 0,
+        "Bbox_width": 159,
+        "Bbox_height": 22,
+        "Image_id": "77b7b2c3-925c-49c9-b60c-ca555c23e6b7",
+        "Length_mm": 3611,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "113-0.39",
+        "Lower_left_corner": [
+            703,
+            402
+        ],
+        "Class_num": 2,
+        "Bbox_width": 63,
+        "Bbox_height": 37,
+        "Image_id": "77b7b2c3-925c-49c9-b60c-ca555c23e6b7",
+        "Length_mm": 832,
+        "Width_mm": 1417,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "91-0.76",
+        "Lower_left_corner": [
+            694,
+            592
+        ],
+        "Class_num": 0,
+        "Bbox_width": 132,
+        "Bbox_height": 127,
+        "Image_id": "c1d18fb3-57f9-462c-a11c-54a651421a1d",
+        "Length_mm": 4121,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "93-0.61",
+        "Lower_left_corner": [
+            326,
+            484
+        ],
+        "Class_num": 0,
+        "Bbox_width": 126,
+        "Bbox_height": 28,
+        "Image_id": "c1d18fb3-57f9-462c-a11c-54a651421a1d",
+        "Length_mm": 2904,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "100-0.46",
+        "Lower_left_corner": [
+            591,
+            494
+        ],
+        "Class_num": 0,
+        "Bbox_width": 50,
+        "Bbox_height": 7,
+        "Image_id": "c1d18fb3-57f9-462c-a11c-54a651421a1d",
+        "Length_mm": 1135,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "113-0.42",
+        "Lower_left_corner": [
+            712,
+            405
+        ],
+        "Class_num": 2,
+        "Bbox_width": 61,
+        "Bbox_height": 40,
+        "Image_id": "c1d18fb3-57f9-462c-a11c-54a651421a1d",
+        "Length_mm": 900,
+        "Width_mm": 1372,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "91-0.82",
+        "Lower_left_corner": [
+            698,
+            600
+        ],
+        "Class_num": 0,
+        "Bbox_width": 126,
+        "Bbox_height": 119,
+        "Image_id": "468467f9-a3c8-47a7-8e37-d46125bf2ebf",
+        "Length_mm": 3899,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "93-0.52",
+        "Lower_left_corner": [
+            337,
+            479
+        ],
+        "Class_num": 0,
+        "Bbox_width": 126,
+        "Bbox_height": 27,
+        "Image_id": "468467f9-a3c8-47a7-8e37-d46125bf2ebf",
+        "Length_mm": 2899,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "113-0.31",
+        "Lower_left_corner": [
+            705,
+            408
+        ],
+        "Class_num": 2,
+        "Bbox_width": 71,
+        "Bbox_height": 46,
+        "Image_id": "468467f9-a3c8-47a7-8e37-d46125bf2ebf",
+        "Length_mm": 1035,
+        "Width_mm": 1597,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "113-0.80",
+        "Lower_left_corner": [
+            713,
+            411
+        ],
+        "Class_num": 2,
+        "Bbox_width": 70,
+        "Bbox_height": 49,
+        "Image_id": "9c644dbe-89fd-4845-a164-78bc411de509",
+        "Length_mm": 1102,
+        "Width_mm": 1575,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "113-0.80",
+        "Lower_left_corner": [
+            713,
+            411
+        ],
+        "Class_num": 2,
+        "Bbox_width": 70,
+        "Bbox_height": 49,
+        "Image_id": "7cb3fb63-6fe3-4553-bfae-d192d8992685",
+        "Length_mm": 1102,
+        "Width_mm": 1575,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "117-0.63",
+        "Lower_left_corner": [
+            282,
+            512
+        ],
+        "Class_num": 0,
+        "Bbox_width": 136,
+        "Bbox_height": 37,
+        "Image_id": "7cb3fb63-6fe3-4553-bfae-d192d8992685",
+        "Length_mm": 3171,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "113-0.85",
+        "Lower_left_corner": [
+            727,
+            420
+        ],
+        "Class_num": 2,
+        "Bbox_width": 64,
+        "Bbox_height": 50,
+        "Image_id": "eee6e479-0fe7-43b6-9acf-2d21d07141f3",
+        "Length_mm": 1125,
+        "Width_mm": 1440,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "117-0.73",
+        "Lower_left_corner": [
+            257,
+            531
+        ],
+        "Class_num": 0,
+        "Bbox_width": 146,
+        "Bbox_height": 42,
+        "Image_id": "eee6e479-0fe7-43b6-9acf-2d21d07141f3",
+        "Length_mm": 3418,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "113-0.79",
+        "Lower_left_corner": [
+            723,
+            433
+        ],
+        "Class_num": 2,
+        "Bbox_width": 76,
+        "Bbox_height": 54,
+        "Image_id": "7e562f0a-a58e-4603-80ad-6c927b55dc48",
+        "Length_mm": 1215,
+        "Width_mm": 1710,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "117-0.72",
+        "Lower_left_corner": [
+            219,
+            556
+        ],
+        "Class_num": 0,
+        "Bbox_width": 156,
+        "Bbox_height": 49,
+        "Image_id": "7e562f0a-a58e-4603-80ad-6c927b55dc48",
+        "Length_mm": 3679,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "73-0.84",
+        "Lower_left_corner": [
+            181,
+            579
+        ],
+        "Class_num": 0,
+        "Bbox_width": 162,
+        "Bbox_height": 60,
+        "Image_id": "3fa48f3a-f21d-4380-8223-05f0990e6f85",
+        "Length_mm": 3886,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "113-0.74",
+        "Lower_left_corner": [
+            731,
+            437
+        ],
+        "Class_num": 2,
+        "Bbox_width": 73,
+        "Bbox_height": 63,
+        "Image_id": "3fa48f3a-f21d-4380-8223-05f0990e6f85",
+        "Length_mm": 1417,
+        "Width_mm": 1642,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "117-0.70",
+        "Lower_left_corner": [
+            198,
+            568
+        ],
+        "Class_num": 0,
+        "Bbox_width": 166,
+        "Bbox_height": 53,
+        "Image_id": "3fa48f3a-f21d-4380-8223-05f0990e6f85",
+        "Length_mm": 3920,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "73-0.88",
+        "Lower_left_corner": [
+            186,
+            576
+        ],
+        "Class_num": 0,
+        "Bbox_width": 163,
+        "Bbox_height": 63,
+        "Image_id": "9cb065ce-64e9-4e2f-9510-cdcf3352da89",
+        "Length_mm": 3931,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "91-0.71",
+        "Lower_left_corner": [
+            846,
+            634
+        ],
+        "Class_num": 0,
+        "Bbox_width": 130,
+        "Bbox_height": 82,
+        "Image_id": "9cb065ce-64e9-4e2f-9510-cdcf3352da89",
+        "Length_mm": 3458,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "113-0.59",
+        "Lower_left_corner": [
+            740,
+            446
+        ],
+        "Class_num": 2,
+        "Bbox_width": 72,
+        "Bbox_height": 69,
+        "Image_id": "9cb065ce-64e9-4e2f-9510-cdcf3352da89",
+        "Length_mm": 1552,
+        "Width_mm": 1620,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "91-0.83",
+        "Lower_left_corner": [
+            859,
+            641
+        ],
+        "Class_num": 0,
+        "Bbox_width": 131,
+        "Bbox_height": 78,
+        "Image_id": "13f4c453-0e28-44b8-a482-79e5ef48e15b",
+        "Length_mm": 3430,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "113-0.83",
+        "Lower_left_corner": [
+            744,
+            455
+        ],
+        "Class_num": 2,
+        "Bbox_width": 82,
+        "Bbox_height": 80,
+        "Image_id": "a2d61b6b-20d1-4679-8536-e64eea96048d",
+        "Length_mm": 1800,
+        "Width_mm": 1845,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "113-0.84",
+        "Lower_left_corner": [
+            747,
+            469
+        ],
+        "Class_num": 2,
+        "Bbox_width": 87,
+        "Bbox_height": 88,
+        "Image_id": "60e13142-adb9-4537-9132-61ef3e80c706",
+        "Length_mm": 1980,
+        "Width_mm": 1957,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "113-0.84",
+        "Lower_left_corner": [
+            747,
+            480
+        ],
+        "Class_num": 2,
+        "Bbox_width": 105,
+        "Bbox_height": 102,
+        "Image_id": "9fb2c334-6b87-4795-a923-387dcd332590",
+        "Length_mm": 2295,
+        "Width_mm": 2362,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "113-0.82",
+        "Lower_left_corner": [
+            756,
+            496
+        ],
+        "Class_num": 2,
+        "Bbox_width": 113,
+        "Bbox_height": 120,
+        "Image_id": "d7c8ac24-9e28-45ca-870c-567dcf6d0375",
+        "Length_mm": 2700,
+        "Width_mm": 2542,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "113-0.84",
+        "Lower_left_corner": [
+            754,
+            516
+        ],
+        "Class_num": 2,
+        "Bbox_width": 139,
+        "Bbox_height": 141,
+        "Image_id": "0e8a8512-8140-460e-91f8-6b42e2b542fb",
+        "Length_mm": 3172,
+        "Width_mm": 3127,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "113-0.82",
+        "Lower_left_corner": [
+            757,
+            536
+        ],
+        "Class_num": 2,
+        "Bbox_width": 157,
+        "Bbox_height": 178,
+        "Image_id": "762281e6-3408-43c3-9c76-1428ad827d6b",
+        "Length_mm": 4005,
+        "Width_mm": 3532,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "113-0.82",
+        "Lower_left_corner": [
+            756,
+            535
+        ],
+        "Class_num": 2,
+        "Bbox_width": 159,
+        "Bbox_height": 180,
+        "Image_id": "0a303070-5f72-44a6-abdb-b70e749455db",
+        "Length_mm": 4050,
+        "Width_mm": 3577,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "113-0.84",
+        "Lower_left_corner": [
+            759,
+            558
+        ],
+        "Class_num": 2,
+        "Bbox_width": 172,
+        "Bbox_height": 161,
+        "Image_id": "017f6382-dd1e-4d2f-a570-e653af10b452",
+        "Length_mm": 3622,
+        "Width_mm": 3870,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "91-0.82",
+        "Lower_left_corner": [
+            755,
+            590
+        ],
+        "Class_num": 2,
+        "Bbox_width": 176,
+        "Bbox_height": 126,
+        "Image_id": "1449bdee-ddad-4839-8be5-c77ab41b7905",
+        "Length_mm": 2835,
+        "Width_mm": 3960,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "113-0.38",
+        "Lower_left_corner": [
+            763,
+            569
+        ],
+        "Class_num": 2,
+        "Bbox_width": 177,
+        "Bbox_height": 150,
+        "Image_id": "1449bdee-ddad-4839-8be5-c77ab41b7905",
+        "Length_mm": 3375,
+        "Width_mm": 3982,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "91-0.81",
+        "Lower_left_corner": [
+            805,
+            623
+        ],
+        "Class_num": 2,
+        "Bbox_width": 146,
+        "Bbox_height": 96,
+        "Image_id": "d1c1e406-18cd-4baa-bc9d-0c4d5572b681",
+        "Length_mm": 2160,
+        "Width_mm": 3285,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "91-0.77",
+        "Lower_left_corner": [
+            808,
+            624
+        ],
+        "Class_num": 2,
+        "Bbox_width": 152,
+        "Bbox_height": 95,
+        "Image_id": "db78bc1f-b4e5-4c46-9fa0-4112e299620f",
+        "Length_mm": 2137,
+        "Width_mm": 3420,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "73-0.45",
+        "Lower_left_corner": [
+            487,
+            429
+        ],
+        "Class_num": 0,
+        "Bbox_width": 183,
+        "Bbox_height": 79,
+        "Image_id": "83a4eec0-02fa-4e16-99c3-7d2db587b459",
+        "Length_mm": 4484,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "73-0.44",
+        "Lower_left_corner": [
+            487,
+            429
+        ],
+        "Class_num": 0,
+        "Bbox_width": 184,
+        "Bbox_height": 79,
+        "Image_id": "da386dd0-43c2-4fac-8dcf-a8c475231a58",
+        "Length_mm": 4505,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "73-0.37",
+        "Lower_left_corner": [
+            505,
+            421
+        ],
+        "Class_num": 0,
+        "Bbox_width": 184,
+        "Bbox_height": 80,
+        "Image_id": "1c4b8bc3-3558-430d-9f20-953decd9fbac",
+        "Length_mm": 4514,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "73-0.41",
+        "Lower_left_corner": [
+            549,
+            441
+        ],
+        "Class_num": 0,
+        "Bbox_width": 119,
+        "Bbox_height": 78,
+        "Image_id": "0d6a35a9-056c-489f-8f79-68553ec9ff3a",
+        "Length_mm": 3201,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "73-0.41",
+        "Lower_left_corner": [
+            600,
+            433
+        ],
+        "Class_num": 0,
+        "Bbox_width": 79,
+        "Bbox_height": 54,
+        "Image_id": "a4b323bb-416f-47eb-879b-b96439211176",
+        "Length_mm": 2153,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "73-0.75",
+        "Lower_left_corner": [
+            595,
+            442
+        ],
+        "Class_num": 0,
+        "Bbox_width": 85,
+        "Bbox_height": 59,
+        "Image_id": "57fa15ad-7a1c-4425-827f-435ca58ecf31",
+        "Length_mm": 2328,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "73-0.75",
+        "Lower_left_corner": [
+            599,
+            451
+        ],
+        "Class_num": 0,
+        "Bbox_width": 82,
+        "Bbox_height": 61,
+        "Image_id": "df6988d3-52cf-48ff-85c2-f99c4b0fae7b",
+        "Length_mm": 2299,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "73-0.75",
+        "Lower_left_corner": [
+            599,
+            451
+        ],
+        "Class_num": 0,
+        "Bbox_width": 82,
+        "Bbox_height": 61,
+        "Image_id": "428be31c-2d27-4819-a1f5-4e337802a6c6",
+        "Length_mm": 2299,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "73-0.81",
+        "Lower_left_corner": [
+            594,
+            459
+        ],
+        "Class_num": 0,
+        "Bbox_width": 87,
+        "Bbox_height": 71,
+        "Image_id": "3e407233-f4e4-4ac4-a5c0-af7086be2196",
+        "Length_mm": 2526,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "73-0.82",
+        "Lower_left_corner": [
+            592,
+            473
+        ],
+        "Class_num": 0,
+        "Bbox_width": 90,
+        "Bbox_height": 74,
+        "Image_id": "c52ab460-df54-415f-8b4e-b36a0204c82a",
+        "Length_mm": 2621,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "73-0.82",
+        "Lower_left_corner": [
+            605,
+            474
+        ],
+        "Class_num": 0,
+        "Bbox_width": 88,
+        "Bbox_height": 76,
+        "Image_id": "188df7ae-ea0b-4242-a0cd-277220efa4d0",
+        "Length_mm": 2616,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "91-0.41",
+        "Lower_left_corner": [
+            583,
+            482
+        ],
+        "Class_num": 0,
+        "Bbox_width": 102,
+        "Bbox_height": 96,
+        "Image_id": "188df7ae-ea0b-4242-a0cd-277220efa4d0",
+        "Length_mm": 3151,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "91-0.77",
+        "Lower_left_corner": [
+            582,
+            511
+        ],
+        "Class_num": 0,
+        "Bbox_width": 103,
+        "Bbox_height": 93,
+        "Image_id": "54155ede-2046-485c-b7d1-a379e75a3778",
+        "Length_mm": 3122,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "91-0.80",
+        "Lower_left_corner": [
+            570,
+            509
+        ],
+        "Class_num": 0,
+        "Bbox_width": 102,
+        "Bbox_height": 93,
+        "Image_id": "938c5bb0-1874-4663-9e72-aec369bdb8f8",
+        "Length_mm": 3105,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "113-0.50",
+        "Lower_left_corner": [
+            573,
+            526
+        ],
+        "Class_num": 0,
+        "Bbox_width": 116,
+        "Bbox_height": 116,
+        "Image_id": "938c5bb0-1874-4663-9e72-aec369bdb8f8",
+        "Length_mm": 3691,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "113-0.80",
+        "Lower_left_corner": [
+            574,
+            527
+        ],
+        "Class_num": 0,
+        "Bbox_width": 114,
+        "Bbox_height": 114,
+        "Image_id": "988d4824-e879-4888-a796-910fd82ce71d",
+        "Length_mm": 3627,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "113-0.50",
+        "Lower_left_corner": [
+            564,
+            546
+        ],
+        "Class_num": 0,
+        "Bbox_width": 124,
+        "Bbox_height": 138,
+        "Image_id": "04134415-ce07-4655-9663-4c54a25fd2a0",
+        "Length_mm": 4174,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "117-0.46",
+        "Lower_left_corner": [
+            329,
+            484
+        ],
+        "Class_num": 0,
+        "Bbox_width": 112,
+        "Bbox_height": 25,
+        "Image_id": "04134415-ce07-4655-9663-4c54a25fd2a0",
+        "Length_mm": 2582,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "93-0.64",
+        "Lower_left_corner": [
+            541,
+            523
+        ],
+        "Class_num": 0,
+        "Bbox_width": 334,
+        "Bbox_height": 40,
+        "Image_id": "13258b92-868c-4dc4-be2d-4b6236324220",
+        "Length_mm": 7568,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "113-0.52",
+        "Lower_left_corner": [
+            559,
+            565
+        ],
+        "Class_num": 0,
+        "Bbox_width": 133,
+        "Bbox_height": 154,
+        "Image_id": "13258b92-868c-4dc4-be2d-4b6236324220",
+        "Length_mm": 4578,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "117-0.47",
+        "Lower_left_corner": [
+            312,
+            503
+        ],
+        "Class_num": 0,
+        "Bbox_width": 116,
+        "Bbox_height": 26,
+        "Image_id": "13258b92-868c-4dc4-be2d-4b6236324220",
+        "Length_mm": 2674,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "73-0.59",
+        "Lower_left_corner": [
+            520,
+            545
+        ],
+        "Class_num": 0,
+        "Bbox_width": 362,
+        "Bbox_height": 53,
+        "Image_id": "93f4e189-4c9e-4d85-a3b8-09ca741f5d69",
+        "Length_mm": 8231,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "93-0.58",
+        "Lower_left_corner": [
+            530,
+            517
+        ],
+        "Class_num": 0,
+        "Bbox_width": 344,
+        "Bbox_height": 38,
+        "Image_id": "93f4e189-4c9e-4d85-a3b8-09ca741f5d69",
+        "Length_mm": 7787,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "113-0.54",
+        "Lower_left_corner": [
+            579,
+            585
+        ],
+        "Class_num": 0,
+        "Bbox_width": 120,
+        "Bbox_height": 134,
+        "Image_id": "93f4e189-4c9e-4d85-a3b8-09ca741f5d69",
+        "Length_mm": 4047,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "73-0.63",
+        "Lower_left_corner": [
+            505,
+            569
+        ],
+        "Class_num": 0,
+        "Bbox_width": 388,
+        "Bbox_height": 52,
+        "Image_id": "e5d4524d-c665-497a-9b47-b5b3051d99e1",
+        "Length_mm": 8808,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "91-0.56",
+        "Lower_left_corner": [
+            618,
+            608
+        ],
+        "Class_num": 0,
+        "Bbox_width": 84,
+        "Bbox_height": 111,
+        "Image_id": "e5d4524d-c665-497a-9b47-b5b3051d99e1",
+        "Length_mm": 3132,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "113-0.49",
+        "Lower_left_corner": [
+            575,
+            592
+        ],
+        "Class_num": 0,
+        "Bbox_width": 122,
+        "Bbox_height": 127,
+        "Image_id": "e5d4524d-c665-497a-9b47-b5b3051d99e1",
+        "Length_mm": 3962,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "73-0.70",
+        "Lower_left_corner": [
+            488,
+            597
+        ],
+        "Class_num": 0,
+        "Bbox_width": 423,
+        "Bbox_height": 71,
+        "Image_id": "4969b2b8-3aed-4702-9cdb-b36d190111ed",
+        "Length_mm": 9650,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "91-0.60",
+        "Lower_left_corner": [
+            618,
+            617
+        ],
+        "Class_num": 0,
+        "Bbox_width": 82,
+        "Bbox_height": 102,
+        "Image_id": "4969b2b8-3aed-4702-9cdb-b36d190111ed",
+        "Length_mm": 2944,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "73-0.71",
+        "Lower_left_corner": [
+            483,
+            597
+        ],
+        "Class_num": 0,
+        "Bbox_width": 433,
+        "Bbox_height": 73,
+        "Image_id": "a10b7cca-3f77-4e74-a48c-3569278de04c",
+        "Length_mm": 9879,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "117-0.60",
+        "Lower_left_corner": [
+            220,
+            552
+        ],
+        "Class_num": 0,
+        "Bbox_width": 128,
+        "Bbox_height": 43,
+        "Image_id": "a10b7cca-3f77-4e74-a48c-3569278de04c",
+        "Length_mm": 3038,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "73-0.75",
+        "Lower_left_corner": [
+            425,
+            628
+        ],
+        "Class_num": 0,
+        "Bbox_width": 527,
+        "Bbox_height": 84,
+        "Image_id": "1abad204-bf83-471b-93e7-f5f1a36c5fb7",
+        "Length_mm": 12007,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "117-0.72",
+        "Lower_left_corner": [
+            178,
+            574
+        ],
+        "Class_num": 0,
+        "Bbox_width": 139,
+        "Bbox_height": 51,
+        "Image_id": "1abad204-bf83-471b-93e7-f5f1a36c5fb7",
+        "Length_mm": 3331,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "73-0.62",
+        "Lower_left_corner": [
+            397,
+            638
+        ],
+        "Class_num": 0,
+        "Bbox_width": 593,
+        "Bbox_height": 81,
+        "Image_id": "802c4827-92b6-4c48-9773-f96477595417",
+        "Length_mm": 13466,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "93-0.51",
+        "Lower_left_corner": [
+            363,
+            675
+        ],
+        "Class_num": 0,
+        "Bbox_width": 342,
+        "Bbox_height": 44,
+        "Image_id": "802c4827-92b6-4c48-9773-f96477595417",
+        "Length_mm": 7758,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "93-0.38",
+        "Lower_left_corner": [
+            330,
+            691
+        ],
+        "Class_num": 0,
+        "Bbox_width": 361,
+        "Bbox_height": 28,
+        "Image_id": "90e8f67e-b781-4bc8-bef4-3c543431ed89",
+        "Length_mm": 8146,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "117-0.34",
+        "Lower_left_corner": [
+            73,
+            625
+        ],
+        "Class_num": 0,
+        "Bbox_width": 165,
+        "Bbox_height": 72,
+        "Image_id": "90e8f67e-b781-4bc8-bef4-3c543431ed89",
+        "Length_mm": 4050,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "140-0.67",
+        "Lower_left_corner": [
+            626,
+            357
+        ],
+        "Class_num": 0,
+        "Bbox_width": 33,
+        "Bbox_height": 52,
+        "Image_id": "f6437173-4c18-4c1c-86cb-16fbd3b47e4b",
+        "Length_mm": 1385,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "140-0.78",
+        "Lower_left_corner": [
+            622,
+            370
+        ],
+        "Class_num": 0,
+        "Bbox_width": 38,
+        "Bbox_height": 49,
+        "Image_id": "385dfd7f-e25f-4cb5-b890-3fe4648c9003",
+        "Length_mm": 1395,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "93-0.59",
+        "Lower_left_corner": [
+            444,
+            542
+        ],
+        "Class_num": 2,
+        "Bbox_width": 93,
+        "Bbox_height": 36,
+        "Image_id": "6725238a-c8b5-4f6f-88cb-66cd8c62a8de",
+        "Length_mm": 810,
+        "Width_mm": 2092,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "140-0.44",
+        "Lower_left_corner": [
+            620,
+            372
+        ],
+        "Class_num": 0,
+        "Bbox_width": 37,
+        "Bbox_height": 50,
+        "Image_id": "6725238a-c8b5-4f6f-88cb-66cd8c62a8de",
+        "Length_mm": 1399,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "93-0.80",
+        "Lower_left_corner": [
+            437,
+            541
+        ],
+        "Class_num": 2,
+        "Bbox_width": 87,
+        "Bbox_height": 35,
+        "Image_id": "76a6264d-50e4-4b26-920c-a8295d5241aa",
+        "Length_mm": 787,
+        "Width_mm": 1957,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "113-0.66",
+        "Lower_left_corner": [
+            426,
+            563
+        ],
+        "Class_num": 2,
+        "Bbox_width": 94,
+        "Bbox_height": 44,
+        "Image_id": "76a6264d-50e4-4b26-920c-a8295d5241aa",
+        "Length_mm": 990,
+        "Width_mm": 2115,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "73-0.80",
+        "Lower_left_corner": [
+            479,
+            531
+        ],
+        "Class_num": 0,
+        "Bbox_width": 38,
+        "Bbox_height": 77,
+        "Image_id": "ec1680d5-8aec-46d7-8809-8a35fa9b855d",
+        "Length_mm": 1931,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "91-0.71",
+        "Lower_left_corner": [
+            398,
+            592
+        ],
+        "Class_num": 2,
+        "Bbox_width": 108,
+        "Bbox_height": 54,
+        "Image_id": "ec1680d5-8aec-46d7-8809-8a35fa9b855d",
+        "Length_mm": 1215,
+        "Width_mm": 2430,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "113-0.51",
+        "Lower_left_corner": [
+            419,
+            563
+        ],
+        "Class_num": 2,
+        "Bbox_width": 85,
+        "Bbox_height": 38,
+        "Image_id": "ec1680d5-8aec-46d7-8809-8a35fa9b855d",
+        "Length_mm": 855,
+        "Width_mm": 1912,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "140-0.47",
+        "Lower_left_corner": [
+            616,
+            381
+        ],
+        "Class_num": 0,
+        "Bbox_width": 41,
+        "Bbox_height": 60,
+        "Image_id": "ec1680d5-8aec-46d7-8809-8a35fa9b855d",
+        "Length_mm": 1635,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "73-0.80",
+        "Lower_left_corner": [
+            479,
+            531
+        ],
+        "Class_num": 0,
+        "Bbox_width": 37,
+        "Bbox_height": 77,
+        "Image_id": "5ff44cb7-ef47-4c17-849c-281d479cd55c",
+        "Length_mm": 1922,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "91-0.72",
+        "Lower_left_corner": [
+            399,
+            593
+        ],
+        "Class_num": 2,
+        "Bbox_width": 106,
+        "Bbox_height": 52,
+        "Image_id": "5ff44cb7-ef47-4c17-849c-281d479cd55c",
+        "Length_mm": 1170,
+        "Width_mm": 2385,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "140-0.50",
+        "Lower_left_corner": [
+            616,
+            381
+        ],
+        "Class_num": 0,
+        "Bbox_width": 41,
+        "Bbox_height": 60,
+        "Image_id": "5ff44cb7-ef47-4c17-849c-281d479cd55c",
+        "Length_mm": 1635,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "73-0.82",
+        "Lower_left_corner": [
+            470,
+            529
+        ],
+        "Class_num": 0,
+        "Bbox_width": 37,
+        "Bbox_height": 77,
+        "Image_id": "fcb196cf-c376-4789-9a80-07f38511c47e",
+        "Length_mm": 1922,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "91-0.70",
+        "Lower_left_corner": [
+            367,
+            630
+        ],
+        "Class_num": 2,
+        "Bbox_width": 123,
+        "Bbox_height": 61,
+        "Image_id": "fcb196cf-c376-4789-9a80-07f38511c47e",
+        "Length_mm": 1372,
+        "Width_mm": 2767,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "93-0.47",
+        "Lower_left_corner": [
+            520,
+            654
+        ],
+        "Class_num": 0,
+        "Bbox_width": 136,
+        "Bbox_height": 34,
+        "Image_id": "fcb196cf-c376-4789-9a80-07f38511c47e",
+        "Length_mm": 3154,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "91-0.65",
+        "Lower_left_corner": [
+            349,
+            635
+        ],
+        "Class_num": 2,
+        "Bbox_width": 133,
+        "Bbox_height": 63,
+        "Image_id": "b300620c-fb56-4764-bc1b-90bea2ad49ec",
+        "Length_mm": 1417,
+        "Width_mm": 2992,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "140-0.70",
+        "Lower_left_corner": [
+            612,
+            383
+        ],
+        "Class_num": 0,
+        "Bbox_width": 42,
+        "Bbox_height": 88,
+        "Image_id": "4b04baeb-645c-4a40-bb65-7bcbd2165efb",
+        "Length_mm": 2193,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "140-0.53",
+        "Lower_left_corner": [
+            610,
+            386
+        ],
+        "Class_num": 0,
+        "Bbox_width": 43,
+        "Bbox_height": 95,
+        "Image_id": "5e946961-97f4-41bb-9344-0b094e515970",
+        "Length_mm": 2346,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "73-0.62",
+        "Lower_left_corner": [
+            606,
+            422
+        ],
+        "Class_num": 0,
+        "Bbox_width": 50,
+        "Bbox_height": 79,
+        "Image_id": "5d9a4e5c-8304-484c-be1c-2e85e4558ac8",
+        "Length_mm": 2103,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "117-0.44",
+        "Lower_left_corner": [
+            0,
+            606
+        ],
+        "Class_num": 3,
+        "Bbox_width": 48,
+        "Bbox_height": 100,
+        "Image_id": "5d9a4e5c-8304-484c-be1c-2e85e4558ac8",
+        "Length_mm": 2250,
+        "Width_mm": 1080,
+        "Class_name": "small_pit"
+    },
+    {
+        "Object_id": "73-0.61",
+        "Lower_left_corner": [
+            607,
+            421
+        ],
+        "Class_num": 0,
+        "Bbox_width": 50,
+        "Bbox_height": 79,
+        "Image_id": "42870a6a-4355-4c06-938d-9c0ecda28861",
+        "Length_mm": 2103,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "117-0.43",
+        "Lower_left_corner": [
+            0,
+            606
+        ],
+        "Class_num": 3,
+        "Bbox_width": 46,
+        "Bbox_height": 100,
+        "Image_id": "42870a6a-4355-4c06-938d-9c0ecda28861",
+        "Length_mm": 2250,
+        "Width_mm": 1035,
+        "Class_name": "small_pit"
+    },
+    {
+        "Object_id": "73-0.54",
+        "Lower_left_corner": [
+            617,
+            410
+        ],
+        "Class_num": 0,
+        "Bbox_width": 52,
+        "Bbox_height": 80,
+        "Image_id": "b06693e3-c1c0-4192-a770-2f67ae93fa94",
+        "Length_mm": 2146,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "113-0.58",
+        "Lower_left_corner": [
+            607,
+            404
+        ],
+        "Class_num": 0,
+        "Bbox_width": 41,
+        "Bbox_height": 34,
+        "Image_id": "d2260c67-f770-43a4-899a-db5ee17f36fc",
+        "Length_mm": 1198,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "140-0.46",
+        "Lower_left_corner": [
+            599,
+            422
+        ],
+        "Class_num": 0,
+        "Bbox_width": 54,
+        "Bbox_height": 109,
+        "Image_id": "d2260c67-f770-43a4-899a-db5ee17f36fc",
+        "Length_mm": 2736,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "73-0.54",
+        "Lower_left_corner": [
+            592,
+            447
+        ],
+        "Class_num": 0,
+        "Bbox_width": 60,
+        "Bbox_height": 101,
+        "Image_id": "cf89ffd7-c0b1-4a80-aa68-6bbcc7bf4c5e",
+        "Length_mm": 2643,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "93-0.50",
+        "Lower_left_corner": [
+            602,
+            402
+        ],
+        "Class_num": 0,
+        "Bbox_width": 47,
+        "Bbox_height": 45,
+        "Image_id": "cf89ffd7-c0b1-4a80-aa68-6bbcc7bf4c5e",
+        "Length_mm": 1464,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "73-0.62",
+        "Lower_left_corner": [
+            588,
+            422
+        ],
+        "Class_num": 0,
+        "Bbox_width": 63,
+        "Bbox_height": 153,
+        "Image_id": "3e5b6830-f87d-42b7-83d0-fcec6273b1ec",
+        "Length_mm": 3722,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "73-0.74",
+        "Lower_left_corner": [
+            581,
+            413
+        ],
+        "Class_num": 0,
+        "Bbox_width": 75,
+        "Bbox_height": 191,
+        "Image_id": "d3d91165-9e39-4e20-a313-9be3864ef65b",
+        "Length_mm": 4616,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "73-0.74",
+        "Lower_left_corner": [
+            580,
+            412
+        ],
+        "Class_num": 0,
+        "Bbox_width": 77,
+        "Bbox_height": 194,
+        "Image_id": "2d479910-2bd4-4cb2-9ad5-94048d0127ff",
+        "Length_mm": 4696,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "73-0.65",
+        "Lower_left_corner": [
+            585,
+            409
+        ],
+        "Class_num": 0,
+        "Bbox_width": 77,
+        "Bbox_height": 201,
+        "Image_id": "8d05ce7b-c1c2-4204-b067-5bd494a9ed72",
+        "Length_mm": 4842,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "93-0.58",
+        "Lower_left_corner": [
+            589,
+            423
+        ],
+        "Class_num": 0,
+        "Bbox_width": 57,
+        "Bbox_height": 57,
+        "Image_id": "8d05ce7b-c1c2-4204-b067-5bd494a9ed72",
+        "Length_mm": 1813,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "73-0.57",
+        "Lower_left_corner": [
+            570,
+            461
+        ],
+        "Class_num": 0,
+        "Bbox_width": 78,
+        "Bbox_height": 210,
+        "Image_id": "ce49a666-e970-495a-9a62-8d593e81e101",
+        "Length_mm": 5040,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "73-0.68",
+        "Lower_left_corner": [
+            559,
+            514
+        ],
+        "Class_num": 0,
+        "Bbox_width": 86,
+        "Bbox_height": 204,
+        "Image_id": "f7afa900-a485-4905-8cc2-ddcf0a40095b",
+        "Length_mm": 4981,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "91-0.31",
+        "Lower_left_corner": [
+            580,
+            434
+        ],
+        "Class_num": 0,
+        "Bbox_width": 60,
+        "Bbox_height": 78,
+        "Image_id": "f7afa900-a485-4905-8cc2-ddcf0a40095b",
+        "Length_mm": 2214,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "73-0.52",
+        "Lower_left_corner": [
+            552,
+            517
+        ],
+        "Class_num": 0,
+        "Bbox_width": 82,
+        "Bbox_height": 202,
+        "Image_id": "6e8b212c-3835-4aa6-a718-694caf900ed8",
+        "Length_mm": 4905,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "91-0.31",
+        "Lower_left_corner": [
+            592,
+            423
+        ],
+        "Class_num": 0,
+        "Bbox_width": 59,
+        "Bbox_height": 78,
+        "Image_id": "6e8b212c-3835-4aa6-a718-694caf900ed8",
+        "Length_mm": 2200,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "73-0.34",
+        "Lower_left_corner": [
+            552,
+            524
+        ],
+        "Class_num": 0,
+        "Bbox_width": 84,
+        "Bbox_height": 195,
+        "Image_id": "3fe9087f-46c2-4d62-a74f-92de8f16f151",
+        "Length_mm": 4777,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "93-0.34",
+        "Lower_left_corner": [
+            685,
+            394
+        ],
+        "Class_num": 0,
+        "Bbox_width": 40,
+        "Bbox_height": 51,
+        "Image_id": "255647ef-6ded-4ae1-89ce-df748eb65a7a",
+        "Length_mm": 1458,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "93-0.57",
+        "Lower_left_corner": [
+            695,
+            391
+        ],
+        "Class_num": 0,
+        "Bbox_width": 38,
+        "Bbox_height": 51,
+        "Image_id": "f04f2677-f93a-45a1-b9fe-8c048dd0ec6e",
+        "Length_mm": 1431,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "91-0.60",
+        "Lower_left_corner": [
+            691,
+            402
+        ],
+        "Class_num": 0,
+        "Bbox_width": 37,
+        "Bbox_height": 71,
+        "Image_id": "9e5a0536-1699-4553-8a54-69eb03f8845e",
+        "Length_mm": 1801,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "140-0.48",
+        "Lower_left_corner": [
+            523,
+            491
+        ],
+        "Class_num": 0,
+        "Bbox_width": 106,
+        "Bbox_height": 156,
+        "Image_id": "9e5a0536-1699-4553-8a54-69eb03f8845e",
+        "Length_mm": 4243,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "73-0.62",
+        "Lower_left_corner": [
+            502,
+            502
+        ],
+        "Class_num": 0,
+        "Bbox_width": 129,
+        "Bbox_height": 201,
+        "Image_id": "b7cefa1b-4fa1-420c-8092-fa63ad144dd4",
+        "Length_mm": 5373,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "91-0.49",
+        "Lower_left_corner": [
+            707,
+            394
+        ],
+        "Class_num": 0,
+        "Bbox_width": 32,
+        "Bbox_height": 70,
+        "Image_id": "b7cefa1b-4fa1-420c-8092-fa63ad144dd4",
+        "Length_mm": 1731,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "73-0.64",
+        "Lower_left_corner": [
+            497,
+            505
+        ],
+        "Class_num": 0,
+        "Bbox_width": 135,
+        "Bbox_height": 205,
+        "Image_id": "668a7539-2b7d-430a-854e-12de405461ce",
+        "Length_mm": 5522,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "91-0.33",
+        "Lower_left_corner": [
+            690,
+            411
+        ],
+        "Class_num": 0,
+        "Bbox_width": 45,
+        "Bbox_height": 77,
+        "Image_id": "668a7539-2b7d-430a-854e-12de405461ce",
+        "Length_mm": 2006,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "91-0.63",
+        "Lower_left_corner": [
+            694,
+            417
+        ],
+        "Class_num": 0,
+        "Bbox_width": 46,
+        "Bbox_height": 93,
+        "Image_id": "acc8c47e-7013-42a8-8886-d40c8fbe2c91",
+        "Length_mm": 2334,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "149-0.39",
+        "Lower_left_corner": [
+            556,
+            463
+        ],
+        "Class_num": 0,
+        "Bbox_width": 36,
+        "Bbox_height": 86,
+        "Image_id": "acc8c47e-7013-42a8-8886-d40c8fbe2c91",
+        "Length_mm": 2097,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "91-0.63",
+        "Lower_left_corner": [
+            694,
+            416
+        ],
+        "Class_num": 0,
+        "Bbox_width": 46,
+        "Bbox_height": 96,
+        "Image_id": "393dd19f-cecf-4aca-b41f-729b1e3604bc",
+        "Length_mm": 2395,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "149-0.40",
+        "Lower_left_corner": [
+            555,
+            462
+        ],
+        "Class_num": 0,
+        "Bbox_width": 38,
+        "Bbox_height": 88,
+        "Image_id": "393dd19f-cecf-4aca-b41f-729b1e3604bc",
+        "Length_mm": 2156,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "73-0.76",
+        "Lower_left_corner": [
+            524,
+            565
+        ],
+        "Class_num": 0,
+        "Bbox_width": 101,
+        "Bbox_height": 154,
+        "Image_id": "3a586fba-d75e-446e-a6ae-3b700354ad3a",
+        "Length_mm": 4143,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "91-0.61",
+        "Lower_left_corner": [
+            704,
+            413
+        ],
+        "Class_num": 0,
+        "Bbox_width": 46,
+        "Bbox_height": 99,
+        "Image_id": "3a586fba-d75e-446e-a6ae-3b700354ad3a",
+        "Length_mm": 2456,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "149-0.32",
+        "Lower_left_corner": [
+            544,
+            465
+        ],
+        "Class_num": 0,
+        "Bbox_width": 43,
+        "Bbox_height": 109,
+        "Image_id": "3a586fba-d75e-446e-a6ae-3b700354ad3a",
+        "Length_mm": 2636,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "73-0.77",
+        "Lower_left_corner": [
+            522,
+            599
+        ],
+        "Class_num": 0,
+        "Bbox_width": 94,
+        "Bbox_height": 120,
+        "Image_id": "1e73bd66-f297-41f2-b3f7-fb6563494b49",
+        "Length_mm": 3429,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "91-0.57",
+        "Lower_left_corner": [
+            558,
+            421
+        ],
+        "Class_num": 0,
+        "Bbox_width": 188,
+        "Bbox_height": 107,
+        "Image_id": "1e73bd66-f297-41f2-b3f7-fb6563494b49",
+        "Length_mm": 4867,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "149-0.54",
+        "Lower_left_corner": [
+            534,
+            490
+        ],
+        "Class_num": 0,
+        "Bbox_width": 47,
+        "Bbox_height": 114,
+        "Image_id": "1e73bd66-f297-41f2-b3f7-fb6563494b49",
+        "Length_mm": 2774,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "73-0.70",
+        "Lower_left_corner": [
+            523,
+            611
+        ],
+        "Class_num": 0,
+        "Bbox_width": 90,
+        "Bbox_height": 108,
+        "Image_id": "362ec415-cbf0-4539-b958-c0edcab309f9",
+        "Length_mm": 3163,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "91-0.54",
+        "Lower_left_corner": [
+            561,
+            433
+        ],
+        "Class_num": 0,
+        "Bbox_width": 189,
+        "Bbox_height": 115,
+        "Image_id": "362ec415-cbf0-4539-b958-c0edcab309f9",
+        "Length_mm": 4977,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "93-0.51",
+        "Lower_left_corner": [
+            931,
+            664
+        ],
+        "Class_num": 0,
+        "Bbox_width": 50,
+        "Bbox_height": 52,
+        "Image_id": "362ec415-cbf0-4539-b958-c0edcab309f9",
+        "Length_mm": 1623,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "140-0.34",
+        "Lower_left_corner": [
+            530,
+            640
+        ],
+        "Class_num": 0,
+        "Bbox_width": 70,
+        "Bbox_height": 79,
+        "Image_id": "362ec415-cbf0-4539-b958-c0edcab309f9",
+        "Length_mm": 2374,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "91-0.78",
+        "Lower_left_corner": [
+            551,
+            448
+        ],
+        "Class_num": 0,
+        "Bbox_width": 202,
+        "Bbox_height": 124,
+        "Image_id": "d4cf4325-cbb4-4c5d-afee-1fc7e286d872",
+        "Length_mm": 5333,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "91-0.80",
+        "Lower_left_corner": [
+            537,
+            469
+        ],
+        "Class_num": 0,
+        "Bbox_width": 221,
+        "Bbox_height": 130,
+        "Image_id": "8c7bee28-c789-4009-8d96-31d91f83ae48",
+        "Length_mm": 5769,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "91-0.80",
+        "Lower_left_corner": [
+            534,
+            469
+        ],
+        "Class_num": 0,
+        "Bbox_width": 225,
+        "Bbox_height": 131,
+        "Image_id": "859213ed-b7a9-4710-94ae-32b15c65161e",
+        "Length_mm": 5858,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "91-0.79",
+        "Lower_left_corner": [
+            497,
+            490
+        ],
+        "Class_num": 0,
+        "Bbox_width": 263,
+        "Bbox_height": 153,
+        "Image_id": "de253914-fcf0-4f31-a58a-ec503cc8c372",
+        "Length_mm": 6845,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "91-0.73",
+        "Lower_left_corner": [
+            476,
+            500
+        ],
+        "Class_num": 0,
+        "Bbox_width": 286,
+        "Bbox_height": 185,
+        "Image_id": "4f30b0ca-6869-4d67-b44e-8a5f0e432b0b",
+        "Length_mm": 7663,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "91-0.73",
+        "Lower_left_corner": [
+            648,
+            492
+        ],
+        "Class_num": 0,
+        "Bbox_width": 130,
+        "Bbox_height": 184,
+        "Image_id": "8faf2f2d-1213-481d-b4af-e638c4330cd3",
+        "Length_mm": 5069,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "73-0.72",
+        "Lower_left_corner": [
+            547,
+            506
+        ],
+        "Class_num": 0,
+        "Bbox_width": 119,
+        "Bbox_height": 128,
+        "Image_id": "9355908c-fa5e-4c0f-beec-db41e5bb68fe",
+        "Length_mm": 3932,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "91-0.33",
+        "Lower_left_corner": [
+            659,
+            508
+        ],
+        "Class_num": 0,
+        "Bbox_width": 128,
+        "Bbox_height": 208,
+        "Image_id": "9355908c-fa5e-4c0f-beec-db41e5bb68fe",
+        "Length_mm": 5495,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "73-0.62",
+        "Lower_left_corner": [
+            548,
+            502
+        ],
+        "Class_num": 0,
+        "Bbox_width": 122,
+        "Bbox_height": 129,
+        "Image_id": "b2b17fee-f01a-4990-95c5-5dc2575898c3",
+        "Length_mm": 3994,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "91-0.64",
+        "Lower_left_corner": [
+            705,
+            517
+        ],
+        "Class_num": 0,
+        "Bbox_width": 90,
+        "Bbox_height": 202,
+        "Image_id": "4814e9df-b3ac-4e50-95ed-975e1e180d1d",
+        "Length_mm": 4975,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "91-0.77",
+        "Lower_left_corner": [
+            715,
+            538
+        ],
+        "Class_num": 0,
+        "Bbox_width": 96,
+        "Bbox_height": 181,
+        "Image_id": "f7f8c8cb-fde0-42b5-a878-ab1fc1cd96b2",
+        "Length_mm": 4609,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "113-0.66",
+        "Lower_left_corner": [
+            502,
+            511
+        ],
+        "Class_num": 0,
+        "Bbox_width": 154,
+        "Bbox_height": 28,
+        "Image_id": "f7f8c8cb-fde0-42b5-a878-ab1fc1cd96b2",
+        "Length_mm": 3521,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "149-0.33",
+        "Lower_left_corner": [
+            509,
+            546
+        ],
+        "Class_num": 0,
+        "Bbox_width": 180,
+        "Bbox_height": 173,
+        "Image_id": "f7f8c8cb-fde0-42b5-a878-ab1fc1cd96b2",
+        "Length_mm": 5617,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "73-0.70",
+        "Lower_left_corner": [
+            538,
+            551
+        ],
+        "Class_num": 0,
+        "Bbox_width": 171,
+        "Bbox_height": 166,
+        "Image_id": "7a9133cf-6014-4940-9d44-f22e66944b21",
+        "Length_mm": 5362,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "91-0.49",
+        "Lower_left_corner": [
+            726,
+            550
+        ],
+        "Class_num": 0,
+        "Bbox_width": 100,
+        "Bbox_height": 169,
+        "Image_id": "7a9133cf-6014-4940-9d44-f22e66944b21",
+        "Length_mm": 4418,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "73-0.76",
+        "Lower_left_corner": [
+            542,
+            565
+        ],
+        "Class_num": 0,
+        "Bbox_width": 176,
+        "Bbox_height": 153,
+        "Image_id": "6307e465-3077-4bde-9799-1d534522e0c4",
+        "Length_mm": 5247,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "91-0.49",
+        "Lower_left_corner": [
+            722,
+            576
+        ],
+        "Class_num": 0,
+        "Bbox_width": 119,
+        "Bbox_height": 142,
+        "Image_id": "6307e465-3077-4bde-9799-1d534522e0c4",
+        "Length_mm": 4168,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "73-0.48",
+        "Lower_left_corner": [
+            542,
+            570
+        ],
+        "Class_num": 0,
+        "Bbox_width": 183,
+        "Bbox_height": 149,
+        "Image_id": "741a72f2-d57c-4abd-97e9-66b639f0be41",
+        "Length_mm": 5309,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "91-0.39",
+        "Lower_left_corner": [
+            683,
+            607
+        ],
+        "Class_num": 0,
+        "Bbox_width": 185,
+        "Bbox_height": 112,
+        "Image_id": "741a72f2-d57c-4abd-97e9-66b639f0be41",
+        "Length_mm": 4865,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "91-0.65",
+        "Lower_left_corner": [
+            638,
+            651
+        ],
+        "Class_num": 0,
+        "Bbox_width": 249,
+        "Bbox_height": 68,
+        "Image_id": "f6c400c6-d831-4b18-9b07-763ad5774688",
+        "Length_mm": 5807,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "93-0.54",
+        "Lower_left_corner": [
+            430,
+            606
+        ],
+        "Class_num": 0,
+        "Bbox_width": 200,
+        "Bbox_height": 41,
+        "Image_id": "f6c400c6-d831-4b18-9b07-763ad5774688",
+        "Length_mm": 4593,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "140-0.44",
+        "Lower_left_corner": [
+            194,
+            540
+        ],
+        "Class_num": 0,
+        "Bbox_width": 413,
+        "Bbox_height": 56,
+        "Image_id": "f6c400c6-d831-4b18-9b07-763ad5774688",
+        "Length_mm": 9377,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "91-0.65",
+        "Lower_left_corner": [
+            646,
+            653
+        ],
+        "Class_num": 0,
+        "Bbox_width": 232,
+        "Bbox_height": 65,
+        "Image_id": "031be74a-4bed-4ccf-83bd-bef85d50b003",
+        "Length_mm": 5421,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "93-0.54",
+        "Lower_left_corner": [
+            431,
+            607
+        ],
+        "Class_num": 0,
+        "Bbox_width": 198,
+        "Bbox_height": 39,
+        "Image_id": "031be74a-4bed-4ccf-83bd-bef85d50b003",
+        "Length_mm": 4540,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "140-0.45",
+        "Lower_left_corner": [
+            179,
+            565
+        ],
+        "Class_num": 0,
+        "Bbox_width": 229,
+        "Bbox_height": 59,
+        "Image_id": "031be74a-4bed-4ccf-83bd-bef85d50b003",
+        "Length_mm": 5320,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "91-0.68",
+        "Lower_left_corner": [
+            667,
+            668
+        ],
+        "Class_num": 0,
+        "Bbox_width": 201,
+        "Bbox_height": 51,
+        "Image_id": "c3f28349-17d4-4855-a0e7-0a5a30fb4fc0",
+        "Length_mm": 4665,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "93-0.47",
+        "Lower_left_corner": [
+            416,
+            608
+        ],
+        "Class_num": 0,
+        "Bbox_width": 203,
+        "Bbox_height": 39,
+        "Image_id": "c3f28349-17d4-4855-a0e7-0a5a30fb4fc0",
+        "Length_mm": 4651,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "140-0.72",
+        "Lower_left_corner": [
+            25,
+            602
+        ],
+        "Class_num": 0,
+        "Bbox_width": 295,
+        "Bbox_height": 98,
+        "Image_id": "579ffa75-80cf-4ac0-97cd-42c420ec5390",
+        "Length_mm": 6994,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "91-0.51",
+        "Lower_left_corner": [
+            756,
+            513
+        ],
+        "Class_num": 0,
+        "Bbox_width": 104,
+        "Bbox_height": 19,
+        "Image_id": "2889574d-fae1-4e95-b0bf-75629d3437a1",
+        "Length_mm": 2378,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "113-0.37",
+        "Lower_left_corner": [
+            573,
+            584
+        ],
+        "Class_num": 0,
+        "Bbox_width": 49,
+        "Bbox_height": 26,
+        "Image_id": "2889574d-fae1-4e95-b0bf-75629d3437a1",
+        "Length_mm": 1248,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "93-0.51",
+        "Lower_left_corner": [
+            245,
+            550
+        ],
+        "Class_num": 0,
+        "Bbox_width": 392,
+        "Bbox_height": 38,
+        "Image_id": "318c65c8-e64f-4fcc-a100-32c555cbd3fc",
+        "Length_mm": 8861,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "93-0.53",
+        "Lower_left_corner": [
+            224,
+            543
+        ],
+        "Class_num": 0,
+        "Bbox_width": 401,
+        "Bbox_height": 39,
+        "Image_id": "e1b399d6-ccea-416c-99d2-96517761685c",
+        "Length_mm": 9065,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "73-0.75",
+        "Lower_left_corner": [
+            117,
+            592
+        ],
+        "Class_num": 0,
+        "Bbox_width": 777,
+        "Bbox_height": 73,
+        "Image_id": "d4bc924a-5603-435b-9101-031796ee5440",
+        "Length_mm": 17559,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "73-0.71",
+        "Lower_left_corner": [
+            91,
+            632
+        ],
+        "Class_num": 0,
+        "Bbox_width": 807,
+        "Bbox_height": 75,
+        "Image_id": "63906040-93b1-41a3-a21c-3b97cd34819b",
+        "Length_mm": 18235,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "73-0.66",
+        "Lower_left_corner": [
+            83,
+            640
+        ],
+        "Class_num": 0,
+        "Bbox_width": 807,
+        "Bbox_height": 72,
+        "Image_id": "dbd86783-3403-4da4-85af-cec2c001a7ca",
+        "Length_mm": 18229,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "158-0.46",
+        "Lower_left_corner": [
+            688,
+            359
+        ],
+        "Class_num": 2,
+        "Bbox_width": 38,
+        "Bbox_height": 69,
+        "Image_id": "b803b744-2c85-4c84-a11b-6bb7213d76a9",
+        "Length_mm": 1552,
+        "Width_mm": 855,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "159-0.41",
+        "Lower_left_corner": [
+            688,
+            355
+        ],
+        "Class_num": 0,
+        "Bbox_width": 40,
+        "Bbox_height": 71,
+        "Image_id": "b803b744-2c85-4c84-a11b-6bb7213d76a9",
+        "Length_mm": 1833,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "161-0.33",
+        "Lower_left_corner": [
+            4,
+            574
+        ],
+        "Class_num": 0,
+        "Bbox_width": 157,
+        "Bbox_height": 109,
+        "Image_id": "b803b744-2c85-4c84-a11b-6bb7213d76a9",
+        "Length_mm": 4300,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "158-0.51",
+        "Lower_left_corner": [
+            687,
+            360
+        ],
+        "Class_num": 2,
+        "Bbox_width": 41,
+        "Bbox_height": 72,
+        "Image_id": "8bd500ae-39fc-49b9-86e6-617d25495da1",
+        "Length_mm": 1620,
+        "Width_mm": 922,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "158-0.51",
+        "Lower_left_corner": [
+            688,
+            358
+        ],
+        "Class_num": 0,
+        "Bbox_width": 42,
+        "Bbox_height": 73,
+        "Image_id": "8504c856-1dd6-4321-bb79-50a39f6f8e5b",
+        "Length_mm": 1894,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "158-0.61",
+        "Lower_left_corner": [
+            689,
+            359
+        ],
+        "Class_num": 0,
+        "Bbox_width": 42,
+        "Bbox_height": 74,
+        "Image_id": "7ff3ae4c-9f76-4bea-829c-5b206fcfe3fb",
+        "Length_mm": 1914,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "159-0.58",
+        "Lower_left_corner": [
+            690,
+            365
+        ],
+        "Class_num": 0,
+        "Bbox_width": 46,
+        "Bbox_height": 84,
+        "Image_id": "ebbb21b9-8230-4689-b286-683fab157a10",
+        "Length_mm": 2154,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "159-0.63",
+        "Lower_left_corner": [
+            692,
+            369
+        ],
+        "Class_num": 0,
+        "Bbox_width": 48,
+        "Bbox_height": 87,
+        "Image_id": "cd11de4f-b2fe-4e26-bf89-632d3f642d19",
+        "Length_mm": 2235,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "159-0.68",
+        "Lower_left_corner": [
+            692,
+            371
+        ],
+        "Class_num": 0,
+        "Bbox_width": 49,
+        "Bbox_height": 93,
+        "Image_id": "c5c3d555-817b-4d17-96dd-c8e7a9df1ffa",
+        "Length_mm": 2365,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "159-0.62",
+        "Lower_left_corner": [
+            693,
+            373
+        ],
+        "Class_num": 0,
+        "Bbox_width": 52,
+        "Bbox_height": 107,
+        "Image_id": "46d9f3af-d37a-4ee7-8684-51cb8231ae65",
+        "Length_mm": 2676,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "159-0.62",
+        "Lower_left_corner": [
+            692,
+            372
+        ],
+        "Class_num": 0,
+        "Bbox_width": 54,
+        "Bbox_height": 109,
+        "Image_id": "183410ed-9dcd-4784-b753-84b70a84a5b1",
+        "Length_mm": 2736,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "113-0.64",
+        "Lower_left_corner": [
+            513,
+            489
+        ],
+        "Class_num": 0,
+        "Bbox_width": 232,
+        "Bbox_height": 21,
+        "Image_id": "b538cb1c-64fe-4bf6-9168-81d2616bcc49",
+        "Length_mm": 5241,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "159-0.48",
+        "Lower_left_corner": [
+            694,
+            377
+        ],
+        "Class_num": 0,
+        "Bbox_width": 54,
+        "Bbox_height": 116,
+        "Image_id": "b538cb1c-64fe-4bf6-9168-81d2616bcc49",
+        "Length_mm": 2878,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "73-0.72",
+        "Lower_left_corner": [
+            510,
+            505
+        ],
+        "Class_num": 0,
+        "Bbox_width": 240,
+        "Bbox_height": 23,
+        "Image_id": "5ee90749-8337-4a35-a7cb-6a6234dfcc09",
+        "Length_mm": 5424,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "113-0.38",
+        "Lower_left_corner": [
+            512,
+            485
+        ],
+        "Class_num": 0,
+        "Bbox_width": 238,
+        "Bbox_height": 19,
+        "Image_id": "5ee90749-8337-4a35-a7cb-6a6234dfcc09",
+        "Length_mm": 5372,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "73-0.54",
+        "Lower_left_corner": [
+            539,
+            498
+        ],
+        "Class_num": 0,
+        "Bbox_width": 199,
+        "Bbox_height": 18,
+        "Image_id": "4962d49f-97d9-48a2-b05a-128fb9d1ba8c",
+        "Length_mm": 4495,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "93-0.52",
+        "Lower_left_corner": [
+            488,
+            521
+        ],
+        "Class_num": 0,
+        "Bbox_width": 257,
+        "Bbox_height": 29,
+        "Image_id": "4962d49f-97d9-48a2-b05a-128fb9d1ba8c",
+        "Length_mm": 5819,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "158-0.47",
+        "Lower_left_corner": [
+            695,
+            386
+        ],
+        "Class_num": 2,
+        "Bbox_width": 68,
+        "Bbox_height": 137,
+        "Image_id": "4962d49f-97d9-48a2-b05a-128fb9d1ba8c",
+        "Length_mm": 3082,
+        "Width_mm": 1530,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "93-0.58",
+        "Lower_left_corner": [
+            474,
+            543
+        ],
+        "Class_num": 0,
+        "Bbox_width": 289,
+        "Bbox_height": 31,
+        "Image_id": "f5fc31f8-c448-410f-a7ed-61e0ec2d83a2",
+        "Length_mm": 6539,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "158-0.51",
+        "Lower_left_corner": [
+            707,
+            402
+        ],
+        "Class_num": 2,
+        "Bbox_width": 67,
+        "Bbox_height": 149,
+        "Image_id": "f5fc31f8-c448-410f-a7ed-61e0ec2d83a2",
+        "Length_mm": 3352,
+        "Width_mm": 1507,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "159-0.49",
+        "Lower_left_corner": [
+            699,
+            392
+        ],
+        "Class_num": 0,
+        "Bbox_width": 71,
+        "Bbox_height": 158,
+        "Image_id": "f5fc31f8-c448-410f-a7ed-61e0ec2d83a2",
+        "Length_mm": 3897,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "93-0.68",
+        "Lower_left_corner": [
+            461,
+            568
+        ],
+        "Class_num": 0,
+        "Bbox_width": 317,
+        "Bbox_height": 35,
+        "Image_id": "21492a69-5d98-4331-b89a-b7a9489b249b",
+        "Length_mm": 7175,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "158-0.50",
+        "Lower_left_corner": [
+            709,
+            406
+        ],
+        "Class_num": 2,
+        "Bbox_width": 69,
+        "Bbox_height": 155,
+        "Image_id": "21492a69-5d98-4331-b89a-b7a9489b249b",
+        "Length_mm": 3487,
+        "Width_mm": 1552,
+        "Class_name": "patch"
+    },
+    {
+        "Object_id": "93-0.68",
+        "Lower_left_corner": [
+            459,
+            568
+        ],
+        "Class_num": 0,
+        "Bbox_width": 322,
+        "Bbox_height": 35,
+        "Image_id": "2ac41bab-b23c-403d-b448-49e31290403d",
+        "Length_mm": 7287,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "159-0.50",
+        "Lower_left_corner": [
+            699,
+            392
+        ],
+        "Class_num": 0,
+        "Bbox_width": 79,
+        "Bbox_height": 185,
+        "Image_id": "2ac41bab-b23c-403d-b448-49e31290403d",
+        "Length_mm": 4526,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "93-0.62",
+        "Lower_left_corner": [
+            464,
+            571
+        ],
+        "Class_num": 0,
+        "Bbox_width": 329,
+        "Bbox_height": 36,
+        "Image_id": "3f1e11c5-32b6-4b9f-a7bc-7440c6698106",
+        "Length_mm": 7446,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    },
+    {
+        "Object_id": "159-0.60",
+        "Lower_left_corner": [
+            704,
+            398
+        ],
+        "Class_num": 0,
+        "Bbox_width": 86,
+        "Bbox_height": 209,
+        "Image_id": "3f1e11c5-32b6-4b9f-a7bc-7440c6698106",
+        "Length_mm": 5085,
+        "Width_mm": 0,
+        "Class_name": "fissure"
+    }
+]

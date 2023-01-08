@@ -1,0 +1,7 @@
+train: A:/Documents/Roads/CURRENT_DATASET/train/images
+val: A:/Documents/Roads/CURRENT_DATASET/valid/images
+
+
+nc: 12
+names: ['fissure', 'large_pit', 'patch', 'small_pit', 'bad_sign', 'graffiti', 'bad_light', 
+        'bad_road_mark', 'dirty_stop', 'bad_garden', 'overflowing_bin', 'broken_border']
